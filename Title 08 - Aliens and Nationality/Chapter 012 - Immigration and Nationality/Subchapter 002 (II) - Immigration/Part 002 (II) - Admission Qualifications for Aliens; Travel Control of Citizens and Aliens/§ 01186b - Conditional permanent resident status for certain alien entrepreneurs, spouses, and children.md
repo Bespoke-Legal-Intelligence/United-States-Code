@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) the alien was otherwise not conforming to the requirements of section 1153(b)(5) of this title,
 
-> &emsp;then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
+> &emsp;then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alienchild) involved as of the date of the determination.
 
 #### (2) Hearing in removal proceeding
 
@@ -114,7 +114,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure tofile a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -252,7 +252,7 @@ In general.—With respect to each eligible alien described in subsection (b)(1)
 
 &emsp;&emsp;&emsp;"(i) the petition described in subsection (b)(1)(C) contains any material misrepresentation in the facts and information described in section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) and alleged in the petition with respect to a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation);
 
-&emsp;&emsp;&emsp;"(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewerthan 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
+&emsp;&emsp;&emsp;"(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
 
 &emsp;&emsp;&emsp;"(iii) on any of the dates described in subparagraph (D), the alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)(B)).
 
@@ -320,7 +320,7 @@ day period before second anniversary.—Except as provided in clause (ii), the p
 
 &emsp;&emsp;&emsp;"(ii)
 
-Date petitions for good cause.—Such a petition may be considered if filed after suchdate, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
+Date petitions for good cause.—Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in clause (i).
 
 &emsp;&emsp;"(D)
 
@@ -356,7 +356,7 @@ Determinations after petition.—If a petition is filed by an eligible alien in 
 
 &emsp;&emsp;"(F)
 
-Removal of conditional basis if favorable determination.—If the Attorney General renders an affirmative determination with respect to clauses (ii) and (iii) of subparagraph (E), and if the Attorney General renders a negative determination with respect to clause (i) of such subparagraph, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Removal of conditional basis if favorable determination.—If the Attorney General rendersan affirmative determination with respect to clauses (ii) and (iii) of subparagraph (E), and if the Attorney General renders a negative determination with respect to clause (i) of such subparagraph, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;"(G)
 
@@ -438,7 +438,7 @@ Petition.—In order for a conditional basis established under this section for 
 
 Determination.—In carrying out section 216A(c)(3) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)) with respect to an alien described in paragraph (1), the Attorney General, in lieu of the determination described in such section 216A(c)(3), shall make a determination, within 90 days of the date of such filing, whether—
 
-&emsp;&emsp;"(A) the petition described in paragraph (1) contains any material misrepresentation in the facts and information alleged in the petition with respect to the commercial enterprises included in the petition;
+&emsp;&emsp;"(A) the petition described in paragraph (1) contains any material misrepresentation in the factsand information alleged in the petition with respect to the commercial enterprises included in the petition;
 
 &emsp;&emsp;"(B) subject to subparagraphs (B) and (C) of section 11031(c)(1), all such enterprises, considered together, created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on either of the dates described in paragraph (3); and
 

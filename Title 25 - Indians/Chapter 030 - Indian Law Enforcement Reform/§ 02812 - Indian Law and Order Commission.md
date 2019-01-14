@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the Indian Law and Order Commission (referred to in this section as the "Commission").
+There is established a commission to be known as the Indian Law and Order Commission\(referred to in this section as the "Commission").
 
 #### (b) Membership
 
@@ -198,7 +198,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (A) In general
 
-&emsp;&emsp;On an affirmative vote of 2/3 of the members of the Commission, the Commissionmay select nongovernmental researchers and experts to assist the Commission in carrying out the duties of the Commission under this section.
+&emsp;&emsp;On an affirmative vote of 2/3 of the members of the Commission, the Commission may select nongovernmental researchers and experts to assist the Commission in carrying out the duties of the Commission under this section.
 
 #### (B) National Institute of Justice
 

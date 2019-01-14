@@ -24,7 +24,7 @@ If—
 
 #### (c) Forfeiture of accrued benefits derived from employer contributions
 
-No pension plan may provide that any part of a participant's accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable) is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply (1) to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit, or (2) to the extent that an accrued benefit is permitted to be forfeited in accordance with section 1053(a)(3)(D)(iii) of this title.
+No pension plan may provide that any part of a participant's accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable) is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply (1) to the accrued benefit of any participant unless, at thetime of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit, or (2) to the extent that an accrued benefit is permitted to be forfeited in accordance with section 1053(a)(3)(D)(iii) of this title.
 
 #### (d) Assignment or alienation of plan benefits
 
@@ -66,7 +66,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(iii) does not require the payment of benefits to an alternate payee which are required to be paid to another alternate payee under another order previously determined to be a qualified domestic relations order.
 
-(E)(i) A domestic relations order shall not be treated as failing to meet the requirements ofclause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
+(E)(i) A domestic relations order shall not be treated as failing to meet the requirements of clause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
 
 &emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
 
@@ -202,7 +202,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (f) Missing participants in terminated plans
 
-In the case of a plan covered by section 1350 of this title, upon termination of the plan, benefitsof missing participants shall be treated in accordance with section 1350 of this title.
+In the case of a plan covered by section 1350 of this title, upon termination of the plan, benefits of missing participants shall be treated in accordance with section 1350 of this title.
 
 #### (g) Funding-based limits on benefits and benefit accruals under single-employer plans
 
@@ -272,7 +272,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount of the payment which could be made without regard to this subsection, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title)of the maximum guarantee with respect to the participant under section 1322 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title) of the maximum guarantee with respect to the participant under section 1322 of this title.
 
 #### (ii) One-time application
 
@@ -292,7 +292,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;For purpose <sup>2</sup> of this paragraph, the term "prohibited payment" means—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -344,7 +344,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Prefunding balance or funding standard carryover balance may not be used
 
-&emsp;&emsp;No prefunding balance or funding standard carryover balance under section 1083(f) ofthis title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
+&emsp;&emsp;No prefunding balance or funding standard carryover balance under section 1083(f) of this title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
 
 #### (C) Deemed reduction of funding balances
 
@@ -406,7 +406,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Adjusted funding target attainment percentage
 
-&emsp;&emsp;The term "adjusted funding target attainment percentage" means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by theaggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
+&emsp;&emsp;The term "adjusted funding target attainment percentage" means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
 
 #### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
@@ -422,7 +422,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title).
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10),title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
 
 #### References in Text
 
@@ -508,7 +508,7 @@ Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) a
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
-Amendment by Pub. L. 113–159 applicable to plan years beginning after Dec. 31, 2014, except as otherwise provided, see section 2003(c)(3) of Pub. L. 113–159, set out as a note under section 436 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–159 applicable to plan years beginning after Dec. 31, 2014, except as otherwiseprovided, see section 2003(c)(3) of Pub. L. 113–159, set out as a note under section 436 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
@@ -560,7 +560,7 @@ Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provid
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

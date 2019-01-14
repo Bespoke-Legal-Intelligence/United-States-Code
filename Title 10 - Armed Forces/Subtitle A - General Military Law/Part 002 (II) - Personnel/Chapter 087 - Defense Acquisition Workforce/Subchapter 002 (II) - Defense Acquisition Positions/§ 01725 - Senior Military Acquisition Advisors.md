@@ -42,7 +42,7 @@ In general.—Selection of an officer for recommendation for appointment as a Se
 
 &emsp;(2)
 
-Officers eligible.—Officers shall be selected for recommendation for appointment as Senior Military Acquisition Advisors from among officers of the Defense Acquisition Corps who are serving in the grade of colonel or, in the case of the Navy, captain, and who have at least 12 years of acquisition experience. An officer selected for recommendation for appointment as a Senior Military Acquisition Advisor shall have at least 30 years of active commissioned service at the time of appointment.
+Officers eligible.—Officers shall be selected for recommendation for appointment as Senior Military Acquisition Advisors from among officers of the Defense Acquisition Corps who are serving in the grade of colonel or, in the case of the Navy, captain, and who have at least 12 years of acquisition experience. An officer selected for recommendationfor appointment as a Senior Military Acquisition Advisor shall have at least 30 years of active commissioned service at the time of appointment.
 
 &emsp;(3)
 

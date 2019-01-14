@@ -14,7 +14,7 @@ Rates and Other Terms.—A pipeline carrier shall also provide to any person, on
 
 (c)
 
-Limitation on Rate Increases and Changes to Service Terms.—A pipeline carriermay not increase any common carrier rates or change any common carrier service terms unless 20 days have expired after written or electronic notice is provided to any person who, within the previous 12 months—
+Limitation on Rate Increases and Changes to Service Terms.—A pipeline carrier may not increase any common carrier rates or change any common carrier service terms unless 20 days have expired after written or electronic notice is provided to any person who, within the previous 12 months—
 
 &emsp;(1) has requested such rates or terms under subsection (b); or
 
@@ -40,5 +40,5 @@ Provisions similar to those in this section were contained in section 11101 of t
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

@@ -42,7 +42,7 @@ To be eligible to enter into a cooperative agreement under this section, an orga
 
 #### (e) Applications
 
-An organization that desires to enter into a cooperative agreement under this section shallsubmit to the Secretary an application, in such form and in such manner as the Secretary shall require, that—
+An organization that desires to enter into a cooperative agreement under this section shall submit to the Secretary an application, in such form and in such manner as the Secretary shall require, that—
 
 &emsp;(1) demonstrates the capacity of the applicant, who may enter into a partnership with a local family violence, domestic violence, or dating violence service provider or community-based organization, to undertake the project involved;
 
@@ -120,7 +120,7 @@ Each organization entering into a cooperative agreement under this section shall
 
 #### Prior Provisions
 
-A prior section 10414, Pub. L. 98–457, title III, §314, as added Pub. L. 102–295, title III, §320, May 28, 1992, 106 Stat. 209, related to grants for public information campaigns, prior to the general amendment of this chapter by Pub. L. 111–320.
+A prior section 10414, Pub. L. 98–457, title III, §314, as added Pub. L. 102–295, title III, §320, May 28, 1992, 106Stat. 209, related to grants for public information campaigns, prior to the general amendment of this chapter by Pub. L. 111–320.
 
 #### Change of Name
 

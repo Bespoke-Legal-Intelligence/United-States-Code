@@ -84,7 +84,7 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 #### (2) Statute of limitations
 
-&emsp;If property becomes substantially worthless during a taxable year and any short sale of such property remains open at the time suchproperty becomes substantially worthless, then—
+&emsp;If property becomes substantially worthless during a taxable year and any short sale of such property remains open at the time such property becomes substantially worthless, then—
 
 &emsp;&emsp;(A) the statutory period for the assessment of any deficiency attributable to any part of the gain on such transaction shall not expire before the earlier of—
 
@@ -94,7 +94,7 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 &emsp;&emsp;(B) such deficiency may be assessed before the date applicable under subparagraph (A) notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, §1, 69 Stat. 717; Pub. L. 85–866, title I, §52(a), (b), Sept. 2, 1958, 72 Stat. 1643, 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(T), (2), title XIX, §1901(a)(137), Oct. 4, 1976, 90 Stat. 1732, 1787; Pub. L. 97–34, title V, §501(c), Aug. 13, 1981, 95 Stat. 326; Pub. L. 98–369, div. A, title X, §1001(b)(17), (e), July 18, 1984, 98 Stat. 1012; Pub. L. 105–34, title X, §1003(b)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 106–554, §1(a)(7) \[title IV, §401(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(3)(A), Mar. 9, 2002, 116 Stat. 54.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, §1, 69 Stat. 717; Pub. L. 85–866, title I, §52(a), (b), Sept. 2, 1958, 72 Stat. 1643, 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(T), (2), title XIX,§1901(a)(137), Oct. 4, 1976, 90 Stat. 1732, 1787; Pub. L. 97–34, title V, §501(c), Aug. 13, 1981, 95 Stat. 326; Pub. L. 98–369, div. A, title X, §1001(b)(17), (e), July 18, 1984, 98 Stat. 1012; Pub. L. 105–34, title X, §1003(b)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 106–554, §1(a)(7) \[title IV, §401(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(3)(A), Mar. 9, 2002, 116 Stat. 54.)
 
 #### Amendments
 

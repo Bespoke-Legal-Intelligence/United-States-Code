@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title,and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
-&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
+&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, ifthere is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
 &emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
@@ -62,7 +62,7 @@
 
 #### (1) Deadline
 
-&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k)), the Administratorshall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k)), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 #### (2) Procedure for disapproval
 
@@ -84,7 +84,7 @@
 
 #### (e) Local management programs; technical assistance
 
-If a State fails to submit a management program under subsection (b) or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).
+If a State fails to submit a management program under subsection (b) or the Administratordoes not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).
 
 #### (f) Technical assistance for States
 
@@ -120,7 +120,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (5) Priority for effective mechanisms
 
-&emsp;For each fiscal year beginning after September 30, 1987, the Administrator may give priority in making grants under this subsection, and shall give consideration in determining the Federal share of any such grant, to States which have implemented or are proposing to implement management programs which will—
+&emsp;For each fiscal year beginning after September 30, 1987, the Administrator may give priority in making grants under this subsection,and shall give consideration in determining the Federal share of any such grant, to States which have implemented or are proposing to implement management programs which will—
 
 &emsp;&emsp;(A) control particularly difficult or serious nonpoint source pollution problems, including, but not limited to, problems resulting from mining activities;
 
@@ -178,7 +178,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated to carry out subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
+There is authorized to be appropriated to carry out subsections (h) and (i) not to exceed$70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
 
 #### (k) Consistency of other programs and projects with management programs
 
@@ -234,7 +234,7 @@ Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), which directed the redes
 
 #### Change of Name
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of Houseof Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

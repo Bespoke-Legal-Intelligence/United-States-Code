@@ -30,7 +30,7 @@ Except as provided in subsection (d), the Presidential actions referred to in th
 
 &emsp;(13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-&emsp;&emsp;(A) the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\];
+&emsp;&emsp;(A) the Export Administration Act of 1979;
 
 &emsp;&emsp;(B) the Arms Export Control Act \[22 U.S.C. 2751 et seq.\];
 
@@ -54,13 +54,25 @@ The President may negotiate and enter into a binding agreement with a foreign go
 
 Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
 
-(Pub. L. 105–292, title IV, §405, Oct. 27, 1998, 112 Stat. 2806.)
+(Pub. L. 105–292, title IV, §405, Oct. 27, 1998, 112 Stat. 2806; Pub. L. 115–254, div. F, title VI, §1470(o), Oct. 5, 2018, 132 Stat. 3518.)
+
+#### Amendment of Subsection (a)(10)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(o), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (a)(10) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(10). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 

@@ -56,7 +56,7 @@ Attempt to convey to ensure property's preservation and use.—In any case in wh
 
 &emsp;(2)
 
-Disposition of funds.—Any funds obtained by the Secretary in connection with the conveyance of any historic property pursuant to paragraph (1) shall be deposited in the Historic Preservation Fund and shall remain available in the Historic Preservation Fund until appropriated by Congress to carry out this division.
+Disposition of funds.—Any funds obtained by the Secretary in connection withthe conveyance of any historic property pursuant to paragraph (1) shall be deposited in the Historic Preservation Fund and shall remain available in the Historic Preservation Fund until appropriated by Congress to carry out this division.
 
 (i)
 

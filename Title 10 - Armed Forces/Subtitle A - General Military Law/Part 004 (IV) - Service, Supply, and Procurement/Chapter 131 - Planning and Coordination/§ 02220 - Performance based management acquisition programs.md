@@ -66,7 +66,7 @@ Pub. L. 103–355, title V, §5001(b), Oct. 13, 1994, 108 Stat. 3350, provided t
 
 &emsp;"(1) relate pay to performance (including the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, as added by subsection (a)); and
 
-&emsp;"(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant tosection 2220(a) of title 10, United States Code, as added by subsection (a)."
+&emsp;"(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, United States Code, as added by subsection (a)."
 
 #### Recommended Legislation
 

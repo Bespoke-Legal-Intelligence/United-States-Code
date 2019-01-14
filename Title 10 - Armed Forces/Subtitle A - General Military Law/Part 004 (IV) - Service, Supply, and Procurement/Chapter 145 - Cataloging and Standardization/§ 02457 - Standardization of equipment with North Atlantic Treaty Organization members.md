@@ -108,7 +108,7 @@ In the introductory matter of subsection (a), before clause (1), the word "equip
 
 In subsection (a)(1), the word "undertake" is omitted as surplus. The word "members" is substituted for "countries" for consistency. The words "including the United States" are omitted as unnecessary.
 
-In subsection (a)(2), the words "The Secretary of Defense shall also" are omitted as unnecessary. The word "maintain" is substituted for "develop" because it is more appropriate.
+In subsection (a)(2), the words "The Secretary of Defense shall also" are omitted as unnecessary. The word"maintain" is substituted for "develop" because it is more appropriate.
 
 In subsection (a)(3), the words "of other members of the North Atlantic Treaty Organization whenever such equipment is to be used by personnel of the Armed Forces of the United States stationed in Europe under the terms of the North Atlantic Treaty" are omitted as unnecessary because of the restatement. The words "Such procedures shall also take into . . . to be procured" are omitted as unnecessary. The text of section 814(a)(1) (4th, last sentences) is omitted as executed.
 

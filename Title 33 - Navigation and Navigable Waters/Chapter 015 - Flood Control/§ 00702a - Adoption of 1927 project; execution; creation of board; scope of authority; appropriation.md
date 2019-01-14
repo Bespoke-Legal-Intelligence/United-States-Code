@@ -16,5 +16,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Abandonment and Repeal of Projects
 
-For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Extension and backprotection levee extending from head of Eudora Floodway north to Arkansas River and repeal of provisions relating to prosecution of work, see section 702a–12 of this title.
+For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Extension and back protection levee extending from head of Eudora Floodway north to Arkansas River and repeal of provisions relating to prosecution of work, see section 702a–12 of this title.
 

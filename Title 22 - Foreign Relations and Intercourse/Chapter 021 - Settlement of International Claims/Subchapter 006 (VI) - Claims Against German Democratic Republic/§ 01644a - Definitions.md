@@ -14,7 +14,7 @@ As used in this subchapter—
 
 (4) The term "German Democratic Republic" includes the government of any political subdivision, agency, or instrumentality thereof or under its control.
 
-(5) The term "Claims Fund" is the special fund established in the Treasury of the United Statescomposed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
+(5) The term "Claims Fund" is the special fund established in the Treasury of the United States composed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
 
 (Mar. 10, 1950, ch. 54, title VI, §601, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 

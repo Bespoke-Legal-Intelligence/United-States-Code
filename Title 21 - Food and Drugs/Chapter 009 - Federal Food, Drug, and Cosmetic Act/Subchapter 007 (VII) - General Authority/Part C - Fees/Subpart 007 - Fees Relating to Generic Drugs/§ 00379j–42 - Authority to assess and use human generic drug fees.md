@@ -64,7 +64,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;Subject to clause (ii), a drug master file fee shall be due on the earlier of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date on which the first generic drug submission is submitted that references the associated Type II activepharmaceutical ingredient drug master file; or
+&emsp;&emsp;&emsp;&emsp;(I) the date on which the first generic drug submission is submitted that references the associated Type II active pharmaceutical ingredient drug master file; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the date on which the drug master file holder requests the initial completeness assessment.
 
@@ -128,7 +128,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (iii) Facilities producing both active pharmaceutical ingredients and finished dosage forms
 
-&emsp;&emsp;&emsp;Each person that owns a facility identified in at least one generic drug submission that is approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii)shall be subject only to the fee attributable to the manufacture of the finished dosage forms for that facility.
+&emsp;&emsp;&emsp;Each person that owns a facility identified in at least one generic drug submission that is approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject only to the fee attributable to the manufacture of the finished dosage forms for that facility.
 
 #### (B) Amount
 
@@ -202,7 +202,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(E)(i) Thirty-five percent shall be derived from fees under subsection (a)(5) (relating to generic drug applicant program fees). For purposes of this subparagraph, if a person has affiliates, a single program fee shall be assessed with respect to that person, including its affiliates, and may be paid by that person or any one of its affiliates. The Secretary shall determine the fees as follows:
 
-&emsp;&emsp;&emsp;(I) If a person (including its affiliates) owns at least one but not more than 5 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a small business generic drug applicant program fee equal toone-tenth of the large size operation generic drug applicant program fee.
+&emsp;&emsp;&emsp;(I) If a person (including its affiliates) owns at least one but not more than 5 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a small business generic drug applicant program fee equal to one-tenth of the large size operation generic drug applicant program fee.
 
 &emsp;&emsp;&emsp;(II) If a person (including its affiliates) owns at least 6 but not more than 19 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a medium size operation generic drug applicant program fee equal to two-fifths of the large size operation generic drug applicant program fee.
 
@@ -348,7 +348,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (ii) Nonreceival
 
-&emsp;&emsp;&emsp;If the facility fee is not paid within 20 calendar days of the Secretary providing the notification under clause (i), the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
+&emsp;&emsp;&emsp;If the facility fee is not paid within 20 calendar days of the Secretary providingthe notification under clause (i), the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
 
 #### (5) Generic drug applicant program fee
 
@@ -486,7 +486,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 115–52, §303(a)(5)(A)(iii), substituted "is id
 
 Subsec. (a)(4)(A)(iii). Pub. L. 115–52, §303(a)(5)(A)(i), (iv), substituted "in at least one generic drug submission that is" for ", or intended to be identified, in at least one generic drug submission that is pending or" and "only to the fee attributable to the manufacture of the finished dosage forms" for "to fees under both such clauses".
 
-Subsec. (a)(4)(C), (D). Pub. L. 115–52, §303(a)(5)(B), amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) related to notice and fee due date for fiscal years 2013 to 2017, respectively.
+Subsec. (a)(4)(C), (D). Pub. L. 115–52, §303(a)(5)(B), amended subpars. (C) and (D) generally. Prior toamendment, subpars. (C) and (D) related to notice and fee due date for fiscal years 2013 to 2017, respectively.
 
 Subsec. (a)(5), (6). Pub. L. 115–52, §303(a)(6), (7), added par. (5) and redesignated former par. (5) as (6).
 

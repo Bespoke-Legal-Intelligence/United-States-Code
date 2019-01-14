@@ -82,7 +82,7 @@ For purposes of this section:
 
 &emsp;The term "exclude" from participation means—
 
-&emsp;&emsp;(A) in connection with a representative, to prohibit from engaging in representation of an applicant for, or recipient of, benefits, as a representative payee under section 405(j) or section 1383(a)(2)(A)(ii) of this title, or otherwise as a representative, in any hearing or other proceeding relating to entitlement to benefits; and
+&emsp;&emsp;(A) in connection with a representative, to prohibit from engaging in representation of an applicant for, or recipient of, benefits, as a representative payee under section 405(j) or section 1383(a)(2)(A)(ii) of this title, orotherwise as a representative, in any hearing or other proceeding relating to entitlement to benefits; and
 
 &emsp;&emsp;(B) in connection with a health care provider, to prohibit from providing items or services to an applicant for, or recipient of, benefits for the purpose of assisting such applicant or recipient in demonstrating disability.
 

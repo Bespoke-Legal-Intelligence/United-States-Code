@@ -8,13 +8,13 @@ Congress makes the following findings:
 
 &emsp;(3) Despite significant limitations in resources, minority institutions provide an important educational opportunity for minority students, particularly in science and engineering fields. Aid to minority institutions is a good way to address the underrepresentation of minorities in science and technological fields.
 
-&emsp;(4) There is a strong Federal interest in improving science and engineering programs at minority institutions as such programs lag behind in program offerings and in student enrollment compared to such programs at other institutions of higher education.
+&emsp;(4) There is a strong Federal interest in improving science and engineering programs atminority institutions as such programs lag behind in program offerings and in student enrollment compared to such programs at other institutions of higher education.
 
 (Pub. L. 89–329, title III, §350, as added Pub. L. 105–244, title III, §307(a), Oct. 7, 1998, 112 Stat. 1647.)
 
 #### Prior Provisions
 
-A prior section 1067, Pub. L. 89–329, title III, §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100Stat. 1304, and amended, which related to waiver authority and reporting requirement, was renumbered section 392 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068a of this title.
+A prior section 1067, Pub. L. 89–329, title III, §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304, and amended, which related to waiver authority and reporting requirement, was renumbered section 392 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068a of this title.
 
 Another prior section 1067, Pub. L. 89–329, title III, §342, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, set waiver authority and reporting requirements for this part, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

@@ -11,30 +11,36 @@
 
 |  |  |
 | :--- | ---: |
-| [6911\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006911%20-%20Transfer%20of%20Department%20functions%20to%20Secretary%20of%20Agriculture.md) | Transfer of Department functions to Secretary of Agriculture. |
+| [6911\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006911%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28a%29%281%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
 | [6912\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006912%20-%20Authority%20of%20Secretary%20to%20delegate%20transferred%20functions.md) | Authority of Secretary to delegate transferred functions. |
-| [6913\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006913%20-%20Reductions%20in%20number%20of%20Department%20personnel.md) | Reductions in number of Department personnel. |
-| [6914\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006914%20-%20Consolidation%20of%20headquarters%20offices.md) | Consolidation of headquarters offices. |
+| 6913, 6914. | Repealed. |
 | [6915\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006915%20-%20Combination%20of%20field%20offices.md) | Combination of field offices. |
 | [6916\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006916%20-%20Improvement%20of%20information%20sharing.md) | Improvement of information sharing. |
-| [6917\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006917%20-%20Reports%20by%20Secretary.md) | Reports by Secretary. |
+| [6917\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006917%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28a%29%284%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
 | [6918\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006918%20-%20Assistant%20Secretaries%20of%20Agriculture.md) | Assistant Secretaries of Agriculture. |
 | [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Military%20Veterans%20Agricultural%20Liaison.md) | Military Veterans Agricultural Liaison. |
 | [6920\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006920%20-%20Office%20of%20Energy%20Policy%20and%20New%20Uses.md) | Office of Energy Policy and New Uses. |
 | [6921\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006921%20-%20Office%20of%20Tribal%20Relations.md) | Office of Tribal Relations. |
+| [6922\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006922%20-%20Office%20of%20Homeland%20Security.md) | Office of Homeland Security. |
+| [6923\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006923%20-%20Office%20of%20Urban%20Agriculture%20and%20Innovative%20Production.md) | Office of Urban Agriculture and Innovative Production. |
+| [6924\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006924%20-%20Food%20Loss%20and%20Waste%20Reduction%20Liaison.md) | Food Loss and Waste Reduction Liaison. |
+| [6925\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006925%20-%20Food%20Access%20Liaison.md) | Food Access Liaison. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—FARM AND FOREIGN AGRICULTURAL SERVICES
+#### SUBCHAPTER II—FARM PRODUCTION AND CONSERVATION
 
 |  |  |
 | :--- | ---: |
-| [6931\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006931%20-%20Under%20Secretary%20of%20Agriculture%20for%20Farm%20and%20Foreign%20Agricultural%20Services.md) | Under Secretary of Agriculture for Farm and Foreign Agricultural Services. |
-| [6932\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006932%20-%20Consolidated%20Farm%20Service%20Agency.md) | Consolidated Farm Service Agency. |
-| [6932a.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006932a%20-%20Prohibition%20on%20closure%20or%20relocation%20of%20county%20offices%20for%20the%20Farm%20Service%20Agency.md) | Prohibition on closure or relocation of county offices for the Farm Service Agency. |
-| [6933\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006933%20-%20Office%20of%20Risk%20Management.md) | Office of Risk Management. |
-| [6934\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006934%20-%20Office%20of%20Advocacy%20and%20Outreach.md) | Office of Advocacy and Outreach. |
-| [6935\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006935%20-%20Under%20Secretary%20of%20Agriculture%20for%20Trade%20and%20Foreign%20Agricultural%20Affairs.md) | Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs. |
+| [6931\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006931%20-%20Under%20Secretary%20of%20Agriculture%20for%20Farm%20Production%20and%20Conservation.md) | Under Secretary of Agriculture for Farm Production and Conservation. |
+| [6932\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006932%20-%20Farm%20Service%20Agency.md) | Farm Service Agency. |
+| [6932a.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006932a%20-%20Prohibition%20on%20closure%20or%20relocation%20of%20county%20offices%20for%20the%20Farm%20Service%20Agency.md) | Prohibition on closure or relocation of county offices for the Farm Service Agency. |
+| [6933\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006933%20-%20Office%20of%20Risk%20Management.md) | Office of Risk Management. |
+| [6934\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006934%20-%20Office%20of%20Partnerships%20and%20Public%20Engagement.md) | Office of Partnerships and Public Engagement. |
+| [6934a.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006934a%20-%20Beginning%20farmer%20and%20rancher%20coordination.md) | Beginning farmer and rancher coordination. |
+| [6934b.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006934b%20-%20Agricultural%20Youth%20Organization%20Coordinator.md) | Agricultural Youth Organization Coordinator. |
+| [6935\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006935%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28b%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
+| [6936\.](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/%C2%A7%2006936%20-%20Natural%20Resources%20Conservation%20Service.md) | Natural Resources Conservation Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +54,7 @@
 | [6943\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006943%20-%20Rural%20Housing%20and%20Community%20Development%20Service.md) | Rural Housing and Community Development Service. |
 | [6944\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006944%20-%20Rural%20Business%20and%20Cooperative%20Development%20Service.md) | Rural Business and Cooperative Development Service. |
 | [6945\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006945%20-%20Rural%20Development%20Disaster%20Assistance%20Fund.md) | Rural Development Disaster Assistance Fund. |
+| [6946\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006946%20-%20Rural%20Health%20Liaison.md) | Rural Health Liaison. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,9 +73,9 @@
 |  |  |
 | :--- | ---: |
 | [6961\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006961%20-%20Under%20Secretary%20of%20Agriculture%20for%20Natural%20Resources%20and%20Environment.md) | Under Secretary of Agriculture for Natural Resources and Environment. |
-| [6962\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006962%20-%20Natural%20Resources%20Conservation%20Service.md) | Natural Resources Conservation Service. |
+| [6962\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006962%20-%20Transferred.md) | Transferred. |
 | [6962a.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006962a%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
-| [6963\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006963%20-%20Reorganization%20of%20Forest%20Service.md) | Reorganization of Forest Service. |
+| [6963\.](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/%C2%A7%2006963%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28a%29%285%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,7 +84,7 @@
 |  |  |
 | :--- | ---: |
 | [6971\.](Subchapter%20006%20%28VI%29%20-%20Research%2C%20Education%2C%20and%20Economics/%C2%A7%2006971%20-%20Under%20Secretary%20of%20Agriculture%20for%20Research%2C%20Education%2C%20and%20Economics.md) | Under Secretary of Agriculture for Research, Education, and Economics. |
-| [6972\.](Subchapter%20006%20%28VI%29%20-%20Research%2C%20Education%2C%20and%20Economics/%C2%A7%2006972%20-%20Program%20staff.md) | Program staff. |
+| [6972\.](Subchapter%20006%20%28VI%29%20-%20Research%2C%20Education%2C%20and%20Economics/%C2%A7%2006972%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28a%29%286%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -117,13 +124,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VIII–B—TRADE AND FOREIGN AGRICULTURAL AFFAIRS
+
+|  |  |
+| :--- | ---: |
+| [7007\.](Subchapter%20008%E2%80%93B%20%28VIII%E2%80%93B%29%20-%20Trade%20and%20Foreign%20Agricultural%20Affairs/%C2%A7%2007007%20-%20Under%20Secretary%20of%20Agriculture%20for%20Trade%20and%20Foreign%20Agricultural%20Affairs.md) | Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IX—MISCELLANEOUS REORGANIZATION PROVISIONS
 
 |  |  |
 | :--- | ---: |
 | [7011\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/%C2%A7%2007011%20-%20Successorship%20provisions%20relating%20to%20bargaining%20units%20and%20exclusive%20representatives.md) | Successorship provisions relating to bargaining units and exclusive representatives. |
 | [7012\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/%C2%A7%2007012%20-%20Purchase%20of%20American-made%20equipment%20and%20products.md) | Purchase of American-made equipment and products. |
-| [7013\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/%C2%A7%2007013%20-%20Proposed%20conforming%20amendments.md) | Proposed conforming amendments. |
+| [7013\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/%C2%A7%2007013%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712414%28a%29%287%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204981.md) | Repealed. |
 | [7014\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/%C2%A7%2007014%20-%20Termination%20of%20authority.md) | Termination of authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -148,7 +163,7 @@
 - [&sect; 06901 - Purpose](%C2%A7%2006901%20-%20Purpose.md)
 - [&sect; 06902 - Definitions](%C2%A7%2006902%20-%20Definitions.md)
 - [Subchapter 001 (I) - General Reorganization Authorities](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/README.md)
-- [Subchapter 002 (II) - Farm and Foreign Agricultural Services](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/README.md)
+- [Subchapter 002 (II) - Farm Production and Conservation](Subchapter%20002%20%28II%29%20-%20Farm%20Production%20and%20Conservation/README.md)
 - [Subchapter 003 (III) - Rural Economic and Community Development](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/README.md)
 - [Subchapter 004 (IV) - Food, Nutrition, and Consumer Services](Subchapter%20004%20%28IV%29%20-%20Food%2C%20Nutrition%2C%20and%20Consumer%20Services/README.md)
 - [Subchapter 005 (V) - Natural Resources and Environment](Subchapter%20005%20%28V%29%20-%20Natural%20Resources%20and%20Environment/README.md)
@@ -156,5 +171,6 @@
 - [Subchapter 007 (VII) - Food Safety](Subchapter%20007%20%28VII%29%20-%20Food%20Safety/README.md)
 - [Subchapter 008 (VIII) - National Appeals Division](Subchapter%20008%20%28VIII%29%20-%20National%20Appeals%20Division/README.md)
 - [Subchapter 008&#8211;A (VIII&#8211;A) - Marketing and Regulatory Programs](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Marketing%20and%20Regulatory%20Programs/README.md)
+- [Subchapter 008&#8211;B (VIII&#8211;B) - Trade and Foreign Agricultural Affairs](Subchapter%20008%E2%80%93B%20%28VIII%E2%80%93B%29%20-%20Trade%20and%20Foreign%20Agricultural%20Affairs/README.md)
 - [Subchapter 009 (IX) - Miscellaneous Reorganization Provisions](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/README.md)
 - [Subchapter 010 (X) - Freedom to E-File](Subchapter%20010%20%28X%29%20-%20Freedom%20to%20E-File/README.md)

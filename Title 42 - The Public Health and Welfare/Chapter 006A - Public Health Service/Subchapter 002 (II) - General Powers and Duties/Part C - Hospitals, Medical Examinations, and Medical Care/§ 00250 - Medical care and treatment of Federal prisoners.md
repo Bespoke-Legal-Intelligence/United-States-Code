@@ -1,6 +1,6 @@
 ### §250. Medical care and treatment of Federal prisoners
 
-The Service shall supervise and furnish medical treatment and other necessary medical, psychiatric, and related technical and scientific services, authorized by section 4005 of title 18, in penal and correctional institutions of the United States.
+The Service shall supervise and furnish medical treatment and other necessary medical, psychiatric, and related technical and scientific services, authorized by section 4005 of title 18, inpenal and correctional institutions of the United States.
 
 (July 1, 1944, ch. 373, title III, §323, 58 Stat. 697.)
 

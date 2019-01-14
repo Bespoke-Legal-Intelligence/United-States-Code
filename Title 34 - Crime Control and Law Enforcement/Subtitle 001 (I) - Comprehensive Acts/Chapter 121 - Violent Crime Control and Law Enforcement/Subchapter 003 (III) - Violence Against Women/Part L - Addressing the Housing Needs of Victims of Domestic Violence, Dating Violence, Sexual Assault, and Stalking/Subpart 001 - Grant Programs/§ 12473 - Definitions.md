@@ -60,7 +60,7 @@ For purposes of this subpart—
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in par. (1)(E), (F), is Pub. L. 101–625,Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title VIII of the Act, known as the AIDS Housing Opportunity Act, is classified generally to chapter 131 (§12901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in par. (1)(E), (F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title VIII of the Act, known as the AIDS Housing Opportunity Act, is classified generally to chapter 131 (§12901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in par. (1)(G), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 

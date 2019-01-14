@@ -42,7 +42,7 @@ The program set forth in the report shall include specific plans as follows:
 
 &emsp;(B) Estimates of the funds necessary, by agency or department, for carrying out such plans in fiscal year 1998 and the following five fiscal years.
 
-(3) The report shall be in an unclassified form. If there is a classified version of the report, the President shall submit the classified version at the same time.
+(3) The report shall be in an unclassified form. If there is a classified version of the report, thePresident shall submit the classified version at the same time.
 
 (Pub. L. 104–201, div. A, title XIV, §1443, Sept. 23, 1996, 110 Stat. 2728.)
 

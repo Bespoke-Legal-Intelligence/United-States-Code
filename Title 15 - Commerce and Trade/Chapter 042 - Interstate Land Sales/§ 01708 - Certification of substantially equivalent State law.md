@@ -18,7 +18,7 @@
 
 #### (b) Filing of State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements; acceptance by Director
 
-After the Director has certified a State under subsection (a), the Director shall accept for filing under sections 1704 through 1707 of this title (and declare effective as the Federal statement of record and property report which shall be used in all States in which the lots are offered for sale or lease) disclosure materials found acceptable, and any related documentation required, by State authorities in connection with the sale or lease of lots located within the State. The Director may accept for such filing, and declare effective as the Federal statement of record and property report, such materials and documentation found acceptable by the State in connection with the sale or lease of lots located outside that State. Nothing in this subsectionshall preclude the Director from exercising the authority conferred by subsections (d) and (e) of section 1706 of this title.
+After the Director has certified a State under subsection (a), the Director shall accept for filing under sections 1704 through 1707 of this title (and declare effective as the Federal statement of record and property report which shall be used in all States in which the lots are offered for sale or lease) disclosure materials found acceptable, and any related documentation required, by State authorities in connection with the sale or lease of lots located within the State. The Director may accept for such filing, and declare effective as the Federal statement of record and property report, such materials and documentation found acceptable by the State in connection with the sale or lease of lots located outside that State. Nothing in this subsection shall preclude the Director from exercising the authority conferred by subsections (d) and (e) of section 1706 of this title.
 
 #### (c) Notice to State upon failure to meet requirements and remedial action necessary for certification
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date
 
-Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 ofPub. L. 90–448, set out as a note under section 1701 of this title.
 

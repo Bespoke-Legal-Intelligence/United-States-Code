@@ -16,7 +16,7 @@
 
 #### (C) Other criminal laws
 
-&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Federated States of Micronesia related to terrorism, espionage, racketeer influenced and corrupt organizations, and financial transactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
+&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Federated States of Micronesia related to terrorism, espionage, racketeer influenced and corrupt organizations,and financial transactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
 
 #### (2) Technical and training assistance
 
@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Federated States of Micronesia which have an impact upon United States jurisdictions, and propose measures which the United States and the Federated States of Micronesia should take in order better to prevent and prosecute violations of the laws of theUnited States and the Federated States of Micronesia. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Federated States of Micronesia.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Federated States of Micronesia which have an impact upon United States jurisdictions, and propose measures which the United States and the Federated States of Micronesia should take in order better to prevent and prosecute violations of the laws of the United States and the Federated States of Micronesia. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Federated States of Micronesia.
 
 #### (b) Economic development plans review process
 

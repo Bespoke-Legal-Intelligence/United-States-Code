@@ -46,7 +46,7 @@ Contractual obligation.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
+In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract oragreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
 
 &emsp;&emsp;&emsp;(i) any project funded under this title; and
 
@@ -94,7 +94,7 @@ Inclusion in other plans.—Each regionally significant tribal transportation pr
 
 &emsp;(4)
 
-Inclusion in state programs.—The approved tribal transportation program, Federallands transportation program, and Federal lands access program transportation improvement programs shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
+Inclusion in state programs.—The approved tribal transportation program, Federal lands transportation program, and Federal lands access program transportation improvement programs shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
 
 &emsp;(5)
 
@@ -150,7 +150,7 @@ Funding.—
 
 &emsp;&emsp;(A)
 
-In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
+In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and otherfederally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
 
 &emsp;&emsp;(B)
 
@@ -194,7 +194,7 @@ Credit.—The funds described in paragraph (1) shall be credited back to the loa
 
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -250,7 +250,7 @@ Eligible Projects.—An eligible project under the program shall be a single con
 
 &emsp;&emsp;"(C) a determination that the project is categorically excluded; and
 
-&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given to projects with an estimated cost equal to or exceeding $50,000,000.
+&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given toprojects with an estimated cost equal to or exceeding $50,000,000.
 
 "(d)
 

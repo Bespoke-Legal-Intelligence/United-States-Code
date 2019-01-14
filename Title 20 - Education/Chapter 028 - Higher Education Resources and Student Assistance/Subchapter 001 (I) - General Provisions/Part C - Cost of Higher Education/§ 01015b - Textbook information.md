@@ -88,7 +88,7 @@ To the maximum extent practicable, each institution of higher education receivin
 
 &emsp;&emsp;(A) if the International Standard Book Number is not available for such college textbook or supplemental material, then the institution shall include in the Internet course schedule the author, title, publisher, and copyright date for such college textbook or supplemental material; and
 
-&emsp;&emsp;(B) if the institution determines that the disclosure of the information described in this subsection is not practicable for a college textbook or supplemental material, then the institution shall so indicate byplacing the designation "To Be Determined" in lieu of the information required under this subsection; and
+&emsp;&emsp;(B) if the institution determines that the disclosure of the information described in this subsection is not practicable for a college textbook or supplemental material, then the institution shall so indicate by placing the designation "To Be Determined" in lieu of the information required under this subsection; and
 
 &emsp;(2) if applicable, include on the institution's written course schedule a notice that textbook information is available on the institution's Internet course schedule, and the Internet address for such schedule.
 

@@ -6,7 +6,7 @@ Grade on Transfer.—Unless entitled to a higher grade under another provision o
 
 (b)
 
-Effect of Subsequent Recall to Active Status.—(1) If a member of the Retired Reserve who is a commissioned officer is recalled to an active status in the Selected Reserve of the Ready Reserve under section 10145(d) of this title and completes not less than two years of service in such active status, the member is entitled to an adjustment in the retired grade of the member in the manner provided in section 1370(d) of this title.
+Effect of Subsequent Recall to Active Status.—(1) If a member of the Retired Reservewho is a commissioned officer is recalled to an active status in the Selected Reserve of the Ready Reserve under section 10145(d) of this title and completes not less than two years of service in such active status, the member is entitled to an adjustment in the retired grade of the member in the manner provided in section 1370(d) of this title.
 
 (2) The Secretary concerned may reduce the two-year service requirement specified in paragraph (1) in the case of a member who—
 

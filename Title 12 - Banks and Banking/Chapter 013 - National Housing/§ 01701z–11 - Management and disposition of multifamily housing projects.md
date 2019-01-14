@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (3) Formerly subsidized project
 
-&emsp;The term "formerly subsidized project" means a multifamily housing project owned bythe Secretary that was a subsidized project immediately prior to its acquisition by the Secretary.
+&emsp;The term "formerly subsidized project" means a multifamily housing project owned by the Secretary that was a subsidized project immediately prior to its acquisition by the Secretary.
 
 #### (4) Unsubsidized project
 
@@ -76,7 +76,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) by low-income families other than very low-income families, the rent does not exceed 30 percent of 80 percent of the area median income, as determined by the Secretary, with adjustments for smaller and larger families; or
 
-&emsp;&emsp;(B) the unit, or the family residing in the unit, is receiving assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
+&emsp;&emsp;(B) the unit, or the family residing in the unit, is receiving assistance under section 8of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 
 #### (6) Low-income families and very low-income families
 
@@ -196,7 +196,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (B) Subsidized or formerly subsidized projects receiving rental assistance
 
-&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subsection (b)(2)(D) that is not subject to subparagraph (A)—
+&emsp;&emsp;In the case of a subsidized or formerly subsidized project referred to in subsection\(b)(2)(D) that is not subject to subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) the contract shall be sufficient to assist at least all units in the project that are covered, or were covered immediately before foreclosure on or acquisition of the project by the Secretary, by an assistance contract under any of the provisions referred to in such subsection, unless the Secretary acts pursuant to provisions of subparagraph (C); and
 
@@ -436,13 +436,13 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 &emsp;&emsp;(B) if the sale transaction involves the provision of any additional subsidy funds by the Secretary or a recasting of the mortgage,
 
-> &emsp;unless such sale is made as part of a transaction that will ensure that the project will continue to operate, at least until the maturity date of the loan or mortgage, in a manner that will provide rental housing on terms atleast as advantageous to existing and future tenants as the terms required by the program under which the loan or mortgage was made or insured prior to the proposed sale of the project.
+> &emsp;unless such sale is made as part of a transaction that will ensure that the project will continue to operate, at least until the maturity date of the loan or mortgage, in a manner that will provide rental housing on terms at least as advantageous to existing and future tenants as the terms required by the program under which the loan or mortgage was made or insured prior to the proposed sale of the project.
 
 #### (3) Mortgage sales to State and local governments
 
 &emsp;Notwithstanding any provision of law that requires competitive sales or bidding, the Secretary may carry out negotiated sales of mortgages held by the Secretary, without the competitive selection of purchasers or intermediaries, to units of general local government or State agencies, or groups of investors that include at least one such unit of general local government or State agency, if the negotiations are conducted with such agencies, except that—
 
-&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
+&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicablemortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
 
 &emsp;&emsp;(B) the sales prices for such mortgages shall be, in the determination of the Secretary, the best prices that may be obtained for such mortgages from a unit of general local government or State agency, consistent with the expectation and intention that the projects financed will be retained for use under the applicable mortgage insurance program for the life of the initial mortgage insurance contract.
 
@@ -498,13 +498,13 @@ The National Housing Act, referred to in subsecs. (a)(1), (b)(1), (e)(3)(A), and
 
 Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is section 183(c) of Pub. L. 100–242, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §582(a)(2), Oct. 21, 1998, 112 Stat. 2643.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and\(e)(1)(D)(i)(VI), (VII), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted section 1701s of this title and amended sections 1451 and 1465 of Title 42.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and (e)(1)(D)(i)(VI), (VII), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted section 1701s of this title and amended sections 1451 and 1465 of Title 42.
 
 Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)(2)(D)(iii) and (e)(1)(D)(i)(V), was classified to section 1421b of Title 42 and was omitted from the Code following the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(2)(E), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, probably means subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, which is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of the Act is classified principally to part A (§12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of theAct is classified principally to part A (§12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (f)(9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -622,11 +622,11 @@ Pub. L. 109–171, title II, §§2001, 2002, Feb. 8, 2006, 120 Stat. 7, 8, provi
 
 "(a)
 
-Discount Sales.—Notwithstanding any other provision of law, except for affordability requirementsfor the elderly and disabled required by statute, disposition by the Secretary of a multifamily real property during fiscal years 2006 through 2010 through a discount sale under sections 207(l) or 246 of the National Housing Act (12 U.S.C. 1713(l), 1715z–11), section 203 of the Housing and Community Development Amendments of 1978 (12 U.S.C. 1701z–11), or section 204 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z–11a), shall be subject to the availability of appropriations to the extent that the property market value exceeds the sale proceeds. If the multifamily real property is sold, during such fiscal years, for an amount equal to or greater than the property market value then the transaction is not subject to the availability of appropriations.
+Discount Sales.—Notwithstanding any other provision of law, except for affordability requirements for the elderly and disabled required by statute, disposition by the Secretary of a multifamily real property during fiscal years 2006 through 2010 through a discount sale under sections 207(l) or 246 of the National Housing Act (12 U.S.C. 1713(l), 1715z–11), section 203 of the Housing and Community Development Amendments of 1978 (12 U.S.C. 1701z–11), or section 204 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z–11a), shall be subject to the availability of appropriations to the extent that the property market value exceeds the sale proceeds. If the multifamily real property is sold, during such fiscal years, for an amount equal to or greater than the property market value then the transaction is not subject to the availability of appropriations.
 
 "(b)
 
-Discount Loan Sales.—Notwithstanding any other provision of law and in accordance with the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), a discount loan sale during fiscal years 2006 through 2010 under section 207(k) of the National Housing Act (12 U.S.C. 1713(k)), section 203(k) of the Housing and Community Development Amendments of 1978 (12 U.S.C. 1701z–11(k)), or section 204(a) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z–11a(a)), shall be subject to the availability of appropriations to the extent that the loan market value exceeds the sale proceeds. If the multifamily loan is sold, during such fiscal years, for an amount equal to or greater than the loan market value then the transaction is not subject to the availability of appropriations.
+Discount Loan Sales.—Notwithstanding any other provision of law and in accordance with the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), a discount loan sale during fiscal years 2006 through 2010 under section 207(k) of the National Housing Act (12 U.S.C. 1713(k)), section 203(k) of the Housing and Community Development Amendments of 1978 (12 U.S.C. 1701z–11(k)), or section 204(a) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12U.S.C. 1715z–11a(a)), shall be subject to the availability of appropriations to the extent that the loan market value exceeds the sale proceeds. If the multifamily loan is sold, during such fiscal years, for an amount equal to or greater than the loan market value then the transaction is not subject to the availability of appropriations.
 
 "(c)
 

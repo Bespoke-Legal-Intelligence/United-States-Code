@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes a direct skip during his lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the direct skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes a direct skip during his lifetime, any unused portion of such individual's GST exemption shall be allocated tothe property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the direct skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 
@@ -72,7 +72,7 @@
 
 #### (4) Automatic allocations to certain GST trusts
 
-&emsp;For purposes of this subsection, an indirect skip to which section 2642(f) applies shall be deemed to have been made only at the close of the estate tax inclusion period. The fair market value of such transfer shall be the fairmarket value of the trust property at the close of the estate tax inclusion period.
+&emsp;For purposes of this subsection, an indirect skip to which section 2642(f) applies shall be deemed to have been made only at the close of the estate tax inclusion period. The fair market value of such transfer shall be the fair market value of the trust property at the close of the estate tax inclusion period.
 
 #### (5) Applicability and effect
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any or all transfers made by such individual to a particular trust, and
 
-&emsp;&emsp;&emsp;(ii) may elect to treat any trust as a GST trust for purposes of this subsection with respect to any or all transfers made by such individual to such trust.
+&emsp;&emsp;&emsp;(ii) may elect to treat any trust as a GST trust for purposes of this subsectionwith respect to any or all transfers made by such individual to such trust.
 
 #### (B) Elections
 
@@ -174,7 +174,7 @@ Retroactive allocations.—Section 2632(d) of the Internal Revenue Code of 1986 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

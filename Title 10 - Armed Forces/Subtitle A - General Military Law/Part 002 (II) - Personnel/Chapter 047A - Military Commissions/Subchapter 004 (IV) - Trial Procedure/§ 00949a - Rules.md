@@ -52,7 +52,7 @@ Exceptions.—(1) In trials by military commission under this chapter, the Secre
 
 &emsp;&emsp;&emsp;(III) direct testimony from the witness is not available as a practical matter, taking into consideration the physical location of the witness, the unique circumstances of military and intelligence operations during hostilities, and the adverse impacts on military or intelligence operations that would likely result from the production of the witness; and
 
-&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice willbest be served by admission of the statement into evidence.
+&emsp;&emsp;&emsp;(IV) the general purposes of the rules of evidence and the interests of justice will best be served by admission of the statement into evidence.
 
 (4)(A) The accused in a military commission under this chapter who exercises the right to self-representation under paragraph (2)(D) shall conform the accused's deportment and the conduct of the defense to the rules of evidence, procedure, and decorum applicable to trials by military commission.
 

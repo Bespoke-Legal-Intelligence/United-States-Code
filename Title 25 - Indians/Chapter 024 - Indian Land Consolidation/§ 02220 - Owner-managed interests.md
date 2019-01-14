@@ -54,7 +54,7 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (1) In general
 
-&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
+&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all ofthe trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
 
 #### (2) Revocation
 

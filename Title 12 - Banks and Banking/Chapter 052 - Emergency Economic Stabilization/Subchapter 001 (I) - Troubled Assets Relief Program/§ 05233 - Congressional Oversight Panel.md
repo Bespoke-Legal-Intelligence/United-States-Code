@@ -56,7 +56,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (2) Pay
 
-&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which suchmember is engaged in the actual performance of duties vested in the Commission.
+&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
 
 #### (3) Prohibition of compensation of Federal employees
 
@@ -90,7 +90,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (3) Staff of agencies
 
-&emsp;Upon request of the Oversight Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Panel to assist it in carrying out its duties under this chapter.
+&emsp;Upon request of the Oversight Panel, the head of any Federal department or agencymay detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Panel to assist it in carrying out its duties under this chapter.
 
 #### (e) Powers
 

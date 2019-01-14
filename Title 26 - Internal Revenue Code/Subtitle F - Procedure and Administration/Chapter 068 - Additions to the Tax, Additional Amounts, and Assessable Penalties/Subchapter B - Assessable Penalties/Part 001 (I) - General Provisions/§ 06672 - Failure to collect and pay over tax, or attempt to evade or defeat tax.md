@@ -42,7 +42,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (2) Suit must be brought to determine liability for penalty
 
-&emsp;If, within 30 days after the day on which his claim for refund with respect to any penalty under subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Claims) <sup>1</sup> for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
+&emsp;If, within 30 days after the day on which his claim for refund with respect to any penalty under subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Federal Claims) for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
 
 #### (3) Bond
 
@@ -76,13 +76,11 @@ No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of
 
 > The preceding sentence shall not apply if it results in no person being liable for the penalty imposed by subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19, 1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744.)
-
-#### References in Text
-
-The Court of Claims, referred to in subsec. (c)(2), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+(Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19, 1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744; Pub. L. 115–141, div. U, title IV, §401(a)(325)(D), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2). Pub. L. 115–141 substituted "Court of Federal Claims" for "Court of Claims".
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §3307(a), inserted "or in person" after "section 6212(b)".
 
@@ -104,7 +102,7 @@ Subsec. (b)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this p
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
+Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -141,6 +139,4 @@ Development of explanatory materials.—The Secretary shall develop materials ex
 "(3)
 
 IRS instructions.—The Secretary shall clarify the instructions to Internal Revenue Service employees on the application of the penalty under section 6672 of such Code with regard to voluntary members of boards of trustees or directors of tax-exempt organizations."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Additional programs and services
 
-In addition to the programs and services set forth in section 221 of the U.S.-FSM Compact and the U.S.-RMI Compact, and pursuant to section 222 of the U.S.-FSM Compact and the U.S.-RMI Compact, the services and programs of the following United States agencies shall be made available to the Federated States of Micronesia and the Republic of the Marshall Islands: the Small Business Administration, Economic Development Administration, the Rural Utilities Services (formerly Rural Electrification Administration); the programs and services of the Department of Labor under subtitle C of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3191 et seq.\] (relating to Job Corps); and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
+In addition to the programs and services set forth in section 221 of the U.S.-FSM Compact and the U.S.-RMI Compact, and pursuant to section 222 of the U.S.-FSM Compact and the U.S.-RMI Compact, the services and programs of the following United States agencies shall be made available to the Federated States of Micronesia and the Republic of the Marshall Islands: the Small Business Administration, Economic Development Administration, the Rural Utilities Services (formerly Rural Electrification Administration); the programs and services of the Department of Labor under subtitle C of title I of the Workforce Innovation and Opportunity Act\[29 U.S.C. 3191 et seq.\] (relating to Job Corps); and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
 
 #### (b) Further amounts
 
@@ -14,7 +14,7 @@ In addition to the programs and services set forth in section 221 of the U.S.-FS
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter Iof chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (b)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. Title IV of the joint resolution is set out as a note under section 1901 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 

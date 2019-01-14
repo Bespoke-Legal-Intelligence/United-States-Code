@@ -46,7 +46,7 @@ The Director of NIH shall submit to the Congress on a triennial basis a report i
 
 &emsp;&emsp;&emsp;&emsp;(V) an evaluation and comparison of outcomes and effectiveness of various training programs.
 
-&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations and demographic variables, including relevant age categories (such as pediatric subgroups), information submitted by each national research institute and nationalcenter to the Director of National Institutes of Health under section 289a–2(f) of this title, and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title and other applicable requirements regarding inclusion of demographic groups.
+&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations and demographic variables, including relevant age categories (such as pediatric subgroups), information submitted by each national research institute and national center to the Director of National Institutes of Health under section 289a–2(f) of this title, and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title and other applicable requirements regarding inclusion of demographic groups.
 
 &emsp;&emsp;&emsp;(vi) Translational research activities with other agencies of the Public Health Service.
 

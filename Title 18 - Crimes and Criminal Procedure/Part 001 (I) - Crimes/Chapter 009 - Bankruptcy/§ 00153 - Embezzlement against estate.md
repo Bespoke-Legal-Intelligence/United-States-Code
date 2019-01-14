@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows: "Whoever knowingly and fraudulently appropriates to his own use, embezzles, spends, or transfers any property or secretes or destroys any document belonging to the estate of a debtor which came into his charge as trustee, custodian, marshal, or other officer of the court, shall be fined under this title or imprisoned not more than five years, or both."
+<b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows: "Whoeverknowingly and fraudulently appropriates to his own use, embezzles, spends, or transfers any property or secretes or destroys any document belonging to the estate of a debtor which came into his charge as trustee, custodian, marshal, or other officer of the court, shall be fined under this title or imprisoned not more than five years, or both."
 
 Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

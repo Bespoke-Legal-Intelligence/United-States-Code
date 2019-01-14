@@ -82,7 +82,7 @@ In this subchapter—
 
 &emsp;&emsp;(E) with respect to a commodity options dealer—
 
-&emsp;&emsp;&emsp;(i) entity for or with whom such commodity options dealer deals and that holds a claim on account of a commodity contract made, received, acquired, or held by or through such commodity options dealer in the ordinary course of such commodityoptions dealer's business as a commodity options dealer from or for the commodity options account of such entity; or
+&emsp;&emsp;&emsp;(i) entity for or with whom such commodity options dealer deals and that holds a claim on account of a commodity contract made, received, acquired, or held by or through such commodity options dealer in the ordinary course of such commodity options dealer's business as a commodity options dealer from or for the commodity options account of such entity; or
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such commodity options dealer arising out of—
 
@@ -250,5 +250,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

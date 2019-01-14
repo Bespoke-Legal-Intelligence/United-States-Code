@@ -2,7 +2,7 @@
 
 (a)
 
-Form, Contents, and Proof of Service.—To be issued a certificate of public convenience and necessity under section 41102 of this title, a citizen of the United States must apply to theSecretary of Transportation. The application must—
+Form, Contents, and Proof of Service.—To be issued a certificate of public convenience and necessity under section 41102 of this title, a citizen of the United States must apply to the Secretary of Transportation. The application must—
 
 &emsp;(1) be in the form and contain information required by regulations of the Secretary; and
 
@@ -20,7 +20,7 @@ Notice, Response, and Actions on Applications.—(1) When an application is file
 
 (2) An order of dismissal issued by the Secretary under paragraph (1)(C) of this subsection is a final order and may be reviewed judicially under section 46110 of this title.
 
-(3) If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection, an initial or recommended decision shall be issued not later than 150 days after the date the Secretary provides the opportunity. The Secretary shall issue a final order on the application not later than 90 days after the decision is issued. However, if the Secretary does not act within the 90-day period, the initial or recommended decision on an application to provide—
+(3) If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection, an initial or recommended decision shall be issued not later than 150 days after thedate the Secretary provides the opportunity. The Secretary shall issue a final order on the application not later than 90 days after the decision is issued. However, if the Secretary does not act within the 90-day period, the initial or recommended decision on an application to provide—
 
 &emsp;(A) interstate air transportation is a final order and may be reviewed judicially under section 46110 of this title; and
 
@@ -94,5 +94,5 @@ In subsection (b)(5), the word "particular" is omitted as surplus. The words "by
 
 In subsection (c)(1), the words "In any determination as to whether or not" are omitted as surplus. The word "provide" is substituted for "perform" for consistency in the revised title. The word "properly" is omitted as surplus. The word "comply" is substituted for "conform" for consistency in the revised title.
 
-In subsection (c)(2), the words "In any determination as to whether" are omitted as surplus. The reference isto section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
+In subsection (c)(2), the words "In any determination as to whether" are omitted as surplus. The reference is to section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
 

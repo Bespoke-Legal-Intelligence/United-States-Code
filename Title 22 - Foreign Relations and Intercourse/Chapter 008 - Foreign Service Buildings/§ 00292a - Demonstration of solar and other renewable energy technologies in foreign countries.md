@@ -16,7 +16,7 @@ It is the purpose of this section to provide for the demonstration of solar ener
 
 (1) The Secretary of State shall implement projects for the application of solar energy or other forms of renewable energy in buildings acquired under subsection (a) section 292 of this title.
 
-(2) The Secretary of State shall select projects under paragraph (1) in consultation with the Secretary of Energy. Such projects shall applyavailable solar energy and other renewable energy technologies, including those for—
+(2) The Secretary of State shall select projects under paragraph (1) in consultation with the Secretary of Energy. Such projects shall apply available solar energy and other renewable energy technologies, including those for—
 
 &emsp;(A) the heating and cooling of buildings;
 
@@ -38,7 +38,7 @@ It is the purpose of this section to provide for the demonstration of solar ener
 
 #### (c) Planning for use of renewable energy systems in construction of new buildings
 
-Whenever any building is constructed under the authority contained in section 292 of this title, the Secretary of State shall insure that the planning for such construction takes into account those renewable energy systems which are available in the country in which the building is to be constructed.
+Whenever any building is constructed under the authority contained in section 292 of thistitle, the Secretary of State shall insure that the planning for such construction takes into account those renewable energy systems which are available in the country in which the building is to be constructed.
 
 #### (d) Availability of sums previously authorized to be appropriated
 

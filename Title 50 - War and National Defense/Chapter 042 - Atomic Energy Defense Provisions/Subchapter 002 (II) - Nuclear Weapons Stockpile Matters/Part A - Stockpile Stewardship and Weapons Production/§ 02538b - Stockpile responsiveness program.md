@@ -12,7 +12,7 @@ The Secretary of Energy, acting through the Administrator and in consultation wi
 
 The program under subsection (b) shall have the following objectives:
 
-&emsp;(1) Identify, sustain, enhance, integrate, and continually exercise all of the capabilities, infrastructure, tools, and technologies across the science, engineering, design, certification, and manufacturing cycle required to carry out all phases of the joint nuclear weapons life cycle process, with respect to both the nuclear security enterprise and relevant elements of the Department of Defense.
+&emsp;(1) Identify, sustain, enhance, integrate, and continually exercise all of the capabilities, infrastructure, tools, and technologies across the science, engineering, design, certification,and manufacturing cycle required to carry out all phases of the joint nuclear weapons life cycle process, with respect to both the nuclear security enterprise and relevant elements of the Department of Defense.
 
 &emsp;(2) Identify, enhance, and transfer knowledge, skills, and direct experience with respect to all phases of the joint nuclear weapons life cycle process from one generation of nuclear weapon designers and engineers to the following generation.
 

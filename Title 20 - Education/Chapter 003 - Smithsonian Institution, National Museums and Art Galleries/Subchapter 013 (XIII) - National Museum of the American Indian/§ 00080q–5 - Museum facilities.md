@@ -36,7 +36,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (4) Reimbursement of GSA
 
-&emsp;The Board of Regents shall reimburse the Administrator for the Smithsonian Institution's pro rata share of the cost of utilities,maintenance, cleaning, and other services incurred with respect to the space leased under paragraph (1) and the full cost of any repairs or alterations made by the General Services Administration at the request of the Smithsonian Institution with respect to the space.
+&emsp;The Board of Regents shall reimburse the Administrator for the Smithsonian Institution's pro rata share of the cost of utilities, maintenance, cleaning, and other services incurred with respect to the space leased under paragraph (1) and the full cost of any repairs or alterations made by the General Services Administration at the request of the Smithsonian Institution with respect to the space.
 
 #### (5) Cost sharing
 
@@ -112,7 +112,7 @@ In General.—The National Museum of the American Indian (established by the Nat
 
 "(b)
 
-Location.—The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the sitedescribed in section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
+Location.—The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the site described in section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
 "(c)
 

@@ -1,6 +1,6 @@
 ### §271. Infringement of patent
 
-(a) Except as otherwise provided in this title, whoever without authority makes, uses, offersto sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
+(a) Except as otherwise provided in this title, whoever without authority makes, uses, offers to sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
 
 (b) Whoever actively induces infringement of a patent shall be liable as an infringer.
 
@@ -36,7 +36,7 @@
 
 > The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
-(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
 
 (6)(A) Subparagraph (B) applies, in lieu of paragraph (4), in the case of a patent—
 
@@ -66,7 +66,7 @@
 
 (i) As used in this section, an "offer for sale" or an "offer to sell" by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, §7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L.103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, §7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
 
 #### Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9\(§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -150,7 +150,7 @@ In General.—The amendments made by this subtitle \[subtitle A (§§9001–9007
 
 "(b)
 
-Exceptions.—The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitable for the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
+Exceptions.—The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitablefor the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
 
 "(c)
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be
 
 #### Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988
 
-Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was tomake annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
+Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 

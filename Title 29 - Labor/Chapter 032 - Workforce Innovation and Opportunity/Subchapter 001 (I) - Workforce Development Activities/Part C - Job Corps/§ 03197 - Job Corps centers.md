@@ -6,7 +6,7 @@
 
 #### (A) Operators
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency, an area career and technical education school, a residential career and technical education school, or a private organization, for the operation of each Job Corps center.
+&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency,an area career and technical education school, a residential career and technical education school, or a private organization, for the operation of each Job Corps center.
 
 #### (B) Providers
 
@@ -152,7 +152,7 @@ The agreement described in subsection (a)(1)(A) shall be for not more than a 2-y
 
 &emsp;&emsp;(A) significant improvements in program performance in carrying out a performance improvement plan under section 3209(f)(2) of this title;
 
-&emsp;&emsp;(B) that the performance is due to circumstances beyond the control of the entity,such as an emergency or disaster, as defined in section 3225(a)(1) of this title;
+&emsp;&emsp;(B) that the performance is due to circumstances beyond the control of the entity, such as an emergency or disaster, as defined in section 3225(a)(1) of this title;
 
 &emsp;&emsp;(C) a significant disruption in the operations of the center, including in the ability to continue to provide services to students, or significant increase in the cost of such operations; or
 

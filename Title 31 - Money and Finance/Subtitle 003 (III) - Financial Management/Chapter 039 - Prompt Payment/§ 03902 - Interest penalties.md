@@ -30,7 +30,7 @@
 
 (h)(1) This section shall apply to contracts for the procurement of property or services entered into pursuant to section 4(h) of the Act of June 29, 1948 (15 U.S.C. 714b(h)).
 
-(2)(A) In the case of a payment to which producers on a farm are entitled under the terms of an agreement entered into under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), an interest penalty shall be paid to the producers if thepayment has not been made by the required payment or loan closing date. The interest penalty shall be paid—
+(2)(A) In the case of a payment to which producers on a farm are entitled under the terms of an agreement entered into under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), an interest penalty shall be paid to the producers if the payment has not been made by the required payment or loan closing date. The interest penalty shall be paid—
 
 &emsp;(i) on the amount of payment or loan due; and
 
@@ -134,7 +134,7 @@ Pub. L. 100–496, §14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provided 
 
 "(a) The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act \[enacting section 3905 of this title, amending this section, sections 3901, 3903, and 3904 of this title and section 644 of Title 15, Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under section 3903 of this title\] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 17, 1988\].
 
-"(b) The requirements of section 3902(c)(2) of title 31, United States Code, as added by section 3(b) of this Act,shall apply to payments under contracts awarded on or after October 1, 1989.
+"(b) The requirements of section 3902(c)(2) of title 31, United States Code, as added by section 3(b) of this Act, shall apply to payments under contracts awarded on or after October 1, 1989.
 
 "(c) The amendments made by sections 2(c) and 3(c) of this Act \[amending this section, section 3901 of this title, and section 410 of Title 39, Postal Service\] shall be applicable with respect to all obligations incurred on or after January 1, 1989."
 

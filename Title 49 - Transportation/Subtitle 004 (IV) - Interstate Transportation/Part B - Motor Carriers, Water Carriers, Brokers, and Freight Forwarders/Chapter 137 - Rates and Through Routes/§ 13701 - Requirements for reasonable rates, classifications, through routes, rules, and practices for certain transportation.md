@@ -34,7 +34,7 @@ Zone of Reasonableness.—
 
 &emsp;(1)
 
-In general.—For purposes of this section, a rate or division of a motor carrier for service in noncontiguous domestic trade or water carrier for port-to-port service in that trade is reasonable if the aggregate of increases and decreases in any such rate or division is not more than 7.5 percent above, or more than 10 percent below, the rate or division in effect 1 year before the effective date of the proposed rate or division.
+In general.—For purposes of this section, a rate or division of a motor carrier for service in noncontiguous domestic trade orwater carrier for port-to-port service in that trade is reasonable if the aggregate of increases and decreases in any such rate or division is not more than 7.5 percent above, or more than 10 percent below, the rate or division in effect 1 year before the effective date of the proposed rate or division.
 
 &emsp;(2)
 
@@ -56,5 +56,5 @@ Provisions similar to those in this section were contained in sections 10701, 10
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

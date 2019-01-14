@@ -10,7 +10,7 @@ Any agency of the United States Government is authorized to acquire and accept s
 
 #### (c) Institute books and records; access; audit
 
-Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access tothe books and records of the Institute and the opportunity to audit the operations of the Institute.
+Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access to the books and records of the Institute and the opportunity to audit the operations of the Institute.
 
 (Pub. L. 96–8, §9, Apr. 10, 1979, 93 Stat. 18.)
 

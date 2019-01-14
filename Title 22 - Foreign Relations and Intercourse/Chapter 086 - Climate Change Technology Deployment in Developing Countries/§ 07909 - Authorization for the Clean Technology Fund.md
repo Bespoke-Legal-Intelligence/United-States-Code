@@ -2,7 +2,7 @@
 
 #### (1) Limitations on authorization of appropriations
 
-For fiscal year 2010, up to $300,000,000 is authorized to be appropriated for a United Statescontribution to the Clean Technology Fund (the Fund).
+For fiscal year 2010, up to $300,000,000 is authorized to be appropriated for a United States contribution to the Clean Technology Fund (the Fund).
 
 #### (2) Limits on country access
 

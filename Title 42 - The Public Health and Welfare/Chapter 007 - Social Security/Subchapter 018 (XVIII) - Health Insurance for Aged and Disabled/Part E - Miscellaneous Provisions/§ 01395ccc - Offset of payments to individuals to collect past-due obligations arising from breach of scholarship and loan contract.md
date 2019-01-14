@@ -100,7 +100,7 @@ Pub. L. 100–360, §411(f)(10)(A)(iii), as amended by Pub. L. 100–360, §608(
 
 Pub. L. 100–360, §411(f)(10)(A)(ii), substituted "exclude" for "bar".
 
-Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted "or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respective section" for ", and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act".
+Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted "or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and whichhas not been paid by the deadline established by the Secretary pursuant to such respective section" for ", and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act".
 
 Subsec. (b)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "an individual" for "a physician".
 

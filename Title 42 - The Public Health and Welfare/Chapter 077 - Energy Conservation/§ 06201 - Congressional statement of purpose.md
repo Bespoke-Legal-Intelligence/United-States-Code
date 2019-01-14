@@ -22,7 +22,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy andConservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Pub. L. 99–58, §1, July 2, 1985, 99 Stat. 102, provided that: "This Act \[ena
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–370, §1, July 18, 1984, 98 Stat. 1211, provided: "That this Act \[enacting section 6276 of this title anda provision set out as a note under section 627\] may be cited as the 'Renewable Energy Industry Development Act of 1983'."
+Pub. L. 98–370, §1, July 18, 1984, 98 Stat. 1211, provided: "That this Act \[enacting section 6276 of this title and a provision set out as a note under section 627\] may be cited as the 'Renewable Energy Industry Development Act of 1983'."
 
 #### Short Title of 1982 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 94–163, §1, Dec. 22, 1975, 89 Stat. 871, provided in part: "That this
 
 #### National Oilheat Research Alliance
 
-Pub. L. 106–469, title VII, Nov. 9, 2000, 114 Stat. 2043, as amended by Pub. L. 109–58, title III, §302, Aug. 8, 2005, 119 Stat. 685; Pub. L. 113–79, title XII, §§12402–12410, Feb. 7, 2014, 128 Stat. 997–1005, provided that:
+Pub. L. 106–469, title VII, Nov. 9, 2000, 114 Stat. 2043, as amended by Pub. L. 109–58, title III, §302, Aug. 8, 2005, 119 Stat. 685; Pub. L. 113–79, title XII, §§12402–12410, Feb. 7, 2014, 128 Stat. 997–1005; Pub. L. 115–334, title XII, §12531, Dec. 20, 2018, 132 Stat. 5002, provided that:
 
 #### "SEC. 701. SHORT TITLE.
 
@@ -476,7 +476,7 @@ In general.—Research, development, and demonstration activities under paragrap
 
 &emsp;&emsp;&emsp;"(ii)
 
-Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat fuel utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds may be provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
+Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat fuel utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds maybe provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
 
 "(b)
 
@@ -522,7 +522,7 @@ Administrative Expenses.—
 
 &emsp;"(1)
 
-In general.—The administrative expenses of operating the Alliance (not including costs incurred in the collection of assessments under section 707) plus amounts paid under paragraph (2) shall not exceed 7 percent of the amount of assessments collected in any calendar year, except that during the first year of operation of the Alliance such expenses and amounts shall not exceed 10 percent of the amount of assessments.
+In general.—The administrative expenses of operating the Alliance (not including costs incurred in the collection of assessments under section 707) plus amounts paid under paragraph (2) shall not exceed 7 percent of the amount of assessments collected in any calendar year that are permitted to be obligated in that calendar year.
 
 &emsp;"(2)
 
@@ -724,7 +724,7 @@ In general.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Base amount.—The Alliance shall make available to the qualified State association of each State an amount equal to 15 percent of the amount of assessments collected in the State.
+Base amount.—The Alliance shall make available to the qualified State association of each State an amount equal to 15 percent of the amount of assessments collected in the State that are permitted to be obligated.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -732,7 +732,7 @@ Additional amount.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—A qualified State association may request that the Alliance provide tothe association any portion of the remaining 85 percent of the amount of assessments collected in the State.
+In general.—A qualified State association may request that the Alliance provide to the association any portion of the remaining 85 percent of the amount of assessments collected in the State that are permitted to be obligated.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -768,7 +768,7 @@ Use of Assessments.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of this title, the Secretary and the Alliance shall ensure that assessments collected for each calendar year under this title are allocated and used in accordance with this subsection.
+In general.—Notwithstanding any other provision of this title, the Secretary and the Alliance shall ensure that assessments collected and permitted to be obligated for each calendar year under this title are allocated and used in accordance with this subsection.
 
 &emsp;"(2)
 
@@ -776,7 +776,7 @@ Research, development, and demonstration.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Alliance shall ensure that not less than 30 percent of the assessments collected for each calendar year under this title are used by qualified State associations or the Alliance to conduct research, development, and demonstration activities relating to oilheat fuel, including the development of energy-efficient heating and the transition and facilitation of the entry of energy efficient heating systems into the marketplace.
+In general.—The Alliance shall ensure that not less than 30 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to conduct research, development, and demonstration activities relating to oilheat fuel, including the development of energy-efficient heating and the transition and facilitation of the entry of energy efficient heating systems into the marketplace.
 
 &emsp;&emsp;"(B)
 
@@ -850,7 +850,7 @@ Heating oil efficiency and upgrade program.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Alliance shall ensure that not less than 15 percent of the assessments collected for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
+In general.—The Alliance shall ensure that not less than 15 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
 
 &emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existing heating system to improve the efficiency of the system;
 
@@ -888,7 +888,7 @@ Distribution of funds.—The Alliance shall ensure that funds distributed to car
 
 &emsp;"(5)
 
-Consumer education, safety, and training.—The Alliance shall ensure that not more than 30 percent of the assessments collected for each calendar year under this title are used—
+Consumer education, safety, and training.—The Alliance shall ensure that not more than 30 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used—
 
 &emsp;&emsp;"(A) to conduct consumer education activities relating to oilheat fuel, including providing information to consumers on—
 
@@ -914,7 +914,7 @@ Administrative costs.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Alliance shall ensure that not more than 5 percent of the assessments collected for each calendar year under this title are used for—
+In general.—The Alliance shall ensure that not more than 5 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used for—
 
 &emsp;&emsp;&emsp;"(i) administrative costs; or
 
@@ -964,7 +964,45 @@ Reports on heating oil efficiency and upgrade program.—At least once every 3 y
 
 Availability.—Each report, and any subsequent changes to the report, described in this paragraph shall be made publically available, with notice of availability provided to the Secretary, and posted on the website of the Alliance.
 
-#### "SEC. 708. \[Repealed. Pub. L. 113–79, title XII, §12407, Feb. 7, 2014, 128 Stat. 1004\]
+#### "SEC. 708. LIMITATION ON OBLIGATION OF FUNDS.
+
+"(a)
+
+In General.—In each calendar year of the covered period, the Alliance may not obligate an amount greater than the sum of—
+
+&emsp;"(1) 75 percent of the amount of assessments estimated to be collected under section 707 in that calendar year;
+
+&emsp;"(2) 75 percent of the amount of assessments actually collected under section 707 in the most recent calendar year for which an audit report has been submitted under section 706(f)(2)(B) as of the beginning of the calendar year for which the amount that may be obligated is being determined, less the estimate made pursuant to paragraph (1) for that most recent calendar year; and
+
+&emsp;"(3) amounts permitted in preceding calendar years to be obligated pursuant to this subsection that have not been obligated.
+
+"(b)
+
+Excess Amounts Deposited in Escrow Account.—Assessments collected under section 707 in excess of the amount permitted to be obligated under subsection (a) in a calendar year shall be deposited in an escrow account for the duration of the covered period.
+
+"(c)
+
+Treatment of Amounts in Escrow Account.—
+
+&emsp;"(1)
+
+In general.—During the covered period, the Alliance may not obligate, expend, or borrow against amounts required under subsection (b) to be deposited in the escrow account.
+
+&emsp;"(2)
+
+Interest.—Any interest earned on amounts described in paragraph (1) shall be—
+
+&emsp;&emsp;"(A) deposited in the escrow account; and
+
+&emsp;&emsp;"(B) unavailable for obligation for the duration of the covered period.
+
+"(d)
+
+Release of Amounts in Escrow Account.—Beginning on October 1, 2028, the Alliance may withdraw and obligate any amount in the escrow account.
+
+"(e)
+
+Covered Period Defined.—In this section, the term 'covered period' means the period that begins on February 6, 2019, and ends on September 30, 2028.
 
 #### "SEC. 709. COMPLIANCE.
 
@@ -1084,7 +1122,7 @@ Noncompliance.—If the Alliance, a qualified State association, or any other en
 
 #### "SEC. 713. SUNSET.
 
-"This title shall cease to be effective as of the date that is 18 years after the date on which the Alliance is established."
+"This title shall cease to be effective as of the date that is 28 years after the date on which the Alliance is established."
 
 #### Ex. Ord. No. 11912. Delegation of Authorities
 

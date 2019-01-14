@@ -100,7 +100,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;&emsp;(i) is licensed by the State or certified by an independent professional regulatory authority;
 
-&emsp;&emsp;&emsp;(ii) in the absence of such State licensure or certification, possesses national certification in school counseling or a specialty of counseling granted by an independent professional organization; or
+&emsp;&emsp;&emsp;(ii) in the absence of such State licensure or certification, possesses nationalcertification in school counseling or a specialty of counseling granted by an independent professional organization; or
 
 &emsp;&emsp;&emsp;(iii) holds a minimum of a master's degree in school counseling from a program accredited by the Council for Accreditation of Counseling and Related Educational Programs or the equivalent; and
 
@@ -198,7 +198,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (d) Priority
 
-The Secretary shall grant loan forgiveness under this section on a first-come, first-served basis, and subject to the availability of appropriations.
+The Secretary shall grant loan forgiveness under this section on a first-come, first-servedbasis, and subject to the availability of appropriations.
 
 #### (e) Rule of construction
 
@@ -340,7 +340,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is nowsection 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 

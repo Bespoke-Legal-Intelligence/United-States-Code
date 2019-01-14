@@ -16,7 +16,7 @@ In the case of any estate with respect to which an election has been made under 
 
 #### (2) Maximum value of required property
 
-&emsp;The maximum value of the property which the Secretary may require as section 6166 lienproperty with respect to any estate shall be a value which is not greater than the sum of—
+&emsp;The maximum value of the property which the Secretary may require as section 6166 lien property with respect to any estate shall be a value which is not greater than the sum of—
 
 &emsp;&emsp;(A) the deferred amount, and
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (4) Application of definitions in case of deficiencies
 
-&emsp;In the case of a deficiency, a separate deferred amount, required interest amount, anddeferral period shall be determined as of the due date of the first installment after the deficiency is prorated to installments under section 6166.
+&emsp;In the case of a deficiency, a separate deferred amount, required interest amount, and deferral period shall be determined as of the due date of the first installment after the deficiency is prorated to installments under section 6166.
 
 (Added Pub. L. 94–455, title XX, §2004(d)(1), Oct. 4, 1976, 90 Stat. 1868; amended Pub. L. 95–600, title VII, §702(e)(1), Nov. 6, 1978, 92 Stat. 2929; Pub. L. 97–34, title IV, §422(e)(6)(A)–(C), Aug. 13, 1981, 95 Stat. 316.)
 
@@ -122,5 +122,5 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
+Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made bythis section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
 

@@ -80,7 +80,7 @@
 
 &emsp;(C) Attending conferences and conventions conducted by the Department of Hawaiian Homelands in order to work with the Department of Hawaiian Homelands in providing information and training to tribal housing entities in Hawaii regarding the availability of such benefits.
 
-&emsp;(D) Producing and disseminating information to tribal governments, tribal veteransservice organizations, and tribal organizations regarding the availability of such benefits.
+&emsp;(D) Producing and disseminating information to tribal governments, tribal veterans service organizations, and tribal organizations regarding the availability of such benefits.
 
 &emsp;(E) Assisting tribal organizations and Native American veterans with respect to such benefits.
 

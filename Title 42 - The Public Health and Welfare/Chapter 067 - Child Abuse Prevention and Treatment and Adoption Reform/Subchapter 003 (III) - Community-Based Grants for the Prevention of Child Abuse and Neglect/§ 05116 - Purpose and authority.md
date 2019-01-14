@@ -4,7 +4,7 @@
 
 It is the purpose of this subchapter—
 
-&emsp;(1) to support community-based efforts to develop, operate, expand, enhance, and coordinate initiatives, programs, and activities to prevent child abuse and neglect and to support the coordination of resources and activities, to better strengthen and support families to reduce the likelihood of child abuse and neglect; and
+&emsp;(1) to support community-based efforts to develop, operate, expand, enhance, and coordinate initiatives, programs, and activities to prevent child abuse and neglect and to support the coordination of resources and activities, tobetter strengthen and support families to reduce the likelihood of child abuse and neglect; and
 
 &emsp;(2) to foster an understanding, appreciation, and knowledge of diverse populations in order to be effective in preventing and treating child abuse and neglect.
 

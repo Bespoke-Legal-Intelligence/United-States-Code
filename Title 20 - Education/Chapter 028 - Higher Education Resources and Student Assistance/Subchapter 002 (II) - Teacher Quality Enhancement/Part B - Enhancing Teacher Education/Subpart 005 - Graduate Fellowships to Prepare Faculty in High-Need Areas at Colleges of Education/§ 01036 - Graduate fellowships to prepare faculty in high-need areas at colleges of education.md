@@ -80,7 +80,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (f) Institutional support for fellows
 
-An eligible institution that receives a grant under this section may reserve not more thanten percent of the grant amount for academic and career transition support for graduate fellowship recipients and for meeting the institutional obligation described in subsection (e)(3)(B).
+An eligible institution that receives a grant under this section may reserve not more than ten percent of the grant amount for academic and career transition support for graduate fellowship recipients and for meeting the institutional obligation described in subsection (e)(3)(B).
 
 #### (g) Restriction on use of funds
 

@@ -2,9 +2,9 @@
 
 In order to promote research in forestry, the Secretary of Agriculture is authorized to cooperate with the several States for the purpose of encouraging and assisting them in carrying out programs of forestry research.
 
-Such assistance shall be in accordance with plans to be agreed upon in advance by the Secretary and (a) land-grant colleges or agricultural experiment stations established under the Morrill Act of July 2, 1862, as amended \[7 U.S.C. 301 et seq.\], and the Hatch Act of March 2, 1887, as amended \[7 U.S.C. 361a et seq.\], and 1890 Institutions (as defined in section 7601 of title 7), and (b) other State-supported colleges and universities offering graduate training in the sciences basic to forestry and having a forestry school; however, an appropriate State representative designated by the State's Governor shall, in any agreement drawn up with the Secretary of Agriculture for the purposes of this subchapter, certify those eligible institutions of the State which will qualify for assistance and shall determine the proportionate amounts of assistance to be extended these certified institutions. If more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complementary programs of forestry research for the State.
+Such assistance shall be in accordance with plans to be agreed upon in advance by the Secretary and (a) land-grant colleges or agricultural experiment stations established under the Morrill Act of July 2, 1862, as amended \[7 U.S.C. 301 et seq.\], and the Hatch Act of March 2, 1887, as amended \[7 U.S.C. 361a et seq.\], 1890 Institutions (as defined in section 7601 of title 7), and 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) that offer an associate's degree or a baccalaureate degree in forestry, and (b) other State-supported colleges and universities offering graduate training in the sciences basic to forestry and having a forestry school; however, an appropriate State representative designated by the State's Governor shall, in any agreement drawn up with the Secretary of Agriculture for the purposes of this subchapter, certify those eligible institutions of the State which will qualify for assistance and shall determine the proportionate amounts of assistance to be extended these certified institutions. If more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complementary programs of forestry research for the State.
 
-(Pub. L. 87–788, §2, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, §1441(b), Dec. 22, 1981, 95 Stat. 1320; Pub. L. 110–234, title VII, §7412(a), May 22, 2008, 122 Stat. 1255; Pub. L. 110–246, §4(a), title VII, §7412(a), June 18, 2008, 122 Stat. 1664, 2017.)
+(Pub. L. 87–788, §2, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, §1441(b), Dec. 22, 1981, 95 Stat. 1320; Pub. L. 110–234, title VII, §7412(a), May 22, 2008, 122 Stat. 1255; Pub. L. 110–246, §4(a), title VII, §7412(a), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 115–334, title VII, §7604, Dec. 20, 2018, 132 Stat. 4828.)
 
 #### References in Text
 
@@ -18,6 +18,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–334 struck out "and" before "1890 Institutions" and inserted "and 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) that offer an associate's degree or a baccalaureate degree in forestry," before "and (b)".
+
 <b>2008</b>—Pub. L. 110–246, §7412(a), inserted "and 1890 Institutions (as defined in section 7601 of title 7)," before "and (b)".
 
 <b>1981</b>—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
@@ -28,7 +30,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 110–234, title VII, §7412(b), May 22, 2008, 122 Stat. 1255, and Pub. L. 110–246, §4(a), title VII, §7412(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2008."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 1981 Amendment
 

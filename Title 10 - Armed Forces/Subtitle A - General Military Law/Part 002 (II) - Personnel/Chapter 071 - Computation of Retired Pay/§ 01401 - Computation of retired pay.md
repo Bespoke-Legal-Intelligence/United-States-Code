@@ -136,7 +136,7 @@ Pub. L. 99–348, §201(a)(4), substituted in column 2 of table a multiplier of 
 
 Pub. L. 99–348, §201(a)(5), in columns 3 and 4 substituted "retired pay base" for "pay" wherever appearing.
 
-Pub. L. 99–348, §201(a)(6), redesignated footnote 3 as 1, and struck out former footnote 1 which provided computation at rates applicable on date of retirement or date when the member's name was placed on temporary disability retired list, as the case may be, footnote 2 which provided computation at rates applicable on the date when retired pay is granted, footnote 4 which provided computation at the highest rates of basic pay applicable to an officer who served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, while so serving in that office and computation at the highest rate of basic pay applicable to an enlisted person who has served as sergeant major of the Army, master chief petty officer of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of theCoast Guard, while he served if that rate is higher than the rate authorized by the table, and footnote 5 which provided for purposes of this section that an officer's retired grade be determined as if sections 3962(b) and 8962(b) did not apply.
+Pub. L. 99–348, §201(a)(6), redesignated footnote 3 as 1, and struck out former footnote 1 which provided computation at rates applicable on date of retirement or date when the member's name was placed on temporary disability retired list, as the case may be, footnote 2 which provided computation at rates applicable on the date when retired pay is granted, footnote 4 which provided computation at the highest rates of basic pay applicable to an officer who served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard, while so serving in that office and computation at the highest rate of basic pay applicable to an enlisted person who has served as sergeant major of the Army, master chief petty officer of the Navy, chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard, while he served if that rate is higher than the rate authorized by the table, and footnote 5 which provided for purposes of this section that an officer's retired grade be determined as if sections 3962(b) and 8962(b) did not apply.
 
 Pub. L. 99–348, §201(a)(7), in column 2 of table substituted footnote 1 designation for footnote 3 designation wherever appearing.
 
@@ -154,7 +154,7 @@ Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
-<b>1972</b>—Pub. L. 92–455 substituted in second sentence of footnote 4 of table "chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard," for "chief master sergeant of the Air Force, or sergeant major of the Marine Corps,".
+<b>1972</b>—Pub. L. 92–455 substituted in second sentence of footnote 4 of table "chief master sergeant of the AirForce, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard," for "chief master sergeant of the Air Force, or sergeant major of the Marine Corps,".
 
 <b>1967</b>—Pub. L. 90–207 inserted sentence to footnote 4 of table requiring the computation of retired pay for an enlisted person who has served as senior noncommissioned officer of his service at the highest rate of basic pay applicable to him while he so served, if that rate is higher than the rate authorized by the table.
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–348, §1(a), July 1, 1986, 100 Stat. 682, provided that: "This Act \[enacting sections 134a, 1406, 1407,and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the 'Military Retirement Reform Act of 1986'."
+Pub. L. 99–348, §1(a), July 1, 1986, 100 Stat. 682, provided that: "This Act \[enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the 'Military Retirement Reform Act of 1986'."
 
 #### Short Title of 1982 Amendment
 
@@ -226,7 +226,7 @@ Pub. L. 111–84, div. A, title VI, §645, Oct. 28, 2009, 123 Stat. 2368, provid
 
 "(a)
 
-In General.—Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (Public Law 106–259; 114 Stat. 705) \[amending section 106 of Title 38, Veterans' Benefits, and enacting provisions set out as a note under section 106 of Title 38\] shall be treated as active service for purposes of the computation under chapter 61, 71, 371, 571, 871, or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code.
+In General.—Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (Public Law 106–259; 114 Stat. 705) \[amending section 106 of Title 38, Veterans' Benefits, and enactingprovisions set out as a note under section 106 of Title 38\] shall be treated as active service for purposes of the computation under chapter 61, 71, 371 \[now 745\], 571 \[now 841\], 871 \[now 945\], or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code.
 
 "(b)
 
@@ -290,7 +290,7 @@ Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstand
 
 #### Increase in Retired or Retainer Pay of Members Entitled Thereto on or After October 1, 1967
 
-Pub. L. 90–207, §6, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, amember or former member of a uniformed service who initially becomes entitled to retired pay or retainer pay on or after October 1, 1967, shall be entitled to have that pay computed using the rates of basic pay prescribed by the first section of this Act \[amending section 203(a) of Title 37\]."
+Pub. L. 90–207, §6, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, a member or former member of a uniformed service who initially becomes entitled to retired pay or retainer pay on or after October 1, 1967, shall be entitled to have that pay computed using the rates of basic pay prescribed by the first section of this Act \[amending section 203(a) of Title 37\]."
 
 #### Increases in Retired or Retainer Pay
 

@@ -84,7 +84,7 @@ Sec. 2. <i>Membership</i>. (A) <i>Composition</i>. The Council shall consist of 
 
 (1) public health, including clinical dietetics, public health nutrition, epidemiology, clinical medicine, health education, or nutrition education;
 
-(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food composition analysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
+(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food compositionanalysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
 
 (3) food production and distribution, including agriculture, biotechnology, food engineering, economics, consumer psychology or sociology, food-system management, or food assistance.
 
@@ -114,7 +114,7 @@ Sec. 5. <i>Administration</i>. (a) The heads of executive departments, agencies,
 
 (c) To the extent provided by law and subject to the availability of appropriations, the Department of Agriculture shall provide the Council with such administrative services, funds, facilities, staff, and other support services as may be necessary for the performance of its functions.
 
-Sec. 6. <i>General provision</i>. Notwithstanding the provisions of any other Executive order, the functions of thePresident under the Federal Advisory Committee Act that are applicable to the Council shall be performed by the Secretary of Agriculture, in accordance with guidelines and procedures established by the Administrator of General Services.
+Sec. 6. <i>General provision</i>. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to the Council shall be performed by the Secretary of Agriculture, in accordance with guidelines and procedures established by the Administrator of General Services.
 
 Sec. 7. The Council shall terminate 10 years after the final comprehensive plan is prepared under section 103 of the Act.
 

@@ -16,7 +16,7 @@
 
 (c) The chief judge shall submit to the council the semiannual reports of the Director of the Administrative Office of the United States Courts. The council shall take such action thereon as may be necessary.
 
-(d)(1) Each judicial council shall make all necessary and appropriate orders for the effective and expeditious administration of justice withinits circuit. Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public. Each council is authorized to hold hearings, to take sworn testimony, and to issue subpoenas and subpoenas duces tecum. Subpoenas and subpoenas duces tecum shall be issued by the clerk of the court of appeals, at the direction of the chief judge of the circuit or his designee and under the seal of the court, and shall be served in the manner provided in rule 45(c) of the Federal Rules of Civil Procedure for subpoenas and subpoenas duces tecum issued on behalf of the United States or an officer or agency thereof.
+(d)(1) Each judicial council shall make all necessary and appropriate orders for the effective and expeditious administration of justice within its circuit. Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public. Each council is authorized to hold hearings, to take sworn testimony, and to issue subpoenas and subpoenas duces tecum. Subpoenas and subpoenas duces tecum shall be issued by the clerk of the court of appeals, at the direction of the chief judge of the circuit or his designee and under the seal of the court, and shall be served in the manner provided in rule 45(c) of the Federal Rules of Civil Procedure for subpoenas and subpoenas duces tecum issued on behalf of the United States or an officer or agency thereof.
 
 (2) All judicial officers and employees of the circuit shall promptly carry into effect all orders of the judicial council. In the case of failure to comply with an order made under this subsection or a subpoena issued under chapter 16 of this title, a judicial council or a special committee appointed under section 353 of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.
 
@@ -24,7 +24,7 @@
 
 (4) Each judicial council shall periodically review the rules which are prescribed under section 2071 of this title by district courts within its circuit for consistency with rules prescribed under section 2072 of this title. Each council may modify or abrogate any such rule found inconsistent in the course of such a review.
 
-(e) The judicial council of each circuit may appoint a circuit executive. In appointing a circuit executive, the judicial council shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated to him by the circuit council. The duties delegated to the circuit executive of each circuit may include but need not be limited to:
+(e) The judicial council of each circuit may appoint a circuit executive. In appointing a circuit executive, the judicial council shall take intoaccount experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated to him by the circuit council. The duties delegated to the circuit executive of each circuit may include but need not be limited to:
 
 (1) Exercising administrative control of all nonjudicial activities of the court of appeals of the circuit in which he is appointed.
 
@@ -62,7 +62,7 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 (2) The circuit executive shall be paid the salary for circuit executives established under subsection (f) of this section.
 
-(3) The circuit executive may appoint, with the approval of the court, necessary employeesin such number as may be approved by the Director of the Administrative Office of the United States Courts.
+(3) The circuit executive may appoint, with the approval of the court, necessary employees in such number as may be approved by the Director of the Administrative Office of the United States Courts.
 
 (4) The circuit executive and staff shall be deemed to be officers and employees of the United States within the meaning of the statutes specified in subsection (f)(4).
 
@@ -150,7 +150,7 @@ Subsec. (a). Pub. L. 96–458, §2(a), in par. (1) designated existing provision
 
 Subsec. (c). Pub. L. 96–458, §2(b), substituted "semiannually" for "quarterly".
 
-Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting "and appropriate" after "all necessary", substituting "justice within its circuit" for "the business of the courts within its circuit", striking out "The district judges shall promptly carry into effect all orders of the judicial council." after "within its circuit.", inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas and service thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
+Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting "and appropriate" after "all necessary", substituting "justice within its circuit" for "the business of the courts within its circuit", striking out "The district judges shall promptly carry into effect all orders of the judicial council." after "within its circuit.", inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas andservice thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting "and bankruptcy judges" after "The district judges", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 

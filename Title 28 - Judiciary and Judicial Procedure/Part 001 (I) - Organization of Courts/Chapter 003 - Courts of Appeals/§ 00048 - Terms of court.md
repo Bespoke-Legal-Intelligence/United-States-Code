@@ -26,7 +26,7 @@
 
 (d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
-(e) Each court of appeals may hold special sessions at any place within the United States outside the circuit as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicialcouncil of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could be held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
+(e) Each court of appeals may hold special sessions at any place within the United States outside the circuit as the nature of the businessmay require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicial council of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could be held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
 
 (f) If a court of appeals issues an order exercising its authority under subsection (e), the court—
 

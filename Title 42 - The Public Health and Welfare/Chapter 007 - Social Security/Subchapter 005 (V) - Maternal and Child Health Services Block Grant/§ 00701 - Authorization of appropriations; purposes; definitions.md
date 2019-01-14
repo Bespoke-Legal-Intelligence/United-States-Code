@@ -16,7 +16,7 @@
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
-&emsp;&emsp;(A) maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4), health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
+&emsp;&emsp;(A) maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and\(B) of subsection (b)(4), health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
 
 &emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX,
 
@@ -64,9 +64,11 @@
 
 &emsp;(iv) $2,500,000 for the portion of fiscal year 2014 before April 1, 2014;
 
-&emsp;(v) $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014; and
+&emsp;(v) $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014;
 
-&emsp;(vi) $5,000,000 for each of fiscal years 2015 through 2017.
+&emsp;(vi) $5,000,000 for each of fiscal years 2015 through 2017; and
+
+&emsp;(vii) $6,000,000 for each of fiscal years 2018 and 2019.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -100,13 +102,19 @@
 
 &emsp;(B) With respect to fiscal year 2008, such centers shall be developed in not less than 40 States.
 
-&emsp;(C) With respect to fiscal year 2009 and each fiscal year thereafter, such centers shall be developed in all States.
+&emsp;(C) With respect to fiscal year 2009 and each fiscal year thereafter, such centers shall be developed in all States, and with respect to fiscal years 2018 and 2019, such centers shall also be developed in all territories and at least one such center shall be developed for Indian tribes.
 
 (4) The provisions of this subchapter that are applicable to the funds made available to the Secretary under section 702(a)(1) of this title apply in the same manner to funds made available to the Secretary under paragraph (1)(A).
 
-(5) For purposes of this subsection, the term "State" means each of the 50 States and the District of Columbia.
+(5) For purposes of this subsection—
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153.)
+&emsp;(A) the term "Indian tribe" has the meaning given such term in section 1603 of title 25;
+
+&emsp;(B) the term "State" means each of the 50 States and the District of Columbia; and
+
+&emsp;(C) the term "territory" means Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50501, Feb. 9, 2018, 132 Stat. 224.)
 
 #### References in Text
 
@@ -128,9 +136,15 @@ A prior section 701, act Aug. 14, 1935, ch. 531, title V, §501, as added Jan. 2
 
 Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §501, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(1), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(a), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(a), 72 Stat. 1054; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §2(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §201(a), 79 Stat. 353, authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301.
 
-Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4,77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(A)(vii). Pub. L. 115–123, §50501(1), added cl. (vii).
+
+Subsec. (c)(3)(C). Pub. L. 115–123, §50501(2), inserted ", and with respect to fiscal years 2018 and 2019, such centers shall also be developed in all territories and at least one such center shall be developed for Indian tribes" before period at end.
+
+Subsec. (c)(5). Pub. L. 115–123, §50501(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "For purposes of this subsection, the term 'State' means each of the 50 States and the District of Columbia."
 
 <b>2015</b>—Subsec. (c)(1)(A)(vi). Pub. L. 114–10 added cl. (vi) and struck out former cl. (vi) which read as follows: "$2,500,000 for the portion of fiscal year 2015 before April 1, 2015."
 
@@ -216,7 +230,7 @@ Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
 "(b)(1) The Secretary of Health and Human Services (hereinafter in this section referred to as the 'Secretary') may not provide for any allotment to a State under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
 
-"(2)(A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit thetermination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
+"(2)(A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit the termination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
 
 "(B) The Secretary shall not make or renew any grants or contracts under the provisions of the consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or an entity in the State) after the date the State becomes entitled to an allotment of funds under title V of the Social Security Act (as amended by this subtitle).
 
@@ -224,7 +238,7 @@ Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
 "(B) Notwithstanding any other provision of law—
 
-&emsp;"(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
+&emsp;"(i) the amount that may be made available for expenditures for the consolidated Federal programs forfiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
 &emsp;"(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[42 U.S.C. 702(b)\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
@@ -290,7 +304,7 @@ Field testing and evaluation.—The Secretary shall complete publication of the 
 
 &emsp;"(3)
 
-Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former 42 U.S.C. 254b, 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former 42 U.S.C. 256\], the 'WIC' program under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], and the head start program under the Head Start Act \[42 U.S.C. 9831 et seq.\]) that serve high-risk women. The Secretaryshall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
+Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former 42 U.S.C. 254b, 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former 42 U.S.C. 256\], the 'WIC' program under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], and the head start program under the Head Start Act \[42 U.S.C. 9831 et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
 "(b)
 

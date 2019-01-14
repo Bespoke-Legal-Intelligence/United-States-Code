@@ -1,6 +1,6 @@
 ### §7257. Recall of retired judges
 
-(a)(1) A retired judge of the Court may be recalled for further service on the Court in accordance with this section. To be eligible to be recalled for such service, a retired judge must at the time of the judge's retirement provide to the chief judge of the Court (or, in the case of the chief judge, to the clerk of the Court) notice in writing that the retired judge is available for further service on the Court in accordance withthis section and is willing to be recalled under this section. Such a notice provided by a retired judge to whom section 7296(c)(1)(B) of this title applies is irrevocable.
+(a)(1) A retired judge of the Court may be recalled for further service on the Court in accordance with this section. To be eligible to be recalled for such service, a retired judge must at the time of the judge's retirement provide to the chief judge of the Court (or, in the case of the chief judge, to the clerk of the Court) notice in writing that the retired judge is available for further service on the Court in accordance with this section and is willing to be recalled under this section. Such a notice provided by a retired judge to whom section 7296(c)(1)(B) of this title applies is irrevocable.
 
 (2) For the purposes of this section—
 

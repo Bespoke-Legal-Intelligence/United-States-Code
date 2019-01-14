@@ -26,9 +26,9 @@ Subsec. (b). Pub. L. 102–583, §6(b)(5)(B), substituted "(relating to the 'For
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 
-Pub. L. 100–690, title IV, §4206(b), Nov. 18, 1988, 102 Stat. 4270, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, Oct. 1, 1988, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4206(b), Nov. 18, 1988, 102 Stat. 4270, which provided that the enactment of thissection superseded section 578(d) of Pub. L. 100–461, Oct. 1, 1988, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 

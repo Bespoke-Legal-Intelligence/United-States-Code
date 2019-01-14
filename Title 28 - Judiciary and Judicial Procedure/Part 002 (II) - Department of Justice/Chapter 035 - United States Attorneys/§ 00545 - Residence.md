@@ -1,6 +1,6 @@
 ### §545. Residence
 
-(a) Each United States attorney shall reside in the district for which he is appointed, exceptthat these officers of the District of Columbia, the Southern District of New York, and the Eastern District of New York may reside within 20 miles thereof. Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof. The provisions of this subsection shall not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district. Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.
+(a) Each United States attorney shall reside in the district for which he is appointed, except that these officers of the District of Columbia, the Southern District of New York, and the Eastern District of New York may reside within 20 miles thereof. Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof. The provisions of this subsection shall not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district. Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.
 
 (b) The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
@@ -40,7 +40,7 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the UnitedStates Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 

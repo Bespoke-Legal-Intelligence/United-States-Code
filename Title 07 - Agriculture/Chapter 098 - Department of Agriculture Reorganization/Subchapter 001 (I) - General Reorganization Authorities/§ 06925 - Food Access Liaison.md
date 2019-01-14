@@ -1,0 +1,32 @@
+### §6925. Food Access Liaison
+
+#### (a) Establishment
+
+The Secretary shall establish the position of Food Access Liaison to coordinate Department programs to reduce barriers to food access and monitor and evaluate the progress of such programs in accordance with this section.
+
+#### (b) Duties
+
+The Food Access Liaison shall—
+
+&emsp;(1) coordinate the efforts of the Department, including regional offices, to experiment andconsider programs and policies aimed at reducing barriers to food access for consumers, including but not limited to participants in nutrition assistance programs;
+
+&emsp;(2) provide outreach to entities engaged in activities to reduce barriers to food access in accordance with the statutory authorization for each program;
+
+&emsp;(3) provide outreach to entities engaged in activities to reduce barriers to food access, including retailers, markets, producers, and others involved in food production and distribution, with respect to the availability of, and eligibility for, Department programs;
+
+&emsp;(4) raise awareness of food access issues in interactions with employees of the Department;
+
+&emsp;(5) make recommendations to the Secretary with respect to efforts to reduce barriers to food access; and
+
+&emsp;(6) submit to Congress an annual report with respect to the efforts of the Department to reduce barriers to food access.
+
+(Pub. L. 103–354, title II, §225, as added Pub. L. 115–334, title XII, §12614(a), Dec. 20, 2018, 132 Stat. 5014.)
+
+#### Codification
+
+Another section 225 of Pub. L. 103–354 is classified to section 6931 of this title.
+
+#### Technical Assistance
+
+Pub. L. 115–334, title XII, §12614(b), Dec. 20, 2018, 132 Stat. 5014, provided that: "The Secretary \[of Agriculture\] shall provide technical assistance to entities that are participants, or seek to participate, in Department of Agriculture programs related to reduction of barriers to food access."
+

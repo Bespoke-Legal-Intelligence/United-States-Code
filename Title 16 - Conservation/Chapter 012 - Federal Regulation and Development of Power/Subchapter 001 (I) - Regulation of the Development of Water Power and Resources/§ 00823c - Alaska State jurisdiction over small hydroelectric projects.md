@@ -34,7 +34,7 @@ For purposes of this section, the term "qualifying project works" means project 
 
 &emsp;(1) that are not part of a project licensed under this part or exempted from licensing under this subchapter or section 2705 of this title prior to November 9, 2000;
 
-&emsp;(2) for which a preliminary permit, a license application, or an application for an exemption from licensing has not been accepted for filing by the Commission prior to November 9, 2000 (unless such application is withdrawn at the election of the applicant);
+&emsp;(2) for which a preliminary permit, a license application, or an application for an exemption from licensing has not been accepted forfiling by the Commission prior to November 9, 2000 (unless such application is withdrawn at the election of the applicant);
 
 &emsp;(3) that are part of a project that has a power production capacity of 5,000 kilowatts or less;
 
@@ -72,7 +72,7 @@ Notwithstanding subsection (a), the Commission shall reassert its licensing and 
 
 #### (i) Determination by the Commission
 
-(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska'sregulatory program for water-power development to determine whether it complies with the requirements of subsection (a).
+(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska's regulatory program for water-power development to determine whether it complies with the requirements of subsection (a).
 
 (2) The Commission's review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska's regulatory program for water-power development complies with the requirements of subsection (a).
 

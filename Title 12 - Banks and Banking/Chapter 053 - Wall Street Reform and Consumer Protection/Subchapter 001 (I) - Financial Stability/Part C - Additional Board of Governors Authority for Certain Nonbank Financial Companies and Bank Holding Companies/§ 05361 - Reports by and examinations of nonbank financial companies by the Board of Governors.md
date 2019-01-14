@@ -24,7 +24,7 @@
 
 #### (3) Availability
 
-&emsp;Upon the request of the Board of Governors, a nonbank financial company supervised bythe Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
+&emsp;Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
 
 #### (b) Examinations
 

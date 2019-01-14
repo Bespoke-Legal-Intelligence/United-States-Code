@@ -1,6 +1,6 @@
 ### §5039. Commitment
 
-No juvenile committed, whether pursuant to an adjudication of delinquency or conviction foran offense, to the custody of the Attorney General may be placed or retained in an adult jail or correctional institution in which he has regular contact with adults incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges.
+No juvenile committed, whether pursuant to an adjudication of delinquency or conviction for an offense, to the custody of the Attorney General may be placed or retained in an adult jail orcorrectional institution in which he has regular contact with adults incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges.
 
 Every juvenile who has been committed shall be provided with adequate food, heat, light, sanitary facilities, bedding, clothing, recreation, counseling, education, training, and medical care including necessary psychiatric, psychological, or other care and treatment.
 
@@ -11,4 +11,8 @@ Whenever possible, the Attorney General shall commit a juvenile to a foster home
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 inserted ", whether pursuant to an adjudication of delinquency or conviction for an offense," after "committed" in first par.
+
+#### Repeals
+
+Section 509 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 

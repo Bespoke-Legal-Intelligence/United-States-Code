@@ -54,7 +54,7 @@ The Administrator, in coordination with the Technical Mapping Advisory Council e
 
 &emsp;&emsp;(C) any relevant information on land subsidence, coastal erosion areas, changing lake levels, and other flood-related hazards;
 
-&emsp;&emsp;(D) any relevant information or data of the National Oceanic and Atmospheric Administration and the United States Geological Survey relating to the best available science regarding future changes in sea levels, precipitation, and intensity of hurricanes; and
+&emsp;&emsp;(D) any relevant information or data of the National Oceanic and Atmospheric Administration and the United States Geological Survey relating to the best available scienceregarding future changes in sea levels, precipitation, and intensity of hurricanes; and
 
 &emsp;&emsp;(E) any other relevant information as may be recommended by the Technical Mapping Advisory Committee.
 
@@ -90,7 +90,7 @@ In updating and maintaining maps under this section, the Administrator shall—
 
 &emsp;&emsp;(B) provide each community affected a 30-day period beginning upon notification under subparagraph (A) to consult with the Administrator regarding the appropriateness, with respect to such community, of the mapping model or models to be used; provided that consultation by a community pursuant to this subparagraph shall not waive or otherwise affect any right of the community to appeal any flood hazard determinations;
 
-&emsp;&emsp;(C) upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator <sup>1</sup> that can be usedto supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
+&emsp;&emsp;(C) upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator <sup>1</sup> that can be used to supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
 
 &emsp;&emsp;(D) work with States, local communities, and property owners to identify areas and features described in subsection (b)(1)(A)(v);
 

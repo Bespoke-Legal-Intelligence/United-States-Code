@@ -12,7 +12,7 @@
 
 #### Foreign Built Vessels, Equivalent Compliance Until July 28, 1990
 
-Pub. L. 100–424, §7, Sept. 9, 1988, 102 Stat. 1592, provided that: "Until July 28, 1990, a foreign built fishprocessing vessel subject to chapter 45 of title 46, United States Code, is deemed to comply with the requirements of that chapter if—
+Pub. L. 100–424, §7, Sept. 9, 1988, 102 Stat. 1592, provided that: "Until July 28, 1990, a foreign built fish processing vessel subject to chapter 45 of title 46, United States Code, is deemed to comply with the requirements of that chapter if—
 
 &emsp;"(1) it has an unexpired certificate of inspection issued by a foreign country that is a party to an International Convention for Safety of Life at Sea to which the United States Government is a party; and
 

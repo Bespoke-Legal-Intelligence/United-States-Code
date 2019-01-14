@@ -6,7 +6,7 @@ The Congress finds that security assistance surveys prepared by the United State
 
 #### (b) Reporting requirements
 
-As part of the quarterly report required by section 2776(a) of this title, the President shallinclude a list of all security assistance surveys authorized during the preceding calendar quarter, specifying the country with respect to which the survey was or will be conducted, the purpose of the survey, and the number of United States Government personnel who participated or will participate in the survey.
+As part of the quarterly report required by section 2776(a) of this title, the President shall include a list of all security assistance surveys authorized during the preceding calendar quarter, specifying the country with respect to which the survey was or will be conducted, the purpose of the survey, and the number of United States Government personnel who participated or will participate in the survey.
 
 #### (c) Submission of surveys to Congress
 
@@ -20,7 +20,7 @@ As used in this section, the term "security assistance surveys" means any survey
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

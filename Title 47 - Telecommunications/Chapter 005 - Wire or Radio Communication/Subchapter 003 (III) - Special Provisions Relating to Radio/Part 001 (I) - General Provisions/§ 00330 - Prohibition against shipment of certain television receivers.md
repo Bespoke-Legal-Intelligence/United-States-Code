@@ -14,7 +14,7 @@
 
 &emsp;(A) enables parents to block programming based on identifying programs without ratings,
 
-&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology thatallows parents to block programming based on common ratings, and
+&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology that allows parents to block programming based on common ratings, and
 
 &emsp;(C) will allow parents to block a broad range of programs on a multichannel system as effectively and as easily as technology that allows parents to block programming based on common ratings,
 

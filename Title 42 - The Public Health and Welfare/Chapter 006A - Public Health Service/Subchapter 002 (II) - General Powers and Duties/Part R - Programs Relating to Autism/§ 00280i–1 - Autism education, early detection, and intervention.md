@@ -128,7 +128,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities; and
 
-&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in section 300ii of this title); and
+&emsp;&emsp;&emsp;(v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers ofrespite care (as defined in section 300ii of this title); and
 
 &emsp;&emsp;(C) program sites provide culturally competent services.
 

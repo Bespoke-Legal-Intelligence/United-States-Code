@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the possible methods, such as Internet or other communications technologies, that may be utilized in the electoral process, including the use of those technologies to register voters and enable citizens to vote online, and recommendations concerning statutes and rules to be adopted in order to implement an online or Internet system in the electoral process;
 
-&emsp;&emsp;(C) the impact that new communications or Internet technology systems for use in the electoral process could have on voter participation rates, voter education, public accessibility, potential external influences during the elections process, voter privacy and anonymity, and other issues related to the conduct and administration of elections;
+&emsp;&emsp;(C) the impact that new communications or Internet technology systems for use in the electoral process could have on voter participation rates, voter education, public accessibility, potential external influences during the elections process, voter privacyand anonymity, and other issues related to the conduct and administration of elections;
 
 &emsp;&emsp;(D) whether other aspects of the electoral process, such as public availability of candidate information and citizen communication with candidates, could benefit from the increased use of online or Internet technologies;
 

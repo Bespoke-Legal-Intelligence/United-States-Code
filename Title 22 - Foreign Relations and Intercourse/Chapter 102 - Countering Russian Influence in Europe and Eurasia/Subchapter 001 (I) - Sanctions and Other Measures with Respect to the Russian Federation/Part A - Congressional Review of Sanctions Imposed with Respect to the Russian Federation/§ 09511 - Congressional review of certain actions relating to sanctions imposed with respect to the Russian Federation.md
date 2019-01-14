@@ -88,7 +88,7 @@
 
 #### (5) Limitation on actions during congressional reconsideration of a joint resolution of disapproval
 
-&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), and the President vetoes the joint resolution, the President may not take that action for a period of 10 calendar days after the date of the President's veto.
+&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating toa report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), and the President vetoes the joint resolution, the President may not take that action for a period of 10 calendar days after the date of the President's veto.
 
 #### (6) Effect of enactment of a joint resolution of disapproval
 
@@ -124,7 +124,7 @@ In this subsection:
 
 #### (4) Floor consideration in House of Representatives
 
-&emsp;If a committee of the House of Representatives to which a joint resolution of approval orjoint resolution of disapproval has been referred has not reported the joint resolution within 10 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
+&emsp;If a committee of the House of Representatives to which a joint resolution of approval or joint resolution of disapproval has been referred has not reported the joint resolution within 10 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
 
 #### (5) Consideration in the Senate
 
@@ -146,7 +146,7 @@ In this subsection:
 
 #### (D) Rulings of the chair on procedure
 
-&emsp;&emsp;Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution of approval or joint resolution of disapproval shall be decided without debate.
+&emsp;&emsp;Appeals from the decisions of the Chair relating to the application of the rules of theSenate, as the case may be, to the procedure relating to a joint resolution of approval or joint resolution of disapproval shall be decided without debate.
 
 #### (E) Consideration of veto messages
 

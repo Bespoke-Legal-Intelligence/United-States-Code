@@ -10,7 +10,7 @@
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated for each of fiscal years 2006 through 2009, $5,000,000for educating and training federal law enforcement regarding organized retail theft, for investigating, apprehending and prosecuting individuals engaged in organized retail theft, and for working with the private sector to establish and utilize the database described in subsection (a).
+There is authorized to be appropriated for each of fiscal years 2006 through 2009, $5,000,000 for educating and training federal law enforcement regarding organized retail theft, for investigating, apprehending and prosecuting individuals engaged in organized retail theft, and for working with the private sector to establish and utilize the database described in subsection (a).
 
 #### (c) Definition of organized retail theft
 

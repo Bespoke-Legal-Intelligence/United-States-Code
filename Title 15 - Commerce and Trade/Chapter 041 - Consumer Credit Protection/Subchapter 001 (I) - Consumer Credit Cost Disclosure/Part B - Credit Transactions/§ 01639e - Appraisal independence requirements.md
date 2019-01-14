@@ -42,7 +42,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
+&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board,the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
 
 #### (2) Interim final regulations
 
@@ -60,11 +60,17 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 #### (2) Fee appraiser definition
 
-&emsp;For purposes of this section, the term "fee appraiser" means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
+#### (A) In general
 
-&emsp;&emsp;(A) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
+&emsp;&emsp;For purposes of this section, the term "fee appraiser" means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
 
-&emsp;&emsp;(B) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;&emsp;(i) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
+
+&emsp;&emsp;&emsp;(ii) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+
+#### (B) Rule of construction related to appraisal donations
+
+&emsp;&emsp;If a fee appraiser voluntarily donates appraisal services to an organization eligible to receive tax-deductible charitable contributions, such voluntary donation shall be considered customary and reasonable for the purposes of paragraph (1).
 
 #### (3) Exception for complex assignments
 
@@ -88,7 +94,11 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 &emsp;The agency referred to in subsection (a) or (c) of section 1607 of this title with respect to any person described in paragraph (1) shall assess any penalty under this subsection to which such person is subject.
 
-(Pub. L. 90–321, title I, §129E, as added Pub. L. 111–203, title XIV, §1472(a), July 21, 2010, 124 Stat. 2187.)
+(Pub. L. 90–321, title I, §129E, as added Pub. L. 111–203, title XIV, §1472(a), July 21, 2010, 124 Stat. 2187; amended Pub. L. 115–174, title I, §102, May 24, 2018, 132 Stat. 1299.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (i)(2). Pub. L. 115–174 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 #### Effective Date
 

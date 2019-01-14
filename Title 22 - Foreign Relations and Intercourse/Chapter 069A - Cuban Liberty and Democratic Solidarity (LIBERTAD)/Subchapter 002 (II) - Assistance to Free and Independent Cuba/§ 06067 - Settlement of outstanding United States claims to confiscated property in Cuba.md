@@ -8,7 +8,7 @@ Not later than 180 days after March 12, 1996, the Secretary of State shall provi
 
 &emsp;(2) an assessment of the significance of promptly resolving confiscated property claims to the revitalization of the Cuban economy;
 
-&emsp;(3) a review and evaluation of technical and other assistance that the United States couldprovide to help either a transition government in Cuba or a democratically elected government in Cuba establish mechanisms to resolve property questions;
+&emsp;(3) a review and evaluation of technical and other assistance that the United States could provide to help either a transition government in Cuba or a democratically elected government in Cuba establish mechanisms to resolve property questions;
 
 &emsp;(4) an assessment of the role and types of support the United States could provide to help resolve claims to property confiscated by the Cuban Government that are held by United States nationals who did not receive or qualify for certification under section 1643f of this title; and
 

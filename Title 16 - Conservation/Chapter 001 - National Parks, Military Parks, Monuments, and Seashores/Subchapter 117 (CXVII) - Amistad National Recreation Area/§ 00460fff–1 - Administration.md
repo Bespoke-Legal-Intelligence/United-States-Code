@@ -6,7 +6,7 @@ The Secretary shall administer the recreation area in accordance with applicable
 
 #### (b) Compliance with treaties and other commitments or agreements
 
-The administration of the recreation area by the Secretary shall be subject to and in accordance with all applicable treaties, including the treaty between the United States and Mexico relating to the utilization of waters of the Colorado and Tijuana Rivers and the Rio Grande, entered into force November 8, 1945 (59 Stat. 1219,<sup>2</sup> and in accordance with sections 277d–13 to 277d–16 of title 22, and any commitment or agreement entered into pursuant to such treaty or sections, including (but not limited to) commitments or agreements relating to—
+The administration of the recreation area by the Secretary shall be subject to and in accordance with all applicable treaties, including the treaty between the United States and Mexico relating to the utilization of waters of the Colorado and Tijuana Rivers and the Rio Grande, entered into force November 8, 1945 (59 Stat. 1219,<sup>2</sup> and in accordance with sections 277d–13 to277d–16 of title 22, and any commitment or agreement entered into pursuant to such treaty or sections, including (but not limited to) commitments or agreements relating to—
 
 &emsp;(1) the demarcation and maintenance of boundaries;
 

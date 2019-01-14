@@ -28,7 +28,7 @@ As used in this chapter—
 
 #### (7) Industry information
 
-&emsp;The term "industry information" means information and programs that are designed to lead to the development of new markets and marketing strategies, increased efficiency, and activities to enhance the image of the mushroom industry.
+&emsp;The term "industry information" means information and programs that are designed to lead to the development of new markets andmarketing strategies, increased efficiency, and activities to enhance the image of the mushroom industry.
 
 #### (8) Marketing
 

@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) Eligible differential wage payments
 
-&emsp;The term "eligible differential wage payments" means, with respect to each qualified employee, so much of the differential wage payments (as defined in section 3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.
+&emsp;The term "eligible differential wage payments" means, with respect to each qualifiedemployee, so much of the differential wage payments (as defined in section 3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.
 
 #### (2) Qualified employee
 

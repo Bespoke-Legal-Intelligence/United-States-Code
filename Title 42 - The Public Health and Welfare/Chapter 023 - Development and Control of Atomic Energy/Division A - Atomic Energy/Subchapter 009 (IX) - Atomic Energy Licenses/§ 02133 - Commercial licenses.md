@@ -2,7 +2,7 @@
 
 #### (a) Conditions
 
-The Commission is authorized to issue licenses to persons applying therefor to transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, use, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, utilization or production facilities for industrial or commercial purposes. Such licenses shall be issued in accordance with the provisions of subchapter XV and subject to such conditions as the Commission may by rule or regulation establish to effectuate the purposes and provisions of this chapter.
+The Commission is authorized to issue licenses to persons applying therefor to transfer or receive in interstate commerce, manufacture,produce, transfer, acquire, possess, use, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, utilization or production facilities for industrial or commercial purposes. Such licenses shall be issued in accordance with the provisions of subchapter XV and subject to such conditions as the Commission may by rule or regulation establish to effectuate the purposes and provisions of this chapter.
 
 #### (b) Nonexclusive basis
 
@@ -37,6 +37,64 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 <b>1956</b>—Subsec. (a). Act Aug. 6, 1956, §12, inserted "use," after "possess,".
 
 Subsec. (d). Act Aug. 6, 1956, §13, inserted "an alien or any" after "issued to".
+
+#### Advanced Nuclear Reactor Program Licensing
+
+Pub. L. 115–439, title I, §103(a), Jan. 14, 2019, 132 Stat. 5571, provided that:
+
+"(1)
+
+Staged licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 270 days after the date of enactment of this Act \[Jan. 14, 2019\], the \[Nuclear Regulatory\] Commission shall develop and implement, within the existing regulatory framework, strategies for—
+
+&emsp;"(A) establishing stages in the licensing process for commercial advanced nuclear reactors; and
+
+&emsp;"(B) developing procedures and processes for—
+
+&emsp;&emsp;"(i) using a licensing project plan; and
+
+&emsp;&emsp;"(ii) optional use of a conceptual design assessment.
+
+"(2)
+
+Risk-informed licensing.—Not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement, where appropriate, strategies for the increased use of risk-informed, performance-based licensing evaluation techniques and guidance for commercial advanced nuclear reactors within the existing regulatory framework, including evaluation techniques and guidance for the resolution of the following:
+
+&emsp;"(A) Applicable policy issues identified during the course of review by the Commission of a commercial advanced nuclear reactor licensing application.
+
+&emsp;"(B) The issues described in SECY–93–092 and SECY–15–077, including—
+
+&emsp;&emsp;"(i) licensing basis event selection and evaluation;
+
+&emsp;&emsp;"(ii) source terms;
+
+&emsp;&emsp;"(iii) containment performance; and
+
+&emsp;&emsp;"(iv) emergency preparedness.
+
+"(3)
+
+Research and test reactor licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement strategies within the existing regulatory framework for licensing research and test reactors, including the issuance of guidance.
+
+"(4)
+
+Technology-inclusive regulatory framework.—Not later than December 31, 2027, the Commission shall complete a rulemaking to establish a technology-inclusive, regulatory framework for optional use by commercial advanced nuclear reactor applicants for new reactor license applications.
+
+"(5)
+
+Training and expertise.—As soon as practicable after the date of enactment of this Act, the Commission shall provide for staff training or the hiring of experts, as necessary—
+
+&emsp;"(A) to support the activities described in paragraphs (1) through (4); and
+
+&emsp;"(B) to support preparations—
+
+&emsp;&emsp;"(i) to conduct pre-application interactions; and
+
+&emsp;&emsp;"(ii) to review commercial advanced nuclear reactor license applications.
+
+"(6)
+
+Authorization of appropriations.—There is authorized to be appropriated to the Commission to carry out this subsection $14,420,000 for each of fiscal years 2020 through 2024."
+
+\[For definitions of terms used in section 103(a) of Pub. L. 115–439, set out above, see section 3 of Pub. L. 115–439, set out as a note under section 2215 of this title.\]
 
 <i><sup>1</sup></i><i> So in original.</i>
 

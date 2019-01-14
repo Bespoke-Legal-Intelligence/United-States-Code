@@ -16,7 +16,7 @@
 
 &emsp;(B) for each of the second six months of the individual's pursuit of such program, 55 percent of such monthly educational assistance allowance; and
 
-&emsp;(C) for each of the months following the first 12 months of the individual's pursuit of such program, 35 percent of such monthly educational assistance allowance.
+&emsp;(C) for each of the months following the first 12 months of the individual's pursuit of suchprogram, 35 percent of such monthly educational assistance allowance.
 
 (2) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under this chapter to the individual shall be limited to the same proportion of the applicable rate determined under paragraph (1) of this subsection as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
@@ -42,7 +42,7 @@
 
 (3) In each case in which the rate of payment to an individual is determined under paragraph (1) of this subsection, the period of entitlement of such individual under this chapter shall be charged at the rate of one month for each payment of educational assistance to the individual that is equal to the amount of monthly educational assistance the individual would otherwise be eligible to receive for full-time pursuit of an institutional course under this chapter.
 
-(e)(1) Notwithstanding subsection (a) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3034(d) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees whichsimilarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+(e)(1) Notwithstanding subsection (a) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3034(d) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 99–576, §301(b), added subsec. (c).
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment ofPub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
+Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
 
 #### Effective Date of 2000 Amendment
 

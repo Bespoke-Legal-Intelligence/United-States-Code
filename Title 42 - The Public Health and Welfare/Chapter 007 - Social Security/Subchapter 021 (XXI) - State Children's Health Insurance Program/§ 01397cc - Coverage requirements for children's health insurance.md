@@ -226,7 +226,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Group health plans and group health insurance coverage
 
-&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
+&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contractwith, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
 
 #### (2) Compliance with other requirements
 
@@ -236,7 +236,39 @@ The benchmark benefit packages are as follows:
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, this section is amended:</i>
+
+<i>(1) in subsection (a), in the matter before paragraph (1), by striking "paragraphs (5), (6), and (7)" and inserting "paragraphs (5), (6), (7), and (8)"; and</i>
+
+<i>(2) in subsection (c)—</i>
+
+<i>(A) in paragraph (1), by adding at the end the following new subparagraph:</i>
+
+&emsp;&emsp;<i>"(E) Mental health and substance use disorder services (as defined in paragraph (5))."</i>
+
+<i>(B) by redesignating paragraphs (5), (6), (7), and (8) as paragraphs (6), (7), (8), and (9), respectively;</i>
+
+<i>(C) by inserting after paragraph (4) the following new paragraph:</i>
+
+#### <i>"(5) Mental health and substance use disorder services</i>
+
+&emsp;<i>"Regardless of the type of coverage elected by a State under subsection (a), child health assistance provided under such coverage for targeted low-income children and, in the case that the State elects to provide pregnancy-related assistance under such coverage pursuant to section 1397</i>ll of this title, such pregnancy-related assistance for targeted low-income pregnant women (as defined in section 1397ll(d) of this title) shall—
+
+&emsp;&emsp;<i>"(A) include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and</i>
+
+&emsp;&emsp;<i>"(B) be delivered in a culturally and linguistically appropriate manner."; and</i>
+
+<i>by amending paragraph (7)(A) to read as follows:</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section."</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -253,6 +285,16 @@ subpart 2—other requirements" (preceding section 300gg–4 of this title), and
 exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–271, §5022(b)(2)(A), substituted "paragraphs (5), (6), (7), and (8)" for "paragraphs (5), (6), and (7)" in introductory provisions.
+
+Subsec. (c)(1)(E). Pub. L. 115–271, §5022(a), added subpar. (E).
+
+Subsec. (c)(5) to (7). Pub. L. 115–271, §5022(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (c)(7)(A). Pub. L. 115–271, §5022(d), amended subpar. (A) generally. Prior to amendment, text read as follows: "In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such planshall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act in the same manner as such requirements apply to a group health plan."
+
+Subsec. (c)(8), (9). Pub. L. 115–271, §5022(b)(1), redesignated pars. (7) and (8) as (8) and (9), respectively.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–3, §502(b)(1), inserted ", (6)," after "(5)" in introductory provisions.
 
@@ -275,6 +317,10 @@ Subsec. (e)(2). Pub. L. 111–3, §111(b)(1), inserted "or pregnancy-related ass
 Subsec. (e)(3)(C). Pub. L. 111–3, §504(a), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–271 effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, see section 5022(e) of Pub. L. 115–271, set out as a note under section 1397bb of this title.
 
 #### Effective Date of 2009 Amendment
 

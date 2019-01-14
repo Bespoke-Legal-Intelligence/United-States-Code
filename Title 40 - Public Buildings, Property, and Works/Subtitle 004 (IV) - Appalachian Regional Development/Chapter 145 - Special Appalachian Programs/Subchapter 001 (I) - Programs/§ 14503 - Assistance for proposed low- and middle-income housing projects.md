@@ -82,7 +82,7 @@ Information, Advice, and Technical Assistance.—The Secretary or the Commission
 
 (g)
 
-Application of Certain Provisions.—Programs and projects assisted under this section are subject to the provisions cited in section 14701 of this title to the extent provided in thelaws authorizing assistance for low- and moderate-income housing.
+Application of Certain Provisions.—Programs and projects assisted under this section are subject to the provisions cited in section 14701 of this title to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1268; Pub. L. 110–371, §2(c), Oct. 8, 2008, 122 Stat. 4038.)
 

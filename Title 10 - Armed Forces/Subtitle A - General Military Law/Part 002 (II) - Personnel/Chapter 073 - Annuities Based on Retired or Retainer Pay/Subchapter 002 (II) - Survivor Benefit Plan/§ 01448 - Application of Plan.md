@@ -74,7 +74,7 @@ Irrevocability of elections.—
 
 &emsp;&emsp;(A)
 
-Standard annuity.—An election under paragraph (2)(A) is irrevocable if not revoked before the date on which the person first becomes entitled to retired pay.
+Standard annuity.—An election under paragraph (2)(A) is irrevocable if not revokedbefore the date on which the person first becomes entitled to retired pay.
 
 &emsp;&emsp;(B)
 
@@ -160,7 +160,7 @@ Coverage for person with insurable interest.—
 
 &emsp;&emsp;(A)
 
-General rule.—A person who is not married and does not have a dependent child upon becoming eligible to participate in thePlan may elect to provide an annuity under the Plan to a natural person with an insurable interest in that person. In the case of a person providing a reserve-component annuity, such an election shall include a designation under subsection (e).
+General rule.—A person who is not married and does not have a dependent child upon becoming eligible to participate in the Plan may elect to provide an annuity under the Plan to a natural person with an insurable interest in that person. In the case of a person providing a reserve-component annuity, such an election shall include a designation under subsection (e).
 
 &emsp;&emsp;(B)
 
@@ -416,7 +416,7 @@ Surviving spouse annuity.—The Secretary concerned shall pay an annuity under t
 
 &emsp;&emsp;&emsp;(ii) during the 90-day period beginning on the date he receives notification under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay if he had not made an election under subsection (a)(2)(B) to participate in the Plan; or
 
-&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and diesfrom an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
+&emsp;&emsp;(B) is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
 
 &emsp;(2)
 
@@ -458,7 +458,7 @@ Election.—A person—
 
 &emsp;&emsp;(B) who remarries,
 
-> &emsp;may elect, within one year of such remarriage, to increase the level of coverage provided under the Plan to a level not in excess of the current retired pay of that person.
+> &emsp;may elect, within one year of such remarriage, to increase the level of coverage providedunder the Plan to a level not in excess of the current retired pay of that person.
 
 &emsp;(2)
 
@@ -484,7 +484,7 @@ Disposition of payments.—A payment received under this subsection by the Secre
 
 #### Amendments
 
-<b>2016</b>—Subsec. (f)(2). Pub. L. 114–328, §642(b), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to section 1450(a)(4) of this title, of a person described in paragraph (1) if there isno surviving spouse or if the person's surviving spouse subsequently dies."
+<b>2016</b>—Subsec. (f)(2). Pub. L. 114–328, §642(b), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to section 1450(a)(4) of this title, of a person described in paragraph (1) if there is no surviving spouse or if the person's surviving spouse subsequently dies."
 
 Subsec. (f)(5). Pub. L. 114–328, §642(c), added par. (5).
 
@@ -658,7 +658,7 @@ Elections.—For any death that occurred before the date of the enactment of thi
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–92, div. A, title VI, §641(b), Nov. 25, 2015, 129 Stat. 853, provided that: "Paragraph (7) of section 1448(b) of title 10, United States Code, as added by subsection (a), shall apply with respect to any personwhose former spouse beneficiary dies on or after the date of the enactment of this Act \[Nov. 25, 2015\]."
+Pub. L. 114–92, div. A, title VI, §641(b), Nov. 25, 2015, 129 Stat. 853, provided that: "Paragraph (7) of section 1448(b) of title 10, United States Code, as added by subsection (a), shall apply with respect to any person whose former spouse beneficiary dies on or after the date of the enactment of this Act \[Nov. 25, 2015\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -840,7 +840,7 @@ Premium for Open Enrollment Election.—
 
 Premiums to be charged.—The Secretary of Defense shall prescribe in regulations premiums which a person electing under this section shall be required to pay for participating in the Survivor Benefit Plan pursuant to the election. The total amount of the premiums to be paid by a person under the regulations shall be equal to the sum of—
 
-&emsp;&emsp;"(A) the total amount by which the retired pay of the person would have been reduced before the effective date of the election if the person had elected to participate in the Survivor Benefit Plan (for the same base amount specified in the election) at the first opportunity that was afforded the member toparticipate under chapter 73 of title 10, United States Code;
+&emsp;&emsp;"(A) the total amount by which the retired pay of the person would have been reduced before the effective date of the election if the person had elected to participate in the Survivor Benefit Plan (for the same base amount specified in the election) at the first opportunity that was afforded the member to participate under chapter 73 of title 10, United States Code;
 
 &emsp;&emsp;"(B) interest on the amounts by which the retired pay of the person would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable; and
 
@@ -858,7 +858,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'Supplemental Survivor Benefit Plan' means the program established under subchapter III of chapter 73 of title 10, United States Code.
 
-&emsp;"(3) The term 'retired pay' includes retainer pay paid under section 6330 of title 10, United States Code.
+&emsp;"(3) The term 'retired pay' includes retainer pay paid under section 6330 \[now 8330\] of title 10, United States Code.
 
 &emsp;"(4) The terms 'uniformed services' and 'Secretary concerned' have the meanings given those terms in section 101 of title 37, United States Code.
 
@@ -930,7 +930,7 @@ Section 1406 of title XIV of div. A of Pub. L. 101–189, as amended by Pub. L. 
 
 &emsp;"(1) The term 'Survivor Benefit Plan' means the program established under subchapter II of chapter 73 of title 10, United States Code.
 
-&emsp;"(2) The term 'retired pay' includes retainer pay paid under section 6330 of title 10, United States Code.
+&emsp;"(2) The term 'retired pay' includes retainer pay paid under section 6330 \[now 8330\] of title 10, United States Code.
 
 &emsp;"(3) The terms 'uniformed services' and 'Secretary concerned' have the meanings given those terms in section 101 of title 37, United States Code.
 
@@ -978,7 +978,7 @@ Definitions.—For purposes of this section:
 
 "(f)
 
-Effective Date.—Annuities under this section shall be paid for months beginning after the month in which this Act is enacted \[September 1988\]. No benefit shall accrue to any person by reason of the enactment of this section for any period before the first month referred to in the preceding sentence. No benefit shall be paid to any person under this section unless an application for such benefit has been filed with the Secretary concerned by or on behalf of such person."
+Effective Date.—Annuities under this section shall be paid for months beginning after the month in which this Act is enacted \[September 1988\]. No benefit shall accrue to any person by reason of the enactment of this section for any period before the first month referred to in the preceding sentence. No benefit shall bepaid to any person under this section unless an application for such benefit has been filed with the Secretary concerned by or on behalf of such person."
 
 #### Authority for Certain Remarried Survivor Benefit Plan Participants To Withdraw From Plan
 
@@ -1076,7 +1076,7 @@ Pub. L. 92–425, §3, Sept. 21, 1972, 86 Stat. 711, as amended by Pub. L. 93–
 
 &emsp;"(2) to participate in that Plan, if he is a person covered by section 1448(b) of title 10, United States Code.
 
-"(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteenmonths after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
+"(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteen months after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
 
 &emsp;"(1) to participate in the Plan and continue his participation under chapter 73 of that title \[this chapter\] as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], except that the total of the annuities elected may not exceed 100 percent of his retired or retainer pay; or
 
@@ -1104,7 +1104,7 @@ Pub. L. 92–425, §3, Sept. 21, 1972, 86 Stat. 711, as amended by Pub. L. 93–
 
 #### Income Supplement for Certain Widows of Retired Members of the Uniformed Forces; Special Annuity for Widows of Commissioned Personnel of the Public Health Service and National Oceanic and Atmospheric Administration in Lieu of VA Pension
 
-Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–496, §2, Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §209, Sept. 30, 1978, 92 Stat. 848; Pub. L. 96–402, §6, Oct. 9, 1980, 94 Stat. 1708; Pub. L. 98–94, title IX, §942(a), Sept. 24, 1983, 97 Stat. 654; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 103–337, div. A, title X, §1070(d)(4), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 104–201, div. A, title VI, §638(a)–(c), Sept. 23, 1996, 110 Stat. 2581; Pub. L. 105–85, div. A, title VI, §645(b), Nov. 18, 1997, 111 Stat. 1801, provided that:
+Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–496, §2, Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §209, Sept. 30, 1978, 92 Stat. 848; Pub. L. 96–402, §6, Oct. 9, 1980, 94 Stat. 1708; Pub. L. 98–94, title IX, §942(a), Sept. 24, 1983, 97 Stat. 654; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 103–337, div. A, title X, §1070(d)(4), Oct. 5, 1994,108 Stat. 2858; Pub. L. 104–201, div. A, title VI, §638(a)–(c), Sept. 23, 1996, 110 Stat. 2581; Pub. L. 105–85, div. A, title VI, §645(b), Nov. 18, 1997, 111 Stat. 1801, provided that:
 
 "(a) A person—
 

@@ -36,7 +36,7 @@ Not more than $20,000,000 of the funds made available to carry out this part for
 
 #### (d) Obligation of funds
 
-Funds may not be obligated for assistance under this section unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified of the amount and nature of the proposed assistance at least 15 days in advance in accordance with the procedures applicable to reprogrammings pursuant to section 2394–1 of this title.
+Funds may not be obligated for assistance under this section unless the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified of the amount and nature of the proposed assistance at least 15 days in advance in accordance with the procedures applicable toreprogrammings pursuant to section 2394–1 of this title.
 
 #### (e) Participation of Defense personnel in training prohibited; availability of funds; expiration of authority
 

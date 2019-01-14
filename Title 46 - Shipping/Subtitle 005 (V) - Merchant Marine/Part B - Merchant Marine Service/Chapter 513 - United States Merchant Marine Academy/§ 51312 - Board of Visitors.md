@@ -52,7 +52,7 @@ Term of service.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
+In general.—Except as provided in subparagraph (B), each member of theBoard, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
 
 &emsp;&emsp;(B)
 

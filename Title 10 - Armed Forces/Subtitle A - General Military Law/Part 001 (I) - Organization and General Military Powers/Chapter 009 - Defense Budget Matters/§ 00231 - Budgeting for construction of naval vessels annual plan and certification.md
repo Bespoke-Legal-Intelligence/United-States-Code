@@ -28,9 +28,11 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 
 &emsp;(E) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (D).
 
+&emsp;(F) The estimated operations and sustainment costs required to support the vessels delivered under the naval vessel construction plan.
+
 (c)
 
-Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include ananalysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title.
+Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title.
 
 (d)
 
@@ -38,7 +40,7 @@ CBO Evaluation.—Not later than 60 days after the date on which the congression
 
 (e)
 
-Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
+Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in whichsuch materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
 
 (2) The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
 
@@ -56,13 +58,15 @@ Definitions.—In this section:
 
 &emsp;(5) The term "auxiliary vessel" means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547.)
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547; Pub. L. 115–232, div. A, title X, §1011, Aug. 13, 2018, 132 Stat. 1947.)
 
 #### References in Text
 
 Section 118 of this title, referred to in subsec. (f)(3), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118, see section 113(g) of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(F). Pub. L. 115–232 added subpar. (F).
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91, §1021(d)(1)(A), substituted "year each of the following:" for "year—" in introductory provisions.
 

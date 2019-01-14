@@ -12,5 +12,5 @@ The provisions of chapter 7 of title 5, United States Code, apply to judicial re
 
 #### Effective Date
 
-Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub.L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 

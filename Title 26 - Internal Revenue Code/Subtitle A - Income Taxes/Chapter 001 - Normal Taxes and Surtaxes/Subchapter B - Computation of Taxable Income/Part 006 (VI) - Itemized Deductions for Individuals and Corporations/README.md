@@ -55,7 +55,7 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applica</i><i>ble to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.</i>
+<i>Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.</i>
 
 #### Amendments
 

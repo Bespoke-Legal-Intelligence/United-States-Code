@@ -86,7 +86,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (j) Processing fee
 
-The appropriate Federal banking agency may, in the sole discretion of the appropriate Federalbanking agency, assess against any person that submits to the appropriate Federal banking agency an application, filing, notice, or request a fee to cover the cost of processing such submission.
+The appropriate Federal banking agency may, in the sole discretion of the appropriate Federal banking agency, assess against any person that submits to the appropriate Federal banking agency an application, filing, notice, or request a fee to cover the cost of processing such submission.
 
 #### (k) Fees for examinations and supervisory activities
 
@@ -94,7 +94,7 @@ The appropriate Federal banking agency may assess against an institution fees to
 
 #### (l) Working capital
 
-The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capital fund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
+The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capitalfund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
 
 #### (m) Use of funds
 
@@ -156,13 +156,13 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 relating to civil penalties applicable with respect to violations committedand activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
+Amendment by Pub. L. 101–73 relating to civil penalties applicable with respect to violations committed and activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
 
 #### Submission of Proposed Regulations to Congress
 
 Pub. L. 100–86, title IV, §402(c), Aug. 10, 1987, 101 Stat. 608, provided that: "Not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\]—
 
-&emsp;"(1) the Federal Home Loan Bank Board shall submit a copy of the proposed regulations required to be prescribed under the amendment made by subsection (a) \[enacting this section\] to the Congress; and
+&emsp;"(1) the Federal Home Loan Bank Board shall submit a copy of the proposed regulations required to beprescribed under the amendment made by subsection (a) \[enacting this section\] to the Congress; and
 
 &emsp;"(2) the Federal Savings and Loan Insurance Corporation shall submit a copy of the proposed regulations required to be prescribed under the amendment made by subsection (b) \[enacting section 1730h of this title\] to the Congress."
 

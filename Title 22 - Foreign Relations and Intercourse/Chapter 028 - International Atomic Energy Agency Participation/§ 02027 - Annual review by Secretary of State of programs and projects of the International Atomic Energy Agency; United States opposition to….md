@@ -18,7 +18,7 @@ The Secretary shall direct the United States representative to the International
 
 #### Codification
 
-Section was enacted as part of the Iran Nuclear Proliferation Prevention Act of 2002, and also as part of the Security Assistance Act of 2002 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the International Atomic Energy Agency Participation Act of 1957 which comprises this chapter.
+Section was enacted as part of the Iran Nuclear Proliferation Prevention Act of 2002, and also as part of theSecurity Assistance Act of 2002 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the International Atomic Energy Agency Participation Act of 1957 which comprises this chapter.
 
 #### Definitions
 

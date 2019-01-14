@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may seek, induce or affect, or attempt to seek, induce, or affect, the payment or credit to that person or others of any drawback claim by means of—
 
-&emsp;&emsp;&emsp;(i) any document, written or oral statement, or electronically transmitted data or information, or act which is material and false, or
+&emsp;&emsp;&emsp;(i) any document, written or oral statement, or electronically transmitted dataor information, or act which is material and false, or
 
 &emsp;&emsp;&emsp;(ii) any omission which is material; or
 
@@ -166,7 +166,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;An amount not to exceed 100 percent of the loss of revenue.
 
-(2) If a party that has been certified as a participant in the drawback compliance programunder subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
 #### (h) Regulation
 

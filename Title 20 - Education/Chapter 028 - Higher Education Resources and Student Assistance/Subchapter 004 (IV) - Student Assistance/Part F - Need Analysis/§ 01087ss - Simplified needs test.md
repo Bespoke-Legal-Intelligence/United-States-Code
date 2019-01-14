@@ -88,7 +88,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(iii) include at least one parent who is a dislocated worker; or
 
-&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous24-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
 &emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $23,000; or
 
@@ -162,7 +162,7 @@ Subsec. (c)(1)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(i), amended cl. (iii) g
 
 Subsec. (c)(2)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(ii), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "1 of whom is a dislocated worker; or".
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted "supplemental nutrition assistanceprogram" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
 <b>2007</b>—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted "24-month" for "12-month".
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (B), (2)(N) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

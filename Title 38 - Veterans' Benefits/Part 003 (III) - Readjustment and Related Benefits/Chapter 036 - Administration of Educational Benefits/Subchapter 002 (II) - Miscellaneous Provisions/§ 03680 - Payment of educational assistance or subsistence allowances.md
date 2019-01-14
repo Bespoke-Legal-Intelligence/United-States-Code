@@ -2,19 +2,27 @@
 
 (a)
 
-Period for Which Payment May Be Made.—Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans' or persons' enrollment in, andpursuit of, such program, but no amount shall be paid—
+Period for Which Payment May Be Made.—(1) Except as provided in paragraph (2), payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans' or persons' enrollment in, and pursuit of, such program, but no amount shall be paid—
 
-&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
+&emsp;(A) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
-&emsp;(2) to any eligible veteran or person for auditing a course; or
+&emsp;(B) to any eligible veteran or person for auditing a course; or
 
-&emsp;(3) to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless—
+&emsp;(C) to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless—
 
-&emsp;&emsp;(A) the eligible veteran or person withdraws because he or she is ordered to active duty; or
+&emsp;&emsp;(i) the eligible veteran or person withdraws because he or she is ordered to active duty; or
 
-&emsp;&emsp;(B) the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal (without regard to withdrawals described in subclause (A) of this clause) by the eligible veteran or person from a course or courses with respect to which the veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof.
+&emsp;&emsp;(ii) the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal (without regard to withdrawals described in clause (i)) by the eligible veteran or person from a course or courses with respect to which the veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof.
 
-> Notwithstanding the foregoing, the Secretary may, subject to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in clause (1) of this subsection during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation. However, the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks.
+(2) Notwithstanding paragraph (1), the Secretary may, pursuant to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in paragraph (1)(A)—
+
+&emsp;(A) during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
+
+&emsp;(B) solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title, during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title, except that payment of such a stipend may only be continued until the earlier of—
+
+&emsp;&emsp;(i) the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and
+
+&emsp;&emsp;(ii) the date that is 120 days after the date of the closure or disapproval.
 
 (b)
 
@@ -32,7 +40,7 @@ Apprenticeship and Other On-Job Training.—No training assistance allowance sha
 
 Advance Payment of Initial Educational Assistance or Subsistence Allowance.—(1) The educational assistance or subsistence allowance advance payment provided for in this subsection is based upon a finding by the Congress that eligible veterans and eligible persons may need additional funds at the beginning of a school term to meet the expenses of books, travel, deposits, and payment for living quarters, the initial installment of tuition, and the other special expenses which are concentrated at the beginning of a school term.
 
-(2) Subject to the provisions of this subsection, and under regulations which the Secretary shall prescribe, an eligible veteran or eligible person shall be paid an educational assistance allowance or subsistence allowance, as appropriate, advance payment. Such advance payment shall be made in an amount equivalent to the allowance for the month or fraction thereof in which pursuit of the program will commence, plus the allowance for the succeeding month. In the case of a person on active duty, who is pursuing a program of education, the advance payment shall be in a lump sum based upon the amount payable for the entire quarter, semester, or term, as applicable. In no event shall an advance payment be made under this subsection to a veteran or person intending to pursue a program of education on less than a half-time basis. An advance payment may not be made under this subsection to any veteran or person unless the veteran or person requests such payment and the Secretary finds that the educational institution at which such veteran or person is accepted or enrolled has agreed to, and can satisfactorily, carry out the provisions of paragraphs (4)(B) and (C) and (5) of this subsection. The application for advance payment, to be made on a form prescribed by the Secretary, shall—
+(2) Subject to the provisions of this subsection, and under regulations which the Secretary shall prescribe, an eligible veteran or eligible person shall be paid an educational assistance allowance or subsistence allowance, as appropriate, advance payment. Such advance payment shall be made in an amount equivalent tothe allowance for the month or fraction thereof in which pursuit of the program will commence, plus the allowance for the succeeding month. In the case of a person on active duty, who is pursuing a program of education, the advance payment shall be in a lump sum based upon the amount payable for the entire quarter, semester, or term, as applicable. In no event shall an advance payment be made under this subsection to a veteran or person intending to pursue a program of education on less than a half-time basis. An advance payment may not be made under this subsection to any veteran or person unless the veteran or person requests such payment and the Secretary finds that the educational institution at which such veteran or person is accepted or enrolled has agreed to, and can satisfactorily, carry out the provisions of paragraphs (4)(B) and (C) and (5) of this subsection. The application for advance payment, to be made on a form prescribed by the Secretary, shall—
 
 &emsp;(A) in the case of an initial enrollment of a veteran or person in an educational institution, contain information showing that the veteran or person (i) is eligible for educational benefits, (ii) has been accepted by the institution, and (iii) has notified the institution of such veteran's or person's intention to attend that institution; and
 
@@ -74,36 +82,6 @@ Determination of Enrollment, Pursuit, and Attendance.—(1) The Secretary may, p
 
 (Added Pub. L. 92–540, title II, §201, Oct. 24, 1972, 86 Stat. 1076, §1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, §209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§341, 342, title VI, §§601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, §2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, §4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§315(a)(1), 316, title VII, §701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, §121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3680 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, §314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §605(a)(2)(B), title XII, §1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, §121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §104(b), Dec. 27, 2001, 115 Stat. 981; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 111–377, title II, §206(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 115–48, title I, §109(b), Aug. 16, 2017, 131 Stat. 980; Pub. L. 115–89, §3, Nov. 21, 2017, 131 Stat. 1279.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–48, title I, §109(b), (c)(2), Aug. 16, 2017, 131 Stat. 980, 981, provided that, effective Aug. 1, 2018, and applicable with respect to courses and programs of education discontinued as described in section 3699 of this title on or after Aug. 16, 2017, subsection (a) of this section is amended, and after such effective date, subsection (a) of this section will read as follows:</i>
-
-<i>(a)</i>
-
-<i>Period for Which Payment May Be Made.—(1) Except as provided in paragraph (2), payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a pro</i><i>gram by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans' or persons' enrollment in, and pursuit of, such program, but no amount shall be paid—</i>
-
-&emsp;<i>(A) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;</i>
-
-&emsp;<i>(B) to any eligible veteran or person for auditing a course; or</i>
-
-&emsp;<i>(C) to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless—</i>
-
-&emsp;&emsp;<i>(i) the eligible veteran or person withdraws because he or she is ordered to active duty; or</i>
-
-&emsp;&emsp;<i>(ii) the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal (without regard to withdrawals described in clause (i)) by the eligible veteran or person from a course or courses with respect to which the veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof.</i>
-
-<i>(2) Notwithstanding paragraph (1), the Secretary may, pursuant to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in paragraph (1)(A)—</i>
-
-&emsp;<i>(A) during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or</i>
-
-&emsp;<i>(B) solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title, during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title, except that payment of such a stipend may only be continued until the earlier of—</i>
-
-&emsp;&emsp;<i>(i) the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and</i>
-
-&emsp;&emsp;<i>(ii) the date that is 120 days after the date of the closure or disapproval.</i>
-
-<i>See 2017 Amendment note below.</i>
-
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–48 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and former subpars. (A) and (B) of par. (3) as cls. (i) and (ii), respectively, of subpar. (C), substituted "Except as provided in paragraph (2), payment of" for "Payment of" in introductory provisions of par. (1) and "described in clause (i)" for "described in subclause (A) of this clause" in cl. (ii) of par. (1)(C), added par. (2), and struck out concluding provisions which read as follows: "Notwithstanding the foregoing, the Secretary may, subject to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in clause (1) of this subsection during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation. However, the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks."
@@ -122,7 +100,7 @@ Subsec. (c). Pub. L. 115–89 substituted "receives from the training establishm
 
 <b>2000</b>—Subsec. (a)(C). Pub. L. 106–419 amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: "during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual semester, term, or quarter basis if the interval between such periods does not exceed one full calendar month."
 
-<b>1994</b>—Subsec. (a)(2) to (4). Pub. L. 103–446, §605(a)(2)(B), inserted "or" at end of par. (2), substituted period for "; or" at end of par. (3), and struck out par. (4) which read as follows: "to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete suchcorrespondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution."
+<b>1994</b>—Subsec. (a)(2) to (4). Pub. L. 103–446, §605(a)(2)(B), inserted "or" at end of par. (2), substituted period for "; or" at end of par. (3), and struck out par. (4) which read as follows: "to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under section 3686 of this title or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution."
 
 Subsec. (a)(C). Pub. L. 103–446, §1201(i)(6), substituted "one full" for "1 full".
 
@@ -142,7 +120,7 @@ Subsec. (f). Pub. L. 102–83, §5(c)(1), substituted "3482(b) or 3532(a)(2)" fo
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 101–237, §412(a), struck out "enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7) of this title," after "or eligible person" in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: "to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;", substituted "set forth in clause (1)" for "set forth in clause (1) or (2)" in third sentence, struck out ", and such periods shall not be counted as absences for the purposes of clause (2) of this subsection" before semicolon at end of subcl. (A), and struck out ", but such periods shall be counted as absences for the purposes of clause (2) of this subsection" before punctuation at end of subcls. (B) and (C).
+Pub. L. 101–237, §412(a), struck out "enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7)of this title," after "or eligible person" in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: "to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;", substituted "set forth in clause (1)" for "set forth in clause (1) or (2)" in third sentence, struck out ", and such periods shall not be counted as absences for the purposes of clause (2) of this subsection" before semicolon at end of subcl. (A), and struck out ", but such periods shall be counted as absences for the purposes of clause (2) of this subsection" before punctuation at end of subcls. (B) and (C).
 
 Subsecs. (b), (c), (d)(2). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
@@ -262,13 +240,25 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 Pub. L. 92–540, title VI, §603, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
-"(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code\(as added by section 201 of this Act), shall become effective on November 1, 1972.
+"(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972.
 
 "(b) The advance payment provisions of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on August 1, 1973, or at such time prior thereto as the Administrator of Veterans' Affairs shall specify in a certification filed with the Committees on Veterans' Affairs of the Congress."
 
+#### Prompt Payments
+
+Pub. L. 115–407, title I, §103(b), Dec. 31, 2018, 132 Stat. 5370, provided that:
+
+"(1)
+
+In general.—The Secretary of Veterans Affairs shall take such actions as may be necessary to ensure that the Secretary makes a payment to an educational institution on behalf of an individual, who is entitled to educational assistance under chapter 31 or 33 of title 38, United States Code, and who is using such assistance to pursue a program of education at the educational institution, not later than 60 days after the date on which the educational institution certifies to the Secretary the applicable tuition and fees for the individual.
+
+"(2)
+
+Semiannual reports.—Not later than May 1 and October 1 of each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a semiannual report summarizing any cases in which the Secretary failed to make a payment described in paragraph (1) within the period set forth in such paragraph and an explanation for each delayed disbursement of payment."
+
 #### Study of Tuition Assistance Allowance Program Abuses
 
-Pub. L. 93–508, title I, §105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans' Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+Pub. L. 93–508, title I, §105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potentialadministrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans' Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
 
 #### Ex. Ord. No. 12020. Payment of Benefits When Schools Are Temporarily Closed To Conserve Energy
 

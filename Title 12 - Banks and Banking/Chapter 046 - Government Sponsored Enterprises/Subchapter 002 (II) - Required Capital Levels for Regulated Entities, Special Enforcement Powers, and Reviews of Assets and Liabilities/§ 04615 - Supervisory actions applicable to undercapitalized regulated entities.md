@@ -76,5 +76,5 @@ Subsec. (b)(2). Pub. L. 110–289, §1143(5)(C), struck out "make, in good faith
 
 Pub. L. 110–289, §1143(1), substituted "the regulated entity" for "the enterprise".
 
-Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
+Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment,text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
 

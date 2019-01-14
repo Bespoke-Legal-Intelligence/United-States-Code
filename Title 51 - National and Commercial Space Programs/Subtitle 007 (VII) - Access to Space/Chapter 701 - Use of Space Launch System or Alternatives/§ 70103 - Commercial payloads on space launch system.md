@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Launch vehicle.—The term "launch vehicle" means any vehicle constructed for thepurpose of operating in, or placing a payload in, outer space.
+Launch vehicle.—The term "launch vehicle" means any vehicle constructed for the purpose of operating in, or placing a payload in, outer space.
 
 &emsp;(2)
 

@@ -24,7 +24,7 @@
 
 > In addition, any liability incurred under paragraph (1) with respect to a defined benefit pension plan may be reduced by crediting the employee with service for all purposes under such a plan for the period of the violation.
 
-(3) Any employer who violates the provisions of section 2102 of this title with respect to a unit of local government shall be subject to a civil penalty of not more than $500 for each day of such violation, except that such penalty shall not apply if the employer pays to each aggrieved employee the amount for which the employer is liable to that employee within 3 weeks from the date the employer orders the shutdown or layoff.
+(3) Any employer who violates the provisions of section 2102 of this title with respect to a unitof local government shall be subject to a civil penalty of not more than $500 for each day of such violation, except that such penalty shall not apply if the employer pays to each aggrieved employee the amount for which the employer is liable to that employee within 3 weeks from the date the employer orders the shutdown or layoff.
 
 (4) If an employer which has violated this chapter proves to the satisfaction of the court that the act or omission that violated this chapter was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of this chapter the court may, in its discretion, reduce the amount of the liability or penalty provided for in this section.
 

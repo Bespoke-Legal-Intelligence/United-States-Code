@@ -20,7 +20,7 @@ Grants for technical assistance.—The cost of grants under section 9617(e) of t
 
 Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilot program for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
 
-> The President shall not pay for any administrative costs or expenses out of the Fund unlesssuch costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
+> The President shall not pay for any administrative costs or expenses out of the Fund unless such costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
 
 #### (b) Additional authorized purposes
 
@@ -96,7 +96,7 @@ Lead poisoning study.—The cost of carrying out the study under subsection (f) 
 
 (1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
 
-(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>1</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
+(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>1</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for responseto threats to public health from releases or threatened releases of hazardous substances.
 
 (3) No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
 
@@ -132,7 +132,7 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 &emsp;(2) the claimant is not otherwise compensated for his loss;
 
-&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.) or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
+&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.)or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
 
 &emsp;(4) recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
 
@@ -174,7 +174,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### (1) In general
 
-&emsp;The following sums are authorized to be appropriated, out of any money in the Treasurynot otherwise appropriated, to the Hazardous Substance Superfund:
+&emsp;The following sums are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund:
 
 &emsp;&emsp;(A) For fiscal year 1987, $212,500,000.
 
@@ -210,7 +210,7 @@ Section 1321(c) of title 33, referred to in subsec. (a)(2), was amended generall
 
 Section 304 of this Act, referred to in subsec. (b), is section 304 of Pub. L. 96–510, title III, Dec. 11, 1980, 94 Stat. 2809, which enacted section 9654 of this title and amended section 1364 of Title 33.
 
-Fishery conservation zone, referred to in subsec. (b), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
+Fishery conservation zone, referred to in subsec. (b), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United Statessovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
 
 This chapter, referred to in subsecs. (c)(5), (i), (k), and (l), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
@@ -246,7 +246,7 @@ Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H
 
 <b>1989</b>—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting "$20,000,000" for "$10,000,000", was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and "For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, andsuch sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund)." in introductory provisions, substituted "Payment" for "payment" in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for "; and" in par. (3), and added pars. (5) and (6).
+<b>1986</b>—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and "For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund)." in introductory provisions, substituted "Payment" for "payment" in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for "; and" in par. (3), and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 99–499, §§111(c)(1), 207(d)(1), designated existing provisions as par. (1), inserted ", or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation" in par. (1), and added par. (2).
 

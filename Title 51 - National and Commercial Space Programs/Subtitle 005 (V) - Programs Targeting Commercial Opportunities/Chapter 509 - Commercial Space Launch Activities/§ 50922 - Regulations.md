@@ -16,7 +16,7 @@ In General.—The Secretary of Transportation, within 9 months after the date of
 
 (b)
 
-Reentry.—The Secretary of Transportation, within 6 months after the date of the enactment of this section, shall issue a notice ofproposed rulemaking to carry out this chapter that includes—
+Reentry.—The Secretary of Transportation, within 6 months after the date of the enactment of this section, shall issue a notice of proposed rulemaking to carry out this chapter that includes—
 
 &emsp;(1) procedures for requesting and obtaining licenses to reenter a reentry vehicle;
 

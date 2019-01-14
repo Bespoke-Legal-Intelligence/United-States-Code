@@ -22,7 +22,7 @@ Authority of Court.—In an action under this section, the court—
 
 &emsp;&emsp;(B) an injunction; or
 
-&emsp;&emsp;(C) another order, including suspension, termination, or repayment of, paymentsunder this chapter or placement of additional payments under this chapter in escrow pending the outcome of the action; and
+&emsp;&emsp;(C) another order, including suspension, termination, or repayment of, payments under this chapter or placement of additional payments under this chapter in escrow pending the outcome of the action; and
 
 &emsp;(2) to enforce compliance with section 6711(a) or (b), may allow a prevailing party (except the United States Government) a reasonable attorney's fee.
 

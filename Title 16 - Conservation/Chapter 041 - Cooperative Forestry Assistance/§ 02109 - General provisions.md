@@ -10,7 +10,7 @@ In implementing this chapter, the Secretary shall, to the maximum extent practic
 
 &emsp;(3) use and encourage cooperators under this chapter to use, private agencies, consultants, organizations, firms, and individuals to furnish necessary materials and services; and
 
-&emsp;(4) promote effectiveness and economy by coordinating the direct actions and assistance authorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
+&emsp;(4) promote effectiveness and economy by coordinating the direct actions and assistanceauthorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
 
 #### (b) Availability of appropriations
 
@@ -18,7 +18,7 @@ Money appropriated under this chapter shall remain available until expended.
 
 #### (c) Consultation requirements for implementation of programs, etc.
 
-Requirements for the development of State forest resources programs and State participation in management assistance, planning assistance, and technology implementation, the apportionment of funds among States participating under this chapter, the administrative expenses in connection with activities and programs under this chapter, and the amounts to be expended by the Secretary to assist non-State cooperators under this chapter, shall be determined by the Secretary in consultation with a committee of not less than five State forestersor equivalent State officials selected by a majority of the State foresters or equivalent State officials from States participating in programs under this chapter. However, the Secretary need not consult with such committee regarding funds to be expended under emergency conditions that the Secretary may determine.
+Requirements for the development of State forest resources programs and State participation in management assistance, planning assistance, and technology implementation, the apportionment of funds among States participating under this chapter, the administrative expenses in connection with activities and programs under this chapter, and the amounts to be expended by the Secretary to assist non-State cooperators under this chapter, shall be determined by the Secretary in consultation with a committee of not less than five State foresters or equivalent State officials selected by a majority of the State foresters or equivalent State officials from States participating in programs under this chapter. However, the Secretary need not consult with such committee regarding funds to be expended under emergency conditions that the Secretary may determine.
 
 #### (d) Definitions
 

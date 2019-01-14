@@ -18,7 +18,7 @@
 
 &emsp;(B) shall again begin running on the first day after the individual's recovery from such disability on which it is reasonably feasible, as determined under regulations prescribed by the Secretary, for the individual to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
-(2)(A) Subject to subparagraph (B), in the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual's chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a) of this title, such 10-year period—
+(2)(A) Subject to subparagraph (B), in the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual's chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section byreason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a) of this title, such 10-year period—
 
 &emsp;(i) shall not run during the period the individual is so prevented from pursuing such program; and
 
@@ -36,7 +36,7 @@
 
 (g) In the case of an individual described in section 3011(f)(3) of this title, the period during which that individual may use the individual's entitlement to educational assistance allowance expires on the last day of the 10-year period beginning on the date of the enactment of the Veterans Millennium Health Care and Benefits Act if that date is later than the date that would otherwise be applicable to that individual under this section.
 
-(h) For purposes of subsection (a) of this section, an individual's last discharge or releasefrom active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
+(h) For purposes of subsection (a) of this section, an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583; Pub. L. 107–103, title I, §105(c), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(10), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–377, title II, §201(a), Jan. 4, 2011, 124 Stat. 4122.)
 
@@ -116,7 +116,7 @@ Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided tha
 
 "(2) An individual referred to in paragraph (1) is an individual who—
 
-&emsp;"(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary school diploma (or equivalency certificate) as a condition ofeligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
+&emsp;"(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary school diploma (or equivalency certificate) as a condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
 
 &emsp;"(B) becomes entitled to basic educational assistance under section 3011(a)(2), 3012(a)(2), or 3018(b)(4) of title 38, United States Code, by reason of the amendments made by this section \[amending sections 3011, 3012, 3017, and 3018 of this title and section 16132 of Title 10, Armed Forces\]."
 

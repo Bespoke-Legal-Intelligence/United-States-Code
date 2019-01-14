@@ -28,7 +28,7 @@
 
 (g)(1) The benefit of any comparability payments under section 5304 shall be available to individuals receiving rates of pay established under this section to such extent as the Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate) considers appropriate, subject to paragraph (2) and subsection (h).
 
-(2) Payments under this subsection may not be made if, or to the extent that, when added to basic pay otherwise payable, such payments would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
+(2) Payments under this subsection may not be made if, or to the extent that, when added tobasic pay otherwise payable, such payments would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
 (h) An employee shall not for any purpose be considered to be entitled to a rate of pay established under this section with respect to any period for which such employee is entitled to a higher rate of basic pay under any other provision of law. For purposes of this subsection, the term "basic pay" includes any applicable locality-based comparability payment under section 5304 or similar provision of law.
 
@@ -110,7 +110,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 #### Federal Law Enforcement Pay Reform
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that: "Beginning on the effective date of this Act \[see section 1(a)(4)\[div. B, title IX, §909\] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 3056A of Title 18, Crimes and Criminal Procedure\]—
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that: "Beginning on the effective date of this Act \[see section 1(a)(4) \[div. B, title IX, §909\] of Pub. L. 106–554, set out in a Conversion to New Salary Schedule note under section 3056A of Title 18, Crimes and Criminal Procedure\]—
 
 &emsp;"(1) no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
 
@@ -178,7 +178,7 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 | Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
-| Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
+| Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%   |
 | San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | San Diego, CA Metropolitan Statistical Area | 8%&nbsp;&nbsp; |
 | Washington-Baltimore DC–MD–VA–WV Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
@@ -191,7 +191,7 @@ Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104
 
 #### "SEC. 405. SAME BENEFITS FOR OTHER LAW ENFORCEMENT OFFICERS.
 
-"(a) The appropriate agency head (as defined in subsection (c)) shall prescribe regulations under which the purposes of sections 403, 404, and 407 shall be carried outwith respect to individuals holding positions described in subsection (b).
+"(a) The appropriate agency head (as defined in subsection (c)) shall prescribe regulations under which the purposes of sections 403, 404, and 407 shall be carried out with respect to individuals holding positions described in subsection (b).
 
 "(b) This subsection applies with respect to any—
 

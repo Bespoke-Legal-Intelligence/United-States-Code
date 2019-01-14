@@ -38,7 +38,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided that: "The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991."
+Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided that: "The amendment made by section1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991."
 
 #### Effective Date of 1966 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 89–808, §5, Nov. 11, 1966, 80 Stat. 1538, provided that: "This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: "This Act \[amending sections 1736f–1 and4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Africa: Seeds of Hope Act of 1998'."
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: "This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Africa: Seeds of Hope Act of 1998'."
 
 Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: "This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the 'Bill Emerson Humanitarian Trust Act of 1998'."
 
@@ -108,7 +108,7 @@ Pub. L. 100–418, title IV, §4311, Aug. 23, 1988, 102 Stat. 1400, which declar
 
 #### Agricultural Trade and Export Policy Commission Act
 
-Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, knownas the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
 
 #### Use of Nonprice-Supported Commodities
 
@@ -116,7 +116,7 @@ Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by
 
 #### Special Task Force
 
-Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint aspecial task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
 
 #### Executive Order No. 10560
 
@@ -170,7 +170,7 @@ Sec. 3. <i>Policy Coordination</i>. (a) To ensure policy coordination of assista
 
 Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon the President in section 403(j) of the Agricultural Trade Development Act \[7 U.S.C. 1733(j)\] is hereby delegated to the Secretary of State.
 
-(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act\[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
+(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
 (c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 

@@ -42,7 +42,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) Domestic reserves and production of crude oil, natural gas, and coal.
 
-&emsp;(C) Refinery activities, showing for each refinery within the United States (i) the amounts of crude oil run by such refinery, (ii) amounts of crude oil allocated to such refinery pursuant to regulations and orders of the Federal Energy Administrator, his delegate pursuant to the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> or any other person authorized by law to issue regulations and orders with respect to the allocation of crude oil, (iii) percentage of refinery capacity utilized, and (iv) amounts of products refined from such crude oil.
+&emsp;(C) Refinery activities, showing for each refinery within the United States (i) the amounts of crude oil run by such refinery, (ii) amounts of crude oil allocated to such refinery pursuant to regulations and orders of the Federal Energy Administrator, his delegate pursuant to the Emergency Petroleum AllocationAct of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> or any other person authorized by law to issue regulations and orders with respect to the allocation of crude oil, (iii) percentage of refinery capacity utilized, and (iv) amounts of products refined from such crude oil.
 
 &emsp;(D) Report of inventories, on a national, regional, and State-by-State basis—
 

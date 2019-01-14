@@ -22,7 +22,7 @@ For purposes of this subtitle, the term "personal holding company" means any cor
 
 &emsp;Paragraph (1) shall not apply to an affiliated group of corporations if—
 
-&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parent corporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
+&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parentcorporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
 
 &emsp;&emsp;(B) 80 percent or more of the amount described in subparagraph (A) consists of personal holding company income (as defined in section 543).
 
@@ -56,7 +56,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;(4) a surety company;
 
-&emsp;(5) a foreign corporation,<sup>1</sup>
+&emsp;(5) a foreign corporation;
 
 &emsp;(6) a lending or finance company if—
 
@@ -72,7 +72,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;&emsp;(D) the loans to a person who is a shareholder in such company during the taxable year by or for whom 10 percent or more in value of its outstanding stock is owned directly or indirectly (including, in the case of an individual, stock owned by members of his family as defined in section 544(a)(2)), outstanding at any time during such year do not exceed $5,000 in principal amount;
 
-&emsp;(7) A <sup>2</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern; and
+&emsp;(7) a small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern; and
 
 &emsp;(8) a corporation which is subject to the jurisdiction of the court in a title 11 or similar case (within the meaning of section 368(a)(3)(A)) unless a major purpose of instituting or continuing such case is the avoidance of the tax imposed by section 541.
 
@@ -90,7 +90,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;&emsp;&emsp;(iii) rendering services or making facilities available in connection with activities described in clauses (i) and (ii) carried on by the corporation rendering services or making facilities available, or
 
-&emsp;&emsp;&emsp;(iv) rendering services or making facilities available to another corporation which is engaged in the lending or finance business (within the meaning of this paragraph), if such services or facilities are related to the lending or finance business (within such meaning) of such other corporation and such other corporation and the corporation rendering services or making facilities available are members of the same affiliated group (as defined in section 1504).
+&emsp;&emsp;&emsp;(iv) rendering services or making facilities available to another corporation which is engaged in the lending or financebusiness (within the meaning of this paragraph), if such services or facilities are related to the lending or finance business (within such meaning) of such other corporation and such other corporation and the corporation rendering services or making facilities available are members of the same affiliated group (as defined in section 1504).
 
 #### (B) Exceptions
 
@@ -126,13 +126,17 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, §401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
 
 #### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(5). Pub. L. 115–141, §401(a)(132), substituted semicolon for comma at end.
+
+Subsec. (c)(7). Pub. L. 115–141, §401(a)(133), substituted "a small business investment" for "A small business investment".
 
 <b>2004</b>—Subsec. (c)(5). Pub. L. 108–357, §413(b)(1)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "a foreign personal holding company as defined in section 552;".
 
@@ -146,7 +150,7 @@ Subsec. (c)(7) to (10). Pub. L. 108–357, §413(b)(1)(B)–(D), redesignated pa
 
 <b>1982</b>—Subsec. (c)(6)(C)(ii). Pub. L. 97–248, §293(a), struck out "but not $1,000,000" after "exceeds $500,000".
 
-Subsec. (d)(1)(B)(i). Pub. L. 97–248, §293(b), substituted "144 months" for "60 months" after "remaining maturity exceeds", designated existing provisions from "the loans" through "transferor's trade or business, or" as subcl. (I), and added subcl. (II).
+Subsec. (d)(1)(B)(i). Pub. L. 97–248, §293(b), substituted "144 months" for "60 months" after "remaining maturity exceeds", designated existing provisions from "theloans" through "transferor's trade or business, or" as subcl. (I), and added subcl. (II).
 
 Subsec. (d)(1)(C). Pub. L. 97–248, §293(c), added subpar. (C).
 
@@ -224,7 +228,7 @@ Pub. L. 93–480, §3(b), Oct. 26, 1974, 88 Stat. 1454, provided that: "The amen
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section101(k)(2)(B) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -257,8 +261,4 @@ In general.—The last sentence of section 542(a)(2) of the Internal Revenue Cod
 "(2)
 
 Effective date.—The provisions of paragraph (1) shall apply with respect to taxable years beginning after December 31, 1976."
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

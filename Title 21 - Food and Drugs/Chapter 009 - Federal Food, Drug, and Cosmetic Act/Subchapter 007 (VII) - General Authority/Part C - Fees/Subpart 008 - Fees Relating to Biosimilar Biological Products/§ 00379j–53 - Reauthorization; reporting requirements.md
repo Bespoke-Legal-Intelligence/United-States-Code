@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Secretary shall post the following data in accordance with subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required bystatute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
 
 &emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
 
@@ -78,7 +78,7 @@ Beginning with fiscal year 2018, and for each fiscal year for which fees are col
 
 #### (1) Communications with Congress
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shallmeet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
 
 #### (2) Participation in congressional hearing
 

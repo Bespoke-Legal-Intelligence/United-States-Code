@@ -46,7 +46,7 @@ Reasonableness.—The Board may suspend and investigate the reasonableness of an
 
 &emsp;&emsp;(B)
 
-Actions not in the public interest.—The Board may investigate any action takenpursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
+Actions not in the public interest.—The Board may investigate any action taken pursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
 
 &emsp;(6)
 
@@ -176,11 +176,15 @@ Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par.
 
 Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted "December 31, 1995" for "the day before the effective date of this section".
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

@@ -18,7 +18,7 @@ Foreign currencies available after June 30, 1955, from conversions made pursuant
 
 #### (e) Deposit of fees; availability
 
-Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected for the issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Directormay require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
+Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected for the issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
 
 #### (f) Advance payments
 
@@ -26,7 +26,7 @@ The Director is further authorized, under such terms as he may prescribe, to mak
 
 #### (g) Separate accounts; transfers
 
-As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: <i>Provided</i>, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to make payments under informational media guaranties.
+As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: <i>Provided</i>, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to makepayments under informational media guaranties.
 
 #### (h) Appropriations for restoration of realized impairment to capital; liquidation of notes
 

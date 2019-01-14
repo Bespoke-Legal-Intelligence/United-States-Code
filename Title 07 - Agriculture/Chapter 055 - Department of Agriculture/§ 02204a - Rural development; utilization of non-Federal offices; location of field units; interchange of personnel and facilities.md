@@ -4,7 +4,7 @@ The Secretary of Agriculture shall utilize to the maximum extent practicable Sta
 
 &emsp;(1) the location of all field units of the Federal Government concerned with rural development in the appropriate Department of Agriculture offices covering the geographical areas most similar to those covered by such field units, and
 
-&emsp;(2) the interchange of personnel and facilities in each such office to the extent necessary or desirable to achieve the most efficient utilization of such personnel and facilities and provide the most effective assistance in the development of rural areas in accordance with State rural development plans.
+&emsp;(2) the interchange of personnel and facilities in each such office to the extent necessaryor desirable to achieve the most efficient utilization of such personnel and facilities and provide the most effective assistance in the development of rural areas in accordance with State rural development plans.
 
 (Pub. L. 92–419, title VI, §603(c), Aug. 30, 1972, 86 Stat. 675; Pub. L. 96–355, §4(5), Sept. 24, 1980, 94 Stat. 1174.)
 

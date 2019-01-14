@@ -32,7 +32,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 &emsp;&emsp;For purposes of subparagraph (A), the basis amount determined under this subparagraph shall be an amount equal to the grossed-up basis determined under subparagraph (A) of paragraph (1) multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the targetcorporation attributable to the purchasing corporation's nonrecently purchased stock, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is 100 percent minus the percentage referred to in clause (i).
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the stock is not acquired in an exchange to which section 351, 354, 355, or 356 applies and is not acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction, and
 
-&emsp;&emsp;&emsp;(iii) the stock is not acquired from a person the ownership of whose stock would, under section 318(a) (other than paragaraph <sup>1</sup> (4) thereof), be attributed to the person acquiring such stock.
+&emsp;&emsp;&emsp;(iii) the stock is not acquired from a person the ownership of whose stock would, under section 318(a) (other than paragraph (4) thereof), be attributed to the person acquiring such stock.
 
 #### (B) Deemed purchase under subsection (a)
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as otherwise provided in regulations (and subject to such conditions as may be provided in regulations)—
 
-&emsp;&emsp;&emsp;(i) the term "target affiliate" does not include a foreign corporation, a DISC, or a corporation to which an election under section 936 applies, and
+&emsp;&emsp;&emsp;(i) the term "target affiliate" does not include a foreign corporation or a DISC, and
 
 &emsp;&emsp;&emsp;(ii) stock held by a target affiliate in a foreign corporation or a domestic corporation which is a DISC or described in section 1248(e) shall be excluded from the operation of this section.
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (9) Target not treated as member of affiliated group
 
-&emsp;Except as otherwise provided in paragraph (10) or in regulations prescribed under this paragraph, the target corporation shall not be treated as a member of an affiliated group with respect to the sale described in subsection (a)(1).
+&emsp;Except as otherwise provided in paragraph (10) or in regulations prescribed under thisparagraph, the target corporation shall not be treated as a member of an affiliated group with respect to the sale described in subsection (a)(1).
 
 #### (10) Elective recognition of gain or loss by target corporation, together with nonrecognition of gain or loss on stock sold by selling consolidated group
 
@@ -270,15 +270,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(1) regulations to ensure that the purpose of this section to require consistency of treatment of stock and asset sales and purchases may not be circumvented through the use of any provision of law or regulations (including the consolidated return regulations) and
 
-&emsp;(2) regulations providing for the coordination of the provisions of this section with theprovision of this title relating to foreign corporations and their shareholders.
+&emsp;(2) regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
 
-(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597.)
+(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 115–141, div. U, title IV, §401(a)(64), (d)(1)(D)(vii), Mar. 23, 2018, 132 Stat. 1187, 1207.)
 
 #### Prior Provisions
 
 A prior section 338, act Aug. 16, 1954, ch. 736, 68A Stat. 107, made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by Pub. L. 97–248, §222(e)(4).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(3)(A)(iii). Pub. L. 115–141, §401(a)(64), substituted "paragraph" for "paragaraph".
+
+Subsec. (h)(6)(B)(i). Pub. L. 115–141, §401(d)(1)(D)(vii), substituted "or a DISC" for ", a DISC, or a corporation to which an election under section 936 applies".
 
 <b>2004</b>—Subsec. (h)(13). Pub. L. 108–357 inserted at end "The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10)."
 
@@ -420,7 +424,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Pub. L. 97–248, title II, §224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, §306(a)(8)(B),Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, §306(a)(8)(B), Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -484,6 +488,10 @@ Selection of acquisition date by purchasing corporation.—The purchasing corpor
 
 &emsp;&emsp;"(ii) is on or before the date on which the election described in paragraph (2)(C) is made."
 
+#### Savings Provision
+
+For provisions that nothing in amendment by section 401(d)(1)(D)(vii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Treatment of Certain Corporation Organized on February 22, 1983
 
 Pub. L. 99–514, title XVIII, §1804(e)(9), Oct. 22, 1986, 100 Stat. 2804, provided that: "In the case of a Rhode Island corporation which was organized on February 22, 1983, and which on February 25, 1983—
@@ -509,6 +517,4 @@ Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, a
 &emsp;"(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
 
 > then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

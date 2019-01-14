@@ -10,7 +10,7 @@ Health Care Items and Services.—
 
 &emsp;(1)
 
-In general.—Payment for costs incurred for the provision of health care items and services for individuals in the custody of the United States Marshals Service, the Federal Bureau of Investigation and the Department of Homeland Security shall be the amount billed, not to exceed the amount that would be paid for the provision of similar health care items and services under the Medicare program under title XVIII of the Social Security Act.
+In general.—Payment for costs incurred for the provision of health care items andservices for individuals in the custody of the United States Marshals Service, the Federal Bureau of Investigation and the Department of Homeland Security shall be the amount billed, not to exceed the amount that would be paid for the provision of similar health care items and services under the Medicare program under title XVIII of the Social Security Act.
 
 &emsp;(2)
 

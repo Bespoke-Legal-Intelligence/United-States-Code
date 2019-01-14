@@ -22,7 +22,7 @@ The parents' contribution from adjusted available income is equal to the amount 
 
 &emsp;(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the familymembers, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -94,7 +94,7 @@ Income Protection Allowance
 
 &emsp;The employment expense allowance is determined as follows (or using a successor provision prescribed by the Secretary under section 1087rr of this title):
 
-&emsp;&emsp;(A) If both parents were employed in the year for which their income is reported and both have their incomes reported in determining the expected family contribution, such allowance is equal to the lesser of $2,500or 35 percent of the earned income of the parent with the lesser earned income.
+&emsp;&emsp;(A) If both parents were employed in the year for which their income is reported and both have their incomes reported in determining the expected family contribution, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the parent with the lesser earned income.
 
 &emsp;&emsp;(B) If a parent qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of such parent's earned income.
 
@@ -196,8 +196,8 @@ Parents' Assessment From Adjusted Available Income (AAI)
 
 | If AAI is— | Then the assessment is— |
 | :--- | ---: |
-| Less than ^$3,409 | ^$750 |
-| ^$3,409 to $9,400 | 22% of AAI |
+| Less than −$3,409 | −$750 |
+| −$3,409 to $9,400 | 22% of AAI |
 | $9,401 to $11,800 | $2,068 + 25% of AAI over $9,400 |
 | $11,801 to $14,200 | $2,668 + 29% of AAI over $11,800 |
 | $14,201 to $16,600 | $3,364 + 34% of AAI over $14,200 |
@@ -325,7 +325,7 @@ For periods of enrollment other than 9 months, the parents' contribution from ad
 
 For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g)) is determined, for purposes other than subpart 2 of part A, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat.1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948.)
 
 #### Amendments
 
@@ -421,7 +421,7 @@ Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with resp
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

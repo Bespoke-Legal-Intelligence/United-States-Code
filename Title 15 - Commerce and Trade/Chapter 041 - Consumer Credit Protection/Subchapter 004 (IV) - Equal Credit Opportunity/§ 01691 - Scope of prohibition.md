@@ -32,7 +32,7 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 &emsp;(2) any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
 
-&emsp;(3) any special purpose credit program offered by a profit-making organization to meetspecial social needs which meets standards prescribed in regulations by the Bureau;
+&emsp;(3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Bureau;
 
 > if such refusal is required by or made pursuant to such program.
 
@@ -58,7 +58,7 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 #### (1) In general
 
-&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
+&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion,but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
 
 #### (2) Waiver
 

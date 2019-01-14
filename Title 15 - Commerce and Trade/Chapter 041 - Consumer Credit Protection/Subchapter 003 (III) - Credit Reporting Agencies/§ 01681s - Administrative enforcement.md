@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) any national bank or State savings association, and any Federal branch or Federal agency of a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) any member bank of the Federal Reserve System (other than a national bank), a branch or agency of a foreign bank (other than a Federal branch, Federal agency, or insured State branch of a foreign bank), a commercial lending company owned or controlled by a foreign bank, and any organization operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
+&emsp;&emsp;&emsp;(ii) any member bank of the Federal Reserve System (other than a national bank), a branch or agency of a foreign bank (other than a Federal branch, Federal agency, or insured State branch of a foreign bank), a commercial lending company owned or controlled by a foreign bank, andany organization operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
 &emsp;&emsp;&emsp;(iii) any bank or Federal savings association insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System) and any insured State branch of a foreign bank;
 
@@ -136,7 +136,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person's compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) ofTitle 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(1)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
@@ -208,7 +208,7 @@ Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out he
 
 Pub. L. 104–208, §2416(a), inserted "(1)" after "(a)" and added pars. (2) to (4).
 
-Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d)or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
+Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
 
 Subsec. (c). Pub. L. 104–208, §2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 

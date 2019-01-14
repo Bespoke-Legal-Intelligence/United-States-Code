@@ -12,7 +12,7 @@ General Rules.—The Secretary and the Board have jurisdiction over transportati
 
 &emsp;&emsp;(B) by water carrier that is from a place in the United States to another place in the United States; and
 
-&emsp;(3) by water carrier or by water carrier and motor carrier between a place in the UnitedStates and a place outside the United States, to the extent that—
+&emsp;(3) by water carrier or by water carrier and motor carrier between a place in the United States and a place outside the United States, to the extent that—
 
 &emsp;&emsp;(A) when the transportation is by motor carrier, the transportation is provided in the United States;
 
@@ -29,4 +29,8 @@ Definitions.—In this section, the terms "State" and "United States" include th
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10541 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

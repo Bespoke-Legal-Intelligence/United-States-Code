@@ -32,7 +32,7 @@ This section consolidates part of section 325 of title 28, U.S.C., 1940 ed., wit
 
 Provisions of section 325 of title 28, U.S.C., 1940 ed., relating to appointment of clerk and reporter of the Supreme Court are incorporated in sections 671 and 673 of this title.
 
-Provision of section 331 of title 28, U.S.C., 1940 ed., fixing the marshal's salary at "not to exceed $5,500 per annum" was omitted and the court given authority to fix the salary in conformity with sections 671 and 673 of this title relating to the clerk and the reporter.
+Provision of section 331 of title 28, U.S.C., 1940 ed., fixing the marshal's salary at "not to exceed $5,500 per annum" was omitted and the court given authority tofix the salary in conformity with sections 671 and 673 of this title relating to the clerk and the reporter.
 
 Part of subsection (c)(5) is new. It recognizes the propriety of certification by the Court Librarian of vouchers for expenditures for the library. (See reviser's note under section 674 of this title.)
 

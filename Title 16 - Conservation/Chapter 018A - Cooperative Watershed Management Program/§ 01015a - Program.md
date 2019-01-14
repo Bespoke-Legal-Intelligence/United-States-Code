@@ -118,7 +118,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the Secretary may provide to a grant recipient a third-phase grant in an amountnot greater than $5,000,000 for a period of not more than 5 years.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the Secretary may provide to a grant recipient a third-phase grant in an amount not greater than $5,000,000 for a period of not more than 5 years.
 
 #### (II) Exception
 

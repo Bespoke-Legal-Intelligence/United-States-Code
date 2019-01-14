@@ -46,7 +46,7 @@ Standard basis and test procedures.—The minimum performance standards promulga
 
 &emsp;&emsp;(B)
 
-No disparate effect on high performance tires.—The Secretary shall ensure that the minimum performance standards promulgated under paragraph (1) will not have a disproportionate effect on passenger car high performance tires with a maximum speed capability greater than 149 miles per hour or 240 kilometers per hour.
+No disparate effect on high performance tires.—The Secretary shall ensure that the minimum performance standards promulgated under paragraph (1) willnot have a disproportionate effect on passenger car high performance tires with a maximum speed capability greater than 149 miles per hour or 240 kilometers per hour.
 
 &emsp;&emsp;(C)
 

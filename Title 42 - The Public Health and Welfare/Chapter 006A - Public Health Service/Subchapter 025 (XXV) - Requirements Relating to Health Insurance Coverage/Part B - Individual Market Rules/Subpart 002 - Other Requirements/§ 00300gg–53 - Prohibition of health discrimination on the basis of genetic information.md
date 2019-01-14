@@ -106,7 +106,7 @@ Another section 2753 of act July 1, 1944, is classified to section 300gg–54 of
 
 #### Effective Date
 
-Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–21 of this title.
+Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individualmarket, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–21 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

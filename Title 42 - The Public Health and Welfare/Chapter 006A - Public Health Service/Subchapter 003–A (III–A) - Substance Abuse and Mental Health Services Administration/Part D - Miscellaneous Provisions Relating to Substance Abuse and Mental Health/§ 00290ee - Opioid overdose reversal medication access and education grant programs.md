@@ -14,7 +14,7 @@ The Secretary shall make grants to States to—
 
 &emsp;&emsp;(B) steps to be taken after administering such drug or device; and
 
-&emsp;(4) educate the public concerning the availability of drugs or devices approved or clearedunder the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose without a person-specific prescription.
+&emsp;(4) educate the public concerning the availability of drugs or devices approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose without a person-specific prescription.
 
 #### (b) Certain requirement
 
@@ -54,7 +54,7 @@ A State that receives a grant under this section shall, at least annually for th
 
 #### (g) Definitions
 
-In this section the term "standing order" means a document prepared by a person authorized to prescribe medication that permits another person to acquire, dispense, or administer medication without a person-specific prescription.
+In this section the term "standing order" means a document prepared by a person authorized to prescribe medication that permits another person to acquire, dispense, or administermedication without a person-specific prescription.
 
 #### (h) Authorization of appropriations
 

@@ -15,10 +15,13 @@
 | [2520\.](%C2%A7%2002520%20-%20Recovery%20of%20civil%20damages%20authorized.md) | Recovery of civil damages authorized. |
 | [2521\.](%C2%A7%2002521%20-%20Injunction%20against%20illegal%20interception.md) | Injunction against illegal interception. |
 | [2522\.](%C2%A7%2002522%20-%20Enforcement%20of%20the%20Communications%20Assistance%20for%20Law%20Enforcement%20Act.md) | Enforcement of the Communications Assistance for Law Enforcement Act. |
+| [2523\.](%C2%A7%2002523%20-%20Executive%20agreements%20on%20access%20to%20data%20by%20foreign%20governments.md) | Executive agreements on access to data by foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. V, §105(b), Mar. 23, 2018, 132 Stat. 1224, added item 2523.
 
 <b>1994</b>—Pub. L. 103–414, title II, §201(b)(3), Oct. 25, 1994, 108 Stat. 4290, added item 2522.
 
@@ -48,3 +51,4 @@
 - [&sect; 02520 - Recovery of civil damages authorized](%C2%A7%2002520%20-%20Recovery%20of%20civil%20damages%20authorized.md)
 - [&sect; 02521 - Injunction against illegal interception](%C2%A7%2002521%20-%20Injunction%20against%20illegal%20interception.md)
 - [&sect; 02522 - Enforcement of the Communications Assistance for Law Enforcement Act](%C2%A7%2002522%20-%20Enforcement%20of%20the%20Communications%20Assistance%20for%20Law%20Enforcement%20Act.md)
+- [&sect; 02523 - Executive agreements on access to data by foreign governments](%C2%A7%2002523%20-%20Executive%20agreements%20on%20access%20to%20data%20by%20foreign%20governments.md)

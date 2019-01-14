@@ -10,9 +10,103 @@ No vessel owner or operator shall signal a drawbridge to open for any nonstructu
 
 #### (c) Civil penalties for violation; notice and hearing; assessment, collection, and remission; civil actions
 
-Whoever violates any rule or regulation issued under subsection (a) or (b), shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007;and $25,000 for a violation occurring in 2008 and any year thereafter. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
+Whoever violates any rule or regulation issued under subsection (a) or (b), shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, §601(b), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, §306(b)(3), Feb. 8, 2016, 130 Stat. 55.)
+#### (d) Temporary changes to drawbridge operating schedules
+
+Notwithstanding section 553 of title 5, whenever a temporary change to the operating schedule of a drawbridge, lasting 180 days or less—
+
+&emsp;(1) is approved—
+
+&emsp;&emsp;(A) the Secretary of the department in which the Coast Guard is operating shall—
+
+&emsp;&emsp;&emsp;(i) issue a deviation approval letter to the bridge owner; and
+
+&emsp;&emsp;&emsp;(ii) announce the temporary change in—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Local Notice to Mariners;
+
+&emsp;&emsp;&emsp;&emsp;(II) a broadcast notice to mariners and through radio stations; or
+
+&emsp;&emsp;&emsp;&emsp;(III) such other local media as the Secretary considers appropriate; and
+
+&emsp;&emsp;(B) the bridge owner, except a railroad bridge owner, shall notify—
+
+&emsp;&emsp;&emsp;(i) the public by publishing notice of the temporary change in a newspaper of general circulation published in the place where the bridge is located;
+
+&emsp;&emsp;&emsp;(ii) the department, agency, or office of transportation with jurisdiction over the roadway that abuts the approaches to the bridge; and
+
+&emsp;&emsp;&emsp;(iii) the law enforcement organization with jurisdiction over the roadway that abuts the approaches to the bridge; or
+
+&emsp;(2) is denied, the Secretary of the department in which the Coast Guard is operating shall—
+
+&emsp;&emsp;(A) not later than 10 days after the date of receipt of the request, provide the bridge owner in writing the reasons for the denial, including any supporting data and evidence used to make the determination; and
+
+&emsp;&emsp;(B) provide the bridge owner a reasonable opportunity to address each reason for the denial and resubmit the request.
+
+#### (e) Drawbridge movements
+
+The Secretary of the department in which the Coast Guard is operating—
+
+&emsp;(1) shall require a drawbridge operator to record each movement of the drawbridge in a logbook;
+
+&emsp;(2) may inspect the logbook to ensure drawbridge movement is in accordance with the posted operating schedule;
+
+&emsp;(3) shall review whether deviations from the posted operating schedule are impairing vehicular and pedestrian traffic; and
+
+&emsp;(4) may determine if the operating schedule should be adjusted for efficiency of maritime or vehicular and pedestrian traffic.
+
+#### (f) Requirements
+
+#### (1) Logbooks
+
+&emsp;An operator of a drawbridge built across a navigable river or other water of the United States—
+
+&emsp;&emsp;(A) that opens the draw of such bridge for the passage of a vessel, shall record in a logbook—
+
+&emsp;&emsp;&emsp;(i) the bridge identification and date of each opening;
+
+&emsp;&emsp;&emsp;(ii) the bridge tender or operator for each opening;
+
+&emsp;&emsp;&emsp;(iii) each time it is opened for navigation;
+
+&emsp;&emsp;&emsp;(iv) each time it is closed for navigation;
+
+&emsp;&emsp;&emsp;(v) the number and direction of vessels passing through during each opening;
+
+&emsp;&emsp;&emsp;(vi) the types of vessels passing through during each opening;
+
+&emsp;&emsp;&emsp;(vii) an estimated or known size (height, length, and beam) of the largest vessel passing through during each opening;
+
+&emsp;&emsp;&emsp;(viii) for each vessel, the vessel name and registration number if easily observable; and
+
+&emsp;&emsp;&emsp;(ix) all maintenance openings, malfunctions, or other comments; and
+
+&emsp;&emsp;(B) that remains open to navigation but closes to allow for trains to cross, shall record in a logbook—
+
+&emsp;&emsp;&emsp;(i) the bridge identification and date of each opening and closing;
+
+&emsp;&emsp;&emsp;(ii) the bridge tender or operator;
+
+&emsp;&emsp;&emsp;(iii) each time it is opened to navigation;
+
+&emsp;&emsp;&emsp;(iv) each time it is closed to navigation; and
+
+&emsp;&emsp;&emsp;(v) all maintenance openings, closings, malfunctions, or other comments.
+
+#### (2) Maintenance of logbooks
+
+&emsp;A drawbridge operator shall maintain logbooks required under paragraph (1) for not less than 5 years.
+
+#### (3) Submission of logbooks
+
+&emsp;At the request of the Secretary of the department in which the Coast Guard is operating, a drawbridge operator shall submit to the Secretary the logbook required under paragraph (1) as the Secretary considers necessary to carry out this section.
+
+#### (4) Exemption
+
+&emsp;The requirements under paragraph (1) shall be exempt from sections 3501 to 3521 of title 44.
+
+(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, §601(b), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, §306(b)(3), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–282, title VIII, §832, Dec. 4, 2018, 132 Stat. 4316.)
 
 #### Codification
 
@@ -23,6 +117,8 @@ The last paragraph of section 1 of this title is also from a part of section 6 o
 Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1894.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (d) to (f). Pub. L. 115–282 added subsecs. (d) to (f).
 
 <b>2016</b>—Pub. L. 114–120 substituted "Secretary of the department in which the Coast Guard is operating" for "Secretary of Transportation" wherever appearing.
 

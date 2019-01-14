@@ -74,7 +74,7 @@
 
 (B)(i) If the Secretary requests that the Secretary of Veterans Affairs make a determination whether a veteran died as a direct consequence of a wound received in action, the Secretary of Veterans Affairs shall, within 60 days of receipt of the request—
 
-&emsp;(I) provide a determination to the Secretary if the records of the Department of VeteransAffairs contain sufficient information to support such a determination; or
+&emsp;(I) provide a determination to the Secretary if the records of the Department of Veterans Affairs contain sufficient information to support such a determination; or
 
 &emsp;(II) notify the Secretary that the records of the Department of Veterans Affairs do not contain sufficient information to support a determination and that further investigation will be necessary.
 

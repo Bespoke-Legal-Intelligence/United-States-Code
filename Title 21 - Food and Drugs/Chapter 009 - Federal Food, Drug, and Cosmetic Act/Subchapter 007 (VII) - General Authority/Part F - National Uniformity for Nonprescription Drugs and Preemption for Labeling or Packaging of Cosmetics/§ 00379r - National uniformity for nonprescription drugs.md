@@ -36,7 +36,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f), no State or poli
 
 #### (2) Safety or effectiveness
 
-&emsp;For purposes of subsection (a), a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any otherform of public communication relating to a warning of any kind for a drug.
+&emsp;For purposes of subsection (a), a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 
 #### (d) Exceptions
 

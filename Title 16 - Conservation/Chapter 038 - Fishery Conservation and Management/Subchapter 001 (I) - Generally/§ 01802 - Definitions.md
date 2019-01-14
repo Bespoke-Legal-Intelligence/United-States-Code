@@ -6,7 +6,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(2) The term "bycatch" means fish which are harvested in a fishery, but which are not sold or kept for personal use, and includes economic discards and regulatory discards. Such term does not include fish released alive under a recreational catch and release fishery management program.
 
-&emsp;(3) The term "charter fishing" means fishing from a vessel carrying a passenger for hire (as defined in section 2101(21a) of title 46) who is engaged in recreational fishing.
+&emsp;(3) The term "charter fishing" means fishing from a vessel carrying a passenger for hire (as defined in section 2101(30) of title 46) who is engaged in recreational fishing.
 
 &emsp;(4) The term "commercial fishing" means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
 
@@ -156,7 +156,7 @@ Sponges
 
 &emsp;&emsp;(B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
 
-&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
+&emsp;(23) The term "individual fishing quota" means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that maybe received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
 &emsp;(24) The term "international fishery agreement" means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
@@ -204,11 +204,11 @@ Sponges
 
 &emsp;(40) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas inArticle 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+&emsp;(41) <sup>1</sup> The term "special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 &emsp;(42) The term "stock of fish" means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 
-&emsp;(43) The term "treaty" means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
+&emsp;(43) The term "treaty" means any international fishery agreement which is a treatywithin the meaning of section 2 of article II of the Constitution.
 
 &emsp;(44) The term "tuna species" means the following:
 
@@ -242,7 +242,7 @@ Sponges
 
 &emsp;(50) The term "waters of a foreign nation" means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
 
-(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578.)
+(Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578; Pub. L. 115–232, div. C, title XXXV, §3541(b)(2), Aug. 13, 2018, 132 Stat. 2323.)
 
 #### References in Text
 
@@ -257,6 +257,8 @@ In par. (49), "section 70502(c) of title 46" substituted for "section 3(c) of th
 Pub. L. 102–251, §301(b), which directed amendment of this section by adding a new par. (24) defining "special areas" and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under section 773 of this title.
 
 #### Amendments
+
+<b>2018</b>—Par. (3). Pub. L. 115–232 substituted "section 2101(30)" for "section 2101(21a)".
 
 <b>2007</b>—Pub. L. 109–479 added pars. (13A) defining "regional fishery association", (20A) defining "import", (23A) defining "limited access privilege", (23B) defining "limited access system", and (27A) defining "observer information" and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
@@ -434,7 +436,7 @@ Pub. L. 104–297, §102(9), redesignated pars. (38) and (39) as (40) and (41), 
 
 Pub. L. 104–297, §102(8), redesignated pars. (38) and (39) as (40) and (41), respectively.
 
-Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "for which a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
+Par. (42). Pub. L. 104–297, §102(11), which directed the substitution of "regulated under this chapter" for "forwhich a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented", was executed by making substitution for language which referred to "section 1821(h)", notwithstanding directory language directing substitution for language which referred to "section 1821(g)" to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §102(10), redesignated par. (41) as (42). Former par. (42) redesignated (43).
 

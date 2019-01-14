@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
 
-&emsp;&emsp;(B) recommend an asset threshold that is higher than $50,000,000,000 for the application of any standard described in subsections (c) through (g).
+&emsp;&emsp;(B) recommend an asset threshold that is higher than the applicable threshold for the application of any standard described in subsections (c) through (g).
 
 #### (b) Development of prudential standards
 
@@ -126,7 +126,7 @@
 
 #### (e) Concentration limits
 
-In order to limit the risks that the failure of any individual company could pose to nonbankfinancial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in section 5365 of this title.
+In order to limit the risks that the failure of any individual company could pose to nonbank financial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in section 5365 of this title.
 
 #### (f) Enhanced public disclosures
 
@@ -136,5 +136,21 @@ The Council may make recommendations to the Board of Governors to require period
 
 The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
-(Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403.)
+(Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403; Pub. L. 115–174, title IV, §401(c)(1)(A), May 24, 2018, 132 Stat. 1358.)
+
+#### Delayed Effective Date of Amendment
+
+<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–174 substituted "the applicable threshold" for "$50,000,000,000".
+
+#### Effective Date of 2018 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under section 5365 of this title.
+
+#### Construction of 2018 Amendment
+
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 

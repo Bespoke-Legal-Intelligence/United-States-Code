@@ -46,6 +46,7 @@
 | [5159\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005159%20-%20Protection%20of%20environment.md) | Protection of environment. |
 | [5160\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005160%20-%20Recovery%20of%20assistance.md) | Recovery of assistance. |
 | [5161\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005161%20-%20Audits%20and%20investigations.md) | Audits and investigations. |
+| [5161a.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005161a%20-%20Audit%20of%20contracts.md) | Audit of contracts. |
 | [5162\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005162%20-%20Advance%20of%20non-Federal%20share.md) | Advance of non-Federal share. |
 | [5163\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005163%20-%20Limitation%20on%20use%20of%20sliding%20scales.md) | Limitation on use of sliding scales. |
 | [5164\.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005164%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
@@ -56,6 +57,7 @@
 | [5165d.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165d%20-%20Designation%20of%20Small%20State%20and%20Rural%20Advocate.md) | Designation of Small State and Rural Advocate. |
 | [5165e.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165e%20-%20Integrated%20plan%20for%20administrative%20cost%20reduction.md) | Integrated plan for administrative cost reduction. |
 | [5165f.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165f%20-%20National%20Urban%20Search%20and%20Rescue%20Response%20System.md) | National Urban Search and Rescue Response System. |
+| [5165g.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165g%20-%20National%20veterinary%20emergency%20teams.md) | National veterinary emergency teams. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,6 +73,8 @@
 | [5172\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005172%20-%20Repair%2C%20restoration%2C%20and%20replacement%20of%20damaged%20facilities.md) | Repair, restoration, and replacement of damaged facilities. |
 | [5173\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005173%20-%20Debris%20removal.md) | Debris removal. |
 | [5174\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005174%20-%20Federal%20assistance%20to%20individuals%20and%20households.md) | Federal assistance to individuals and households. |
+| [5174a.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005174a%20-%20Flexibility.md) | Flexibility. |
+| [5174b.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005174b%20-%20Critical%20document%20fee%20waiver.md) | Critical document fee waiver. |
 | 5175, 5176. Repealed. |  |
 | [5177\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177%20-%20Unemployment%20assistance.md) | Unemployment assistance. |
 | [5177a.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177a%20-%20Emergency%20grants%20to%20assist%20low-income%20migrant%20and%20seasonal%20farmworkers.md) | Emergency grants to assist low-income migrant and seasonal farmworkers. |
@@ -93,6 +97,7 @@
 | [5189e.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005189e%20-%20Essential%20service%20providers.md) | Essential service providers. |
 | [5189f.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005189f%20-%20Public%20assistance%20program%20alternative%20procedures.md) | Public assistance program alternative procedures. |
 | [5189g.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005189g%20-%20Unified%20Federal%20review.md) | Unified Federal review. |
+| [5189h.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005189h%20-%20Agency%20accountability.md) | Agency accountability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -128,6 +133,7 @@
 | [5196d.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196d%20-%20Use%20of%20funds%20to%20prepare%20for%20and%20respond%20to%20hazards.md) | Use of funds to prepare for and respond to hazards. |
 | [5196e.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196e%20-%20Radiological%20Emergency%20Preparedness%20Fund.md) | Radiological Emergency Preparedness Fund. |
 | [5196f.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196f%20-%20Disaster%20related%20information%20services.md) | Disaster related information services. |
+| [5196g.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196g%20-%20Guidance%20and%20training%20by%20FEMA%20on%20coordination%20of%20emergency%20response%20plans.md) | Guidance and training by FEMA on coordination of emergency response plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -159,6 +165,7 @@
 | [5204b.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005204b%20-%20Technical%20assistance%20for%20insular%20areas.md) | Technical assistance for insular areas. |
 | [5204c.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005204c%20-%20Hazard%20mitigation%20for%20insular%20areas.md) | Hazard mitigation for insular areas. |
 | [5205\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005205%20-%20Disaster%20grant%20closeout%20procedures.md) | Disaster grant closeout procedures. |
+| [5205a.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005205a%20-%20Certain%20recoupment%20prohibited.md) | Certain recoupment prohibited. |
 | [5206\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005206%20-%20Buy%20American.md) | Buy American. |
 | [5207\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005207%20-%20Firearms%20policies.md) | Firearms policies. |
 | [5208\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005208%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9374%2C%20div.%20D%2C%20title%20III%2C%20Dec.%2023%2C%202011%2C%20125%20Stat.%20963.md) | Repealed. |

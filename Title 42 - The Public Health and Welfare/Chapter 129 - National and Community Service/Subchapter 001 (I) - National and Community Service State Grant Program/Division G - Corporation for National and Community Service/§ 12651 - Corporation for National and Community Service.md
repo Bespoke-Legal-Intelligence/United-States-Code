@@ -132,7 +132,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;"(B)
 
-Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
+Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding couldhave been discontinued or modified if this subsection had not been enacted.
 
 &emsp;"(C)
 
@@ -376,7 +376,7 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 (e) The Council, with the approval of the Chief Executive Officer of the CNCS, may establish subcommittees of the Council, consisting exclusively of members of the Council, as appropriate to aid the Council in carrying out its mission under this order.
 
-Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under theAct, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) Unless further extended by the President, this order shall expire on June 30, 2009.
 

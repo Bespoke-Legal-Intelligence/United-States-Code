@@ -94,7 +94,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and afterthe date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testimony."
+Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testimony."
 
 #### Effective Date of 1978 Amendment
 

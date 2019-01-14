@@ -12,7 +12,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
-> shall not be deemed to be use of a broadcasting station within the meaning of this subsection.Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
+> shall not be deemed to be use of a broadcasting station within the meaning of this subsection. Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
 
 #### (b) Charges
 
@@ -28,7 +28,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled to receive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
+&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled toreceive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
 
 #### (B) Limitation on charges
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsecs. (a) and (b)(2)(A), was in the original "th
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted "subject to paragraph (2)," before "during the forty-five days" in par. (1)(A), and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1),inserted "subject to paragraph (2)," before "during the forty-five days" in par. (1)(A), and added par. (2).
 
 Subsec. (e). Pub. L. 107–155, §504, which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
 

@@ -34,7 +34,7 @@ Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, as amended by
 
 &emsp;"(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and
 
-&emsp;"(2) for eligible entities that are a State or unit of local government, provide a certification by the chief legal officer of the State in which the eligible entity operates or the chief legal officer of the jurisdictionin which the funds will be used for the purposes of the grants, that the State or jurisdiction—
+&emsp;"(2) for eligible entities that are a State or unit of local government, provide a certification by the chief legal officer of the State in which the eligible entity operates or the chief legal officer of the jurisdiction in which the funds will be used for the purposes of the grants, that the State or jurisdiction—
 
 &emsp;&emsp;"(A) provides DNA testing of specified evidence under a State statute or a State or local rule or regulation to persons sentenced to imprisonment or death for a State felony offense, in a manner intended to ensure a reasonable process for resolving claims of actual innocence that ensures post-conviction DNA testing in at least those cases that would be covered by section 3600(a) of title 18, United States Code, had they been Federal cases and, if the results of the testing exclude the applicant as the source of the DNA, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar the application as untimely; and
 

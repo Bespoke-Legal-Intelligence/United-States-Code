@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.
+In General.—There are authorized to be appropriated for the purposes of this chapter $111,400,000 for fiscal year 2019, $112,400,000 for fiscal year 2020, $113,400,000 for fiscal year 2021, and $114,400,000 for fiscal year 2022. Such sums shall remain available until expended.
 
 (b)
 
@@ -30,7 +30,7 @@ Receipts credited as offsetting collections.—Notwithstanding section 3302 of t
 
 Refunds.—The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032; Pub. L. 109–443, §8(a), (b)(1), (c), Dec. 21, 2006, 120 Stat. 3300.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §2, Oct. 25, 1994, 108 Stat. 4236; Pub. L. 104–291, title I, §105, Oct. 11, 1996, 110 Stat. 3453; Pub. L. 106–424, §13, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 108–168, §2, Dec. 6, 2003, 117 Stat. 2032; Pub. L. 109–443, §8(a), (b)(1), (c), Dec. 21, 2006, 120 Stat. 3300; Pub. L. 115–254, div. C, §1103, Oct. 5, 2018, 132 Stat. 3429.)
 
 Historical and Revision Notes
 
@@ -63,6 +63,8 @@ In subsection (a), the words "to the National Transportation Safety Board" are a
 In subsection (b)(2), the words "amounts equal to amounts expended annually out of the fund" are substituted for "to replenish the fund annually" for clarity.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–443, §8(a), struck out "and" after "2005," and substituted "2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008." for "2006."
 

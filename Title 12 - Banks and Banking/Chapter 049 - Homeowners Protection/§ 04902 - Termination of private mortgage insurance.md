@@ -2,7 +2,7 @@
 
 #### (a) Borrower cancellation
 
-A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4), if the mortgagor—
+A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills allof the requirements under paragraphs (1) through (4), if the mortgagor—
 
 &emsp;(1) submits a request in writing to the servicer that cancellation be initiated;
 
@@ -12,7 +12,7 @@ A requirement for private mortgage insurance in connection with a residential mo
 
 &emsp;(4) has satisfied any requirement of the holder of the mortgage (as of the date of a request under paragraph (1)) for—
 
-&emsp;&emsp;(A) evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has notdeclined below the original value of the property; and
+&emsp;&emsp;(A) evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has not declined below the original value of the property; and
 
 &emsp;&emsp;(B) certification that the equity of the mortgagor in the residence securing the mortgage is unencumbered by a subordinate lien.
 
@@ -68,7 +68,7 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;&emsp;&emsp;(i) with respect to a fixed rate mortgage, on the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
+&emsp;&emsp;&emsp;(ii) with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective ofthe outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.
 
 #### (2) Termination at midpoint
 

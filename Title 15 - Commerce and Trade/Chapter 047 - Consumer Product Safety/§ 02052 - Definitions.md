@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;The term "children's product" means a consumer product designed or intended primarily for children 12 years of age or younger. In determining whether a consumer product is primarily intended for a child 12 years of age or younger, the following factors shall be considered:
 
-&emsp;&emsp;(A) A statement by a manufacturer about the intended use of such product, including a label on such product if such statement is reasonable.
+&emsp;&emsp;(A) A statement by a manufacturer about the intended use of such product, including alabel on such product if such statement is reasonable.
 
 &emsp;&emsp;(B) Whether the product is represented in its packaging, display, promotion, or advertising as appropriate for use by children 12 years of age or younger.
 
@@ -48,7 +48,7 @@ In this chapter:
 
 &emsp;&emsp;(F) aircraft, aircraft engines, propellers, or appliances (as defined in section 40102(a) of title 49),
 
-&emsp;&emsp;(G) boats which could be subjected to safety regulation under chapter 43 of title 46; vessels, and appurtenances to vessels (other than such boats), which could be subjected to safety regulation under title 52 of the Revised Statutes or other marine safety statutes administered by the department in which the Coast Guard is operating; and equipment (including associated equipment, as defined in section 2101(1) of title 46) to theextent that a risk of injury associated with the use of such equipment on boats or vessels could be eliminated or reduced by actions taken under any statute referred to in this subparagraph,
+&emsp;&emsp;(G) boats which could be subjected to safety regulation under chapter 43 of title 46; vessels, and appurtenances to vessels (other than such boats), which could be subjected to safety regulation under title 52 of the Revised Statutes or other marine safety statutes administered by the department in which the Coast Guard is operating; and equipment (including associated equipment, as defined in section 2101(1) of title 46) to the extent that a risk of injury associated with the use of such equipment on boats or vessels could be eliminated or reduced by actions taken under any statute referred to in this subparagraph,
 
 &emsp;&emsp;(H) drugs, devices, or cosmetics (as such terms are defined in sections 201(g), (h), and (i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(g), (h), and (i)\]), or
 
@@ -110,7 +110,7 @@ In this chapter:
 
 A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
-(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
+(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
 
 #### References in Text
 

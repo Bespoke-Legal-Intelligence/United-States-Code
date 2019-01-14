@@ -6,7 +6,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 &emsp;(1) costs to the extent that—
 
-&emsp;&emsp;(A) officers and employees provide direct support for the review and decisionmaking for covered pesticide applications, associated tolerances, and corresponding risk and benefits information and analyses;
+&emsp;&emsp;(A) officers and employees provide direct support for the review and decisionmakingfor covered pesticide applications, associated tolerances, and corresponding risk and benefits information and analyses;
 
 &emsp;&emsp;(B) persons and organizations under contract with the Administrator engage in the review of the applications, and corresponding risk and benefits information and assessments; and
 
@@ -732,7 +732,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration servicefee for an application for minor uses for a pesticide.
+&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration service fee for an application for minor uses for a pesticide.
 
 #### (ii) Supporting documentation
 
@@ -750,7 +750,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator shall waive 50 percent of the registration service fees payable by an entity for a covered pesticide registration application under this section if the entity is a small business (as defined in section 136a–1(i)(1)(E)(ii) of this title) at the time of application.
+&emsp;&emsp;&emsp;The Administrator shall waive 50 percent of the registration service fees payable by an entity for a covered pesticide registration application under this section if theentity is a small business (as defined in section 136a–1(i)(1)(E)(ii) of this title) at the time of application.
 
 #### (ii) Waiver of fees
 
@@ -976,7 +976,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction ofregistration service fees under subsection (b)(7), the decision time review period shall be determined in accordance with this subparagraph.
+&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction of registration service fees under subsection (b)(7), the decision time review period shall be determined in accordance with this subparagraph.
 
 #### (ii) Request granted with no additional fees required
 
@@ -1088,7 +1088,7 @@ The Administrator shall—
 
 #### (j) Personnel levels
 
-All full-time equivalent positions supported by fees authorized and collected under this section shall not be counted against the agency-wide personnel level goals of the Environmental Protection Agency.
+All full-time equivalent positions supported by fees authorized and collected under this sectionshall not be counted against the agency-wide personnel level goals of the Environmental Protection Agency.
 
 #### (k) Reports
 
@@ -1152,7 +1152,7 @@ All full-time equivalent positions supported by fees authorized and collected un
 
 &emsp;&emsp;(E) a review of the progress in meeting the timeline requirements for the review of antimicrobial pesticide products under section 136a(h) of this title;
 
-&emsp;&emsp;(F) a review of the progress in carrying out the review of inert ingredients, including the number of applications pending, the numberof new applications, the number of applications reviewed, staffing, and resources devoted to the review of inert ingredients and recommendations to improve the timeliness of review of inert ingredients;
+&emsp;&emsp;(F) a review of the progress in carrying out the review of inert ingredients, including the number of applications pending, the number of new applications, the number of applications reviewed, staffing, and resources devoted to the review of inert ingredients and recommendations to improve the timeliness of review of inert ingredients;
 
 &emsp;&emsp;(G) a review of the progress made toward—
 
@@ -1236,7 +1236,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### References in Text
 
-The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of thissection, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
+The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -1246,7 +1246,7 @@ The effective date of the Pesticide Registration Improvement Extension Act of 20
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
-The Government Management Reform Act of 1994, referred to in subsec. (h)(1)(B), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410, as amended. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3301 of Title 31, Money and Finance, and Tables.
+The Government Management Reform Act of 1994, referred to in subsec. (h)(1)(B), is Pub. L. 103–356, Oct. 13,1994, 108 Stat. 3410, as amended. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3301 of Title 31, Money and Finance, and Tables.
 
 #### Prior Provisions
 
@@ -1320,7 +1320,7 @@ Subsec. (m)(2)(C). Pub. L. 112–177, §2(b)(7)(B)(iii), substituted "2019" for 
 
 Subsec. (m)(2)(D). Pub. L. 112–177, §2(b)(7)(B)(iv), substituted "2017" for "2012" in cls. (i) and (ii).
 
-<b>2008</b>—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i).Prior to amendment, text read as follows: "The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide."
+<b>2008</b>—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide."
 
 Subsec. (b)(7)(D)(ii). Pub. L. 110–193, §1(a)(1)(A)(ii), inserted "or exemption" after "waiver".
 
@@ -1340,7 +1340,7 @@ Subsec. (b)(3)(A). Pub. L. 110–94, §5(b)(1)(A), substituted "Pesticide Regist
 
 Subsec. (b)(3)(B). Pub. L. 110–94, §5(b)(1)(B), substituted "S10409 through S10411, dated July 31, 2007." for "S11631 through S11633, dated September 17, 2003."
 
-Subsec. (b)(6). Pub. L. 110–94, §5(b)(2), added par. (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
+Subsec. (b)(6). Pub. L. 110–94, §5(b)(2), added par. (6) and struck out former par. (6). Prior to amendment,text of par. (6) read as follows: "Effective for a covered pesticide registration application received on or after October 1, 2005, the Administrator shall—
 
 &emsp;"(A) increase by 5 percent the service fee payable for the application under paragraph (3); and
 
@@ -1401,6 +1401,12 @@ Amendment by Pub. L. 110–94 effective Oct. 1, 2007, see section 6 of Pub. L. 1
 #### Effective Date
 
 Section effective on the date that is 60 days after Jan. 23, 2004, except as otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
+
+#### Extension of Limitations on Fee Amounts and Usage of Fees
+
+Subsection (c)(3)(B) of this section to continue in effect through Sept. 30, 2018, see section 401(a) of Pub. L. 115–141, set out as a note under section 136a–1 of this title.
+
+Pub. L. 115–141, div. M, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1050, provided that: "Notwithstanding section 33(m)(2) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w–8(m)(2)), section 33(m)(1) of such Act (7 U.S.C. 136w–8(m)(1)) shall be applied by substituting 'September 30, 2018' for 'September 30, 2017'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

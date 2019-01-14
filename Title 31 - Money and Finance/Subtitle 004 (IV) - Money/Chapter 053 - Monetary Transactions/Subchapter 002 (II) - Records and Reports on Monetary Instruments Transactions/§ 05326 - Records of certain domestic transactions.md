@@ -38,7 +38,7 @@ Nondisclosure of Orders.—No financial institution or nonfinancial trade or bus
 
 Maximum Effective Period for Order.—No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 
-(Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, titleXV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335; Pub. L. 115–44, title II, §275(a), Aug. 2, 2017, 131 Stat. 938.)
+(Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335; Pub. L. 115–44, title II, §275(a), Aug. 2, 2017, 131 Stat. 938.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1)
 
 Subsec. (a). Pub. L. 115–44, §275(a)(2)(A), substituted "subtitle or to" for "subtitle and" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 115–44, §275(a)(2)(B), substituted "funds (as the Secretary may describe in such order)," for "United States coins or currency (or such other monetary instruments as the Secretary may describe in such order)".
+Subsec. (a)(1)(A). Pub. L. 115–44, §275(a)(2)(B), substituted "funds (as the Secretary may describe in suchorder)," for "United States coins or currency (or such other monetary instruments as the Secretary may describe in such order)".
 
 Subsec. (b)(1)(A). Pub. L. 115–44, §275(a)(3)(A), substituted "funds" for "coins or currency (or monetary instruments)".
 

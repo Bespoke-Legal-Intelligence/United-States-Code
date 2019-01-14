@@ -78,7 +78,7 @@
 
 #### (D) Authority to limit competition
 
-&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use theauthority provided for under subparagraph (A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
+&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use the authority provided for under subparagraph (A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
 
 #### (2) Procedures other than full and open competition
 
@@ -144,7 +144,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of performing, administering, or supporting qualified countermeasure research and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such sectionon the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
+&emsp;For the purpose of performing, administering, or supporting qualified countermeasure research and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such section on the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
 
 #### (2) Federal Tort Claims Act coverage
 
@@ -154,7 +154,7 @@
 
 #### (B) Exclusivity of remedy
 
-&emsp;&emsp;The remedy provided by subparagraph (A) shall be exclusive of any other civil action or proceeding by reason of the same subject matter against the entity involved (person, officer, employee, or governing board member) for any act or omission within the scope of the Federal Tort Claims Act.
+&emsp;&emsp;The remedy provided by subparagraph (A) shall be exclusive of any other civil action or proceeding by reason of the same subject matter against the entity involved (person,officer, employee, or governing board member) for any act or omission within the scope of the Federal Tort Claims Act.
 
 #### (C) Recourse in case of gross misconduct or contract violation
 
@@ -208,7 +208,7 @@
 
 Actions by the Secretary under the authority of this section are committed to agency discretion.
 
-(July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec.19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195.)
+(July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec. 19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act A
 
 #### Codification
 
-In subsec. (b)(1)(A), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a)of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(1)(A)(i), "section 3305(a)(1) of title 41" substituted for "section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -298,7 +298,7 @@ In general.—Subject to clause (ii), it shall not be a violation of the antitru
 
 &emsp;&emsp;&emsp;"(ii)
 
-Limitation.—Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4).
+Limitation.—Clause (i) shall not apply to any agreement or conduct that results from ameeting or consultation and that is not covered by an exemption granted under paragraph (4).
 
 &emsp;"(2)
 

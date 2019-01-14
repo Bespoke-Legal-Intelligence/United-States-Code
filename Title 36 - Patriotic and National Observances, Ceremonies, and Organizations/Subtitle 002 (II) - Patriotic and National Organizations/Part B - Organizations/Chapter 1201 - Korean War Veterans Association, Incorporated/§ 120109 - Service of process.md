@@ -1,6 +1,6 @@
 ### §120109. Service of process
 
-The corporation shall have a designated agent in the District of Columbia to receive service ofprocess for the corporation. Notice to or service on the agent is notice to or service on the corporation.
+The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
 
 (Added Pub. L. 110–254, §1(a)(2), June 30, 2008, 122 Stat. 2421.)
 

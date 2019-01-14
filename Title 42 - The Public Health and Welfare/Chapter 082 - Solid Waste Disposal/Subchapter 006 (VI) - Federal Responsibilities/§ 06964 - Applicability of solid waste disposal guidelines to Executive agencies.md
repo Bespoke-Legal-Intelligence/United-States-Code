@@ -30,7 +30,7 @@ Each Executive agency which issues any license or permit for disposal of solid w
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 3254e of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+Provisions similar to those in this section were contained in section 3254e of this title, prior to the generalamendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Amendments
 

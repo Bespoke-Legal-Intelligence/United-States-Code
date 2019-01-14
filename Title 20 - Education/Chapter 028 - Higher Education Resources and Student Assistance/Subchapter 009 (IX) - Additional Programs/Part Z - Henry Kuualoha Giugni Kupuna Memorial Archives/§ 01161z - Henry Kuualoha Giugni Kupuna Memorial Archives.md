@@ -14,7 +14,7 @@ The Henry Kuualoha Giugni Kupuna Memorial Archives shall use the grant funds rec
 
 &emsp;(3) to support programmatic efforts associated with the web-based media projects of the archives;
 
-&emsp;(4) to create educational materials, from the contents of the archives, that are applicable to a broad range of indigenous students, such as Native Hawaiians, Alaskan Natives, and Native American Indians;
+&emsp;(4) to create educational materials, from the contents of the archives, that are applicable to a broad range of indigenous students, such asNative Hawaiians, Alaskan Natives, and Native American Indians;
 
 &emsp;(5) to develop outreach initiatives that introduce the archival collections to elementary schools and secondary schools;
 

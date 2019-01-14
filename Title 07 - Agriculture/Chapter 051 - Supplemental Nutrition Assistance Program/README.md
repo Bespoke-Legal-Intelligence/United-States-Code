@@ -20,6 +20,7 @@
 | [2024\.](%C2%A7%2002024%20-%20Violations%20and%20enforcement.md) | Violations and enforcement. |
 | [2025\.](%C2%A7%2002025%20-%20Administrative%20cost-sharing%20and%20quality%20control.md) | Administrative cost-sharing and quality control. |
 | [2026\.](%C2%A7%2002026%20-%20Research%2C%20demonstration%2C%20and%20evaluations.md) | Research, demonstration, and evaluations. |
+| [2026a.](%C2%A7%2002026a%20-%20Healthy%20fluid%20milk%20incentives%20projects.md) | Healthy fluid milk incentives projects. |
 | [2027\.](%C2%A7%2002027%20-%20Appropriations%20and%20allotments.md) | Appropriations and allotments. |
 | [2028\.](%C2%A7%2002028%20-%20Consolidated%20block%20grants%20for%20Puerto%20Rico%20and%20American%20Samoa.md) | Consolidated block grants for Puerto Rico and American Samoa. |
 | [2029\.](%C2%A7%2002029%20-%20Workfare.md) | Workfare. |
@@ -33,6 +34,7 @@
 | [2036a.](%C2%A7%2002036a%20-%20Nutrition%20education%20and%20obesity%20prevention%20grant%20program.md) | Nutrition education and obesity prevention grant program. |
 | [2036b.](%C2%A7%2002036b%20-%20Retail%20food%20store%20and%20recipient%20trafficking.md) | Retail food store and recipient trafficking. |
 | [2036c.](%C2%A7%2002036c%20-%20Annual%20State%20report%20on%20verification%20of%20SNAP%20participation.md) | Annual State report on verification of SNAP participation. |
+| [2036d.](%C2%A7%2002036d%20-%20Pilot%20projects%20to%20encourage%20the%20use%20of%20public-private%20partnerships%20committed%20to%20addressing%20food%20insecurity.md) | Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,6 +61,7 @@
 - [&sect; 02024 - Violations and enforcement](%C2%A7%2002024%20-%20Violations%20and%20enforcement.md)
 - [&sect; 02025 - Administrative cost-sharing and quality control](%C2%A7%2002025%20-%20Administrative%20cost-sharing%20and%20quality%20control.md)
 - [&sect; 02026 - Research, demonstration, and evaluations](%C2%A7%2002026%20-%20Research%2C%20demonstration%2C%20and%20evaluations.md)
+- [&sect; 02026a - Healthy fluid milk incentives projects](%C2%A7%2002026a%20-%20Healthy%20fluid%20milk%20incentives%20projects.md)
 - [&sect; 02027 - Appropriations and allotments](%C2%A7%2002027%20-%20Appropriations%20and%20allotments.md)
 - [&sect; 02028 - Consolidated block grants for Puerto Rico and American Samoa](%C2%A7%2002028%20-%20Consolidated%20block%20grants%20for%20Puerto%20Rico%20and%20American%20Samoa.md)
 - [&sect; 02029 - Workfare](%C2%A7%2002029%20-%20Workfare.md)
@@ -72,3 +75,4 @@
 - [&sect; 02036a - Nutrition education and obesity prevention grant program](%C2%A7%2002036a%20-%20Nutrition%20education%20and%20obesity%20prevention%20grant%20program.md)
 - [&sect; 02036b - Retail food store and recipient trafficking](%C2%A7%2002036b%20-%20Retail%20food%20store%20and%20recipient%20trafficking.md)
 - [&sect; 02036c - Annual State report on verification of SNAP participation](%C2%A7%2002036c%20-%20Annual%20State%20report%20on%20verification%20of%20SNAP%20participation.md)
+- [&sect; 02036d - Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity](%C2%A7%2002036d%20-%20Pilot%20projects%20to%20encourage%20the%20use%20of%20public-private%20partnerships%20committed%20to%20addressing%20food%20insecurity.md)

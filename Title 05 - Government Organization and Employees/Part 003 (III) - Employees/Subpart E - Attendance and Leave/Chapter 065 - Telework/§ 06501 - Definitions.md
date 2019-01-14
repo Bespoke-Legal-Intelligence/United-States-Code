@@ -26,7 +26,7 @@ Research by OPM on Telework.—The Director of the Office of Personnel Managemen
 
 &emsp;"(1) research the utilization of telework by public and private sector entities that identify best practices and recommendations for the Federal Government;
 
-&emsp;"(2) review the outcomes associated with an increase in telework, including the effects of telework on energy consumption, job creation and availability, urban transportation patterns, and the ability to anticipate the dispersal of work during periods of emergency; and
+&emsp;"(2) review the outcomes associated with an increase in telework, including the effects of teleworkon energy consumption, job creation and availability, urban transportation patterns, and the ability to anticipate the dispersal of work during periods of emergency; and
 
 &emsp;"(3) make any studies or reviews performed under this subsection available to the public.
 

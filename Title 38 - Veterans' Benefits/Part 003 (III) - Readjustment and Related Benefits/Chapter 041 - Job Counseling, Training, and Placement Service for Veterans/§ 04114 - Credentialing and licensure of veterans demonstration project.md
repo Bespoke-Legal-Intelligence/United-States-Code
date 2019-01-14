@@ -6,7 +6,7 @@ Demonstration Project Authorized.—The Assistant Secretary for Veterans' Employ
 
 (b)
 
-Identification of Military Occupational Specialties and Associated Credentials and Licenses.—(1) The Assistant Secretary for Veterans' Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training, select not more than five military occupational specialties for purposes of the demonstration project. Each specialty so selected by the Assistant Secretary for Veterans' Employment and Training shall require a skill or set of skills that is required for civilian employment in an industry with high growth or high worker demand.
+Identification of Military Occupational Specialties and Associated Credentials andLicenses.—(1) The Assistant Secretary for Veterans' Employment and Training shall, in consultation with the Assistant Secretary for Employment and Training, select not more than five military occupational specialties for purposes of the demonstration project. Each specialty so selected by the Assistant Secretary for Veterans' Employment and Training shall require a skill or set of skills that is required for civilian employment in an industry with high growth or high worker demand.
 
 (2) The Assistant Secretary shall enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and identify requirements for credentials, certifications, and licenses that require a skill or set of skills required by a military occupational specialty selected under paragraph (1).
 
@@ -64,7 +64,7 @@ Prior section 4142 was renumbered section 7452 of this title.
 
 Another prior section 4142 and prior sections 4143 to 4146 were repealed by Pub. L. 100–322, title II, §216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded.
 
-Section 4142, added Pub. L. 96–330, title II, §201(a)(1), Aug. 26, 1980, 94 Stat. 1041; amended Pub. L. 97–251, §3(a), Sept. 8, 1982, 96 Stat. 713; Pub. L. 97–258, §3(k)(7), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–375, title II, §216, Dec. 21, 1982, 96 Stat. 1827; Pub. L. 98–160, title VII, §702(18), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §213, Oct. 28, 1986, 100 Stat. 3257, related to eligibility, application, and written contracts for program.
+Section 4142, added Pub. L. 96–330, title II, §201(a)(1), Aug. 26, 1980, 94 Stat. 1041; amended Pub. L. 97–251, §3(a), Sept. 8, 1982, 96 Stat. 713; Pub. L. 97–258, §3(k)(7), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–375, title II, §216, Dec. 21, 1982, 96 Stat. 1827; Pub. L. 98–160, title VII,§702(18), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §213, Oct. 28, 1986, 100 Stat. 3257, related to eligibility, application, and written contracts for program.
 
 Section 4143, added Pub. L. 96–330, title II, §201(a)(1), Aug. 26, 1980, 94 Stat. 1044; amended Pub. L. 97–251, §3(b), Sept. 8, 1982, 96 Stat. 714, related to obligated service.
 

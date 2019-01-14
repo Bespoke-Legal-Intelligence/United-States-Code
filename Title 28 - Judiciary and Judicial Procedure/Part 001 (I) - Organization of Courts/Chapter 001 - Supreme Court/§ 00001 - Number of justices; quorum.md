@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of "judges of the Supreme Court" by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act \[amending section 1631 of this title\] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
+
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–72, div. B, §1001, Oct. 26, 2017, 131 Stat. 1229, provided that: "This division \[enacting section 1232 of Title 11, Bankruptcy, amending section 1930 of this title and sections 1222, 1228, and 1229 of Title 11, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 1222 of Title 11\] may be cited as the 'Bankruptcy Judgeship Act of 2017'."
@@ -30,7 +34,7 @@ Pub. L. 112–121, §1, May 25, 2012, 126 Stat. 346, provided that: "This Act \[
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–63, §1(a), Dec. 7, 2011, 125 Stat. 758, provided that: "This Act \[enacting sections 1390 and 1455 of this title, amending sections 1332, 1391, 1404, 1441, 1446, and 1453 of this title, repealing section 1392 of this title, and enacting provisions set out as notes under sections 1332 and 1390 of this title\] may be cited as the 'Federal Courts Jurisdiction and Venue Clarification Act of 2011'."
+Pub. L. 112–63, §1(a), Dec. 7, 2011, 125 Stat. 758, provided that: "This Act \[enacting sections 1390 and 1455 ofthis title, amending sections 1332, 1391, 1404, 1441, 1446, and 1453 of this title, repealing section 1392 of this title, and enacting provisions set out as notes under sections 1332 and 1390 of this title\] may be cited as the 'Federal Courts Jurisdiction and Venue Clarification Act of 2011'."
 
 Pub. L. 112–62, §1, Nov. 29, 2011, 125 Stat. 756, provided that: "This Act \[amending section 2107 of this title and enacting provisions set out as notes under section 2107 of this title\] may be cited as the 'Appeal Time Clarification Act of 2011'."
 
@@ -146,9 +150,9 @@ Pub. L. 99–336, §1, June 19, 1986, 100 Stat. 633, provided that: "This Act \[
 
 Pub. L. 98–620, title IV, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: "This subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the 'Federal District Court Organization Act of 1984'."
 
-Pub. L. 98–620, title IV, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: "This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 of Title 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the 'Technical Amendments to the Federal Courts Improvement Act of 1982'."
+Pub. L. 98–620, title IV, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: "This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 ofTitle 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the 'Technical Amendments to the Federal Courts Improvement Act of 1982'."
 
-For short title of Pub. L. 98–353 as the Bankruptcy Amendments and Federal Judgeship Act of 1984, seesection 1 of Pub. L. 98–353, set out as a note under section 151 of this title.
+For short title of Pub. L. 98–353 as the Bankruptcy Amendments and Federal Judgeship Act of 1984, see section 1 of Pub. L. 98–353, set out as a note under section 151 of this title.
 
 #### Short Title of 1983 Amendment
 

@@ -146,7 +146,7 @@ In general.—In the case of an individual referred to in section 102(a) who is 
 
 &emsp;&emsp;"(B)
 
-Filing of petition by survivor.—If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A).
+Filing of petition by survivor.—If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for paymentunder this title on behalf of the individual if the survivor may receive payment under subparagraph (A).
 
 &emsp;&emsp;"(C)
 

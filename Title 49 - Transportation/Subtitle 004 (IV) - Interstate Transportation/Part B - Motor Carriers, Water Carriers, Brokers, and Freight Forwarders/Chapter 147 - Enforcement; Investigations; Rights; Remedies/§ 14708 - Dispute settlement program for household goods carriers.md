@@ -26,7 +26,7 @@ Independence of arbitrator.—Each person authorized to arbitrate or otherwise s
 
 &emsp;(5)
 
-Apportionment of costs.—No shipper may be charged more than half of the cost for instituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
+Apportionment of costs.—No shipper may be charged more than half of the cost forinstituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
 
 &emsp;(6)
 
@@ -72,7 +72,7 @@ Attorney's Fees to Carriers.—In any court action to resolve a dispute between 
 
 (f)
 
-Limitation of Applicability to Collect-on-Delivery Transportation.—The provisions of this section shall apply only in the case ofcollect-on-delivery transportation of household goods.
+Limitation of Applicability to Collect-on-Delivery Transportation.—The provisions of this section shall apply only in the case of collect-on-delivery transportation of household goods.
 
 (g)
 
@@ -97,4 +97,8 @@ Subsec. (d)(3). Pub. L. 109–59, §4208(d), added subpar. (A) and redesignated 
 <b>1999</b>—Subsec. (b)(6). Pub. L. 106–159 substituted "$5000" for "$1000" in two places.
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

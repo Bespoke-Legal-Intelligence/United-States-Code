@@ -8,7 +8,7 @@ Whoever knowingly fails to—
 
 &emsp;(2) comply with any other provision of this chapter;
 
-> shall, upon proof of such knowing violation by a preponderance of the evidence, be subject to a civil fine of not more than $200,000, depending on the extent and gravity of the violation.
+> shall, upon proof of such knowing violation by a preponderance of the evidence, be subject to acivil fine of not more than $200,000, depending on the extent and gravity of the violation.
 
 #### (b) Criminal penalty
 

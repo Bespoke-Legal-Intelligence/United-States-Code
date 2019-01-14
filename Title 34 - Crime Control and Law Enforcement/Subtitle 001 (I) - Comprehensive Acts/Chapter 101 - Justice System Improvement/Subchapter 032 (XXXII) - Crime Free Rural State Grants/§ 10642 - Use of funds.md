@@ -10,7 +10,7 @@ A rural State may also use its grant to provide training and technical assistanc
 
 #### (c) Data collection
 
-A rural State may use up to 5 percent of the grant to assist grant recipients in collecting statewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.
+A rural State may use up to 5 percent of the grant to assist grant recipients in collectingstatewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.
 
 (Pub. L. 90–351, title I, §2986, as added Pub. L. 107–273, div. C, title I, §11027(b), Nov. 2, 2002, 116 Stat. 1834.)
 

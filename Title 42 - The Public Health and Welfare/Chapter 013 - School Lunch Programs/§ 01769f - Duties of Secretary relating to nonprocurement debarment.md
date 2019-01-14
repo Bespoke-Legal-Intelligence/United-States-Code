@@ -144,7 +144,7 @@ Prior to seeking judicial review in a court of competent jurisdiction, a contrac
 
 On request, the Secretary shall present to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information regarding the activities of the Secretary relating to anticompetitive activities, fraud, nonprocurement debarment, and any waiver granted by the Secretary under this section.
 
-(June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727;amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
+(June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727; amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of 
 
 Section effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as an Effective Date of 1994 Amendment note under section 1755 of this title.
 
-Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: "Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\]."
+Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: "Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Actthat is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\]."
 
 #### No Reduction in Authority of Secretary of Agriculture To Debar or Suspend a Person From Federal Financial and Nonfinancial Assistance and Benefits
 

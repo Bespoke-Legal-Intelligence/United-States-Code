@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Receipt of prepaid subscription income
 
-&emsp;Prepaid subscription income shall be treated as received during the taxable year for which it is includible in gross income under section 451 (without regard to this section).
+&emsp;Prepaid subscription income shall be treated as received during the taxable year for whichit is includible in gross income under section 451 (without regard to this section).
 
 #### (e) Deferral of income under established accounting procedures
 

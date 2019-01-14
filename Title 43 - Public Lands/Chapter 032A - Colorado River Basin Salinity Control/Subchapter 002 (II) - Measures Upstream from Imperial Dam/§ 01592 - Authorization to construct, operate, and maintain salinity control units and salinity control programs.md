@@ -54,13 +54,13 @@ Implementation.—The Secretary may not expend funds to implement the program es
 
 In implementing the units authorized to be constructed pursuant to subsection (a), the Secretary shall carry out the following directions:
 
-&emsp;(1) As reports are completed describing final implementation plans for the unit, or any portion thereof, authorized by paragraph (5) of subsection (a), and prior to expenditure of funds for related construction activities, theSecretary shall submit such reports to the appropriate committees of the Congress and to the governors of the Colorado River Basin States.
+&emsp;(1) As reports are completed describing final implementation plans for the unit, or any portion thereof, authorized by paragraph (5) of subsection (a), and prior to expenditure of funds for related construction activities, the Secretary shall submit such reports to the appropriate committees of the Congress and to the governors of the Colorado River Basin States.
 
 &emsp;(2) Non-Federal entities shall be required by the Secretary to contract for the long-term operation and maintenance of canal and lateral systems constructed pursuant to activities provided for in subsection (a): <i>Provided</i>, That the Secretary shall reimburse such non-Federal entities for the costs of such operation and maintenance to the extent the costs exceed the expenses that would have been incurred by them in the thorough and timely operation and maintenance of their canal and lateral systems absent the construction of a unit, said expenses to be determined by the Secretary after consultation with the involved non-Federal entities. The operation and maintenance for which non-Federal entities shall be responsible shall include such repairing and replacing of a unit's facilities as are associated with normal annual maintenance activities in order to keep such facilities in a condition which will assure maximum reduction of salinity inflow to the Colorado River. These non-Federal entities shall not be responsible, nor incur any costs, for the replacement of a unit's facilities, including measures to replace incidental fish and wildlife values foregone. The term replacement shall be defined for the purposes of this subchapter as a major modification or reconstruction of a completed unit, or portion thereof, which is necessitated, through no fault of the non-Federal entity or entities operating and maintaining a unit, by design or construction inadequacies or by normal limits on the useful life of a facility. The Secretary is authorized to provide continuing technical assistance to non-Federal entities to assure the effective and efficient operation and maintenance of a unit's facilities.
 
 &emsp;(3) The Secretary may, under authority of this subchapter, and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to organize private canal and lateral owners into formal organizations with which the Secretary may enter into a grant or contract to construct, operate, and maintain a unit's facilities.
 
-&emsp;(4) In implementing the units authorized to be constructed or the programs pursuant to paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a), the Secretary shall comply with procedural and substantive State water laws.
+&emsp;(4) In implementing the units authorized to be constructed or the programs pursuant to paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a), the Secretary shall complywith procedural and substantive State water laws.
 
 &emsp;(5) The Secretary may, under authority of this subchapter and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to operate and maintain measures to replace incidental fish and wildlife values foregone.
 
@@ -68,9 +68,9 @@ In implementing the units authorized to be constructed pursuant to subsection (a
 
 #### (c) Salinity control measures
 
-The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
+The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
-(Pub. L. 93–320, title II, §202, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §2, Oct. 30, 1984, 98 Stat. 2933; Pub. L. 104–20, §1(1), (4), July 28, 1995, 109 Stat. 255, 256; Pub. L. 104–127, title III, §336(c)(1), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 110–234, title II, §2806(a), (b)(1), May 22, 2008, 122 Stat. 1089; Pub. L. 110–246, §4(a), title II, §2806(a), (b)(1), June 18, 2008, 122 Stat. 1664, 1817.)
+(Pub. L. 93–320, title II, §202, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §2, Oct. 30, 1984, 98 Stat. 2933; Pub. L. 104–20, §1(1), (4), July 28, 1995, 109 Stat. 255, 256; Pub. L. 104–127, title III, §336(c)(1), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 110–234, title II, §2806(a), (b)(1), May 22, 2008, 122 Stat. 1089; Pub. L. 110–246, §4(a), title II, §2806(a), (b)(1), June 18, 2008, 122 Stat. 1664, 1817; Pub. L. 115–334, title II, §2301(d)(2)(G), Dec. 20, 2018, 132 Stat. 4555.)
 
 #### References in Text
 
@@ -80,13 +80,15 @@ Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 20
 
 The Reclamation Act of 1902, referred to in subsec. (a)(5), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 inserted "subchapter A of" before "chapter 4".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §2806(b)(1)(A), which directed substitution of "programs" for "program" in introductory provisions, was executed by making the substitution the first time appearing to reflect the probable intent of Congress.
 
@@ -96,7 +98,7 @@ Subsec. (b)(4). Pub. L. 110–246, §2806(b)(1)(B), substituted "programs" for "
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–127 added subsec. (c) and struck out former subsec. (c) which authorized establishment of a voluntary cooperative salinity control program with landowners to improve on-farm water management and reduce watershed erosion on certain lands.
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–20, §1(1), inserted "and salinity control program" after "the following salinitycontrol units" and substituted colon for period in introductory provisions and added par. (6).
+<b>1995</b>—Subsec. (a). Pub. L. 104–20, §1(1), inserted "and salinity control program" after "the following salinity control units" and substituted colon for period in introductory provisions and added par. (6).
 
 Subsec. (b)(4). Pub. L. 104–20, §1(4), substituted "or the program pursuant to paragraphs (1), (2), (3), (4), (5), and (6)" for "pursuant to paragraphs (1), (2), (3), (4), and (5)".
 

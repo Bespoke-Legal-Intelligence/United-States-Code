@@ -34,7 +34,7 @@ An area that meets 1 or more of the criteria of subsection (a), including a smal
 
 Any designation of a redevelopment area made before the effective date of the Economic Development Administration Reform Act of 1998 shall not be effective after that effective date.
 
-(Pub. L. 89–136, title III, §301, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat.3607; amended Pub. L. 108–373, title III, §301, Oct. 27, 2004, 118 Stat. 1767.)
+(Pub. L. 89–136, title III, §301, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3607; amended Pub. L. 108–373, title III, §301, Oct. 27, 2004, 118 Stat. 1767.)
 
 #### References in Text
 

@@ -1,6 +1,6 @@
 ### §3226a. Re-enrollment in alternative school by high-school dropout
 
-For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high schooland re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
+For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
 
 (Pub. L. 111–117, div. D, title I, (2)(E), Dec. 16, 2009, 123 Stat. 3227.)
 

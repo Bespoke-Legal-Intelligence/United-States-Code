@@ -6,7 +6,11 @@ Limitation.—
 
 &emsp;(1)
 
-Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Homeland Security has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless—
+
+&emsp;&emsp;(A) "the Secretary of Homeland Security"; <sup>1</sup> has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license; or
+
+&emsp;&emsp;(B) the individual holds a valid transportation security card issued under section 70105 of title 46.
 
 &emsp;(2)
 
@@ -14,7 +18,7 @@ Renewals included.—For the purposes of this section, the term "issue", with re
 
 (b)
 
-Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary of Transportation for which the Secretary of Transportation requiresplacarding of a commercial motor vehicle transporting that material in commerce.
+Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary of Transportation for which the Secretary of Transportation requires placarding of a commercial motor vehicle transporting that material in commerce.
 
 (c)
 
@@ -26,7 +30,7 @@ Background Records Check.—
 
 &emsp;(1)
 
-In general.—Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
+In general.—Upon the request of a State regarding issuance of a license under subsection (a)(1)(A) to an individual, the Attorney General—
 
 &emsp;&emsp;(A) shall carry out a background records check regarding the individual; and
 
@@ -64,11 +68,11 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Employer notification.—Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
+Employer notification.—Not later than 90 days after the date of enactment ofthis subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
 
 &emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
 
-&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>1</sup> served on the applicant <sup>1</sup> determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>2</sup> served on the applicant <sup>2</sup> determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
 
 &emsp;&emsp;(B)
 
@@ -140,7 +144,7 @@ Extension.—The Director of the Transportation Security Administration may exte
 
 Commercial motor vehicle defined.—In this subsection, the term "commercial motor vehicle" has the meaning given that term by section 31101.
 
-(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475; Pub. L. 110–244, title III, §302(b), June 6, 2008, 122 Stat. 1618.)
+(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475; Pub. L. 110–244, title III, §302(b), June 6, 2008, 122 Stat. 1618; Pub. L. 115–254, div. K, title I, §1978, Oct. 5, 2018, 132 Stat. 3618.)
 
 #### References in Text
 
@@ -149,6 +153,10 @@ Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec.
 The date of enactment of this subsection, referred to in subsecs. (g) and (h), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1978(a), substituted "unless—" for "unless", "(A) 'the Secretary of Homeland Security';" for "the Secretary of Homeland Security", and "; or" for period at end and added subpar. (B).
+
+Subsec. (d)(1). Pub. L. 115–254, §1978(b), substituted "under subsection (a)(1)(A)" for "described in subsection (a)(1)" in introductory provisions.
 
 <b>2008</b>—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted "subsection" for "Act".
 
@@ -188,5 +196,7 @@ Subsecs. (g), (h). Pub. L. 109–59, §7105, added subsecs. (g) and (h).
 
 Pub. L. 107–56, title X, §1012(c), Oct. 26, 2001, 115 Stat. 398, provided that: "There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out section 5103a of title 49, United States Code, as added by subsection (a)."
 
-<i><sup>1</sup></i><i> So in original. Comma probably should appear after "applicant".</i>
+<i><sup>1</sup></i><i> So in original. The quotation marks and semicolon probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Comma probably should appear after "applicant".</i>
 

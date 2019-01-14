@@ -36,7 +36,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services\(and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 
@@ -74,7 +74,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (3) Relationship to items and services under other programs
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the grant will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the grant will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -102,7 +102,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (f) Reports to Secretary
 
-The Secretary may not make a grant under subsection (a) unless the applicant involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
+The Secretary may not make a grant under subsection (a) unless the applicant involved agrees to submit to the Secretary such reportsas the Secretary may require with respect to the grant.
 
 #### (g) Description of intended uses of grant
 
@@ -144,7 +144,7 @@ For purposes of this section, the term "units of local government" includes Indi
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated$20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2004.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2004.
 
 #### (2) Allocation for technical assistance
 

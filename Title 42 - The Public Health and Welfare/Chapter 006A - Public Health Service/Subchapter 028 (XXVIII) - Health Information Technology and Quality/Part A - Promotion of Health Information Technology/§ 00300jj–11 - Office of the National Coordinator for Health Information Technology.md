@@ -72,7 +72,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;&emsp;&emsp;(vii) Strategies to enhance the use of health information technology in improving the quality of health care, reducing medical errors, reducing health disparities, improving public health, increasing prevention and coordination with community resources, and improving the continuity of care among health care settings.
 
-&emsp;&emsp;&emsp;(viii) Specific plans for ensuring that populations with unique needs, such as children, are appropriately addressed in the technology design, as appropriate, which may include technology that automates enrollment and retention for eligible individuals.
+&emsp;&emsp;&emsp;(viii) Specific plans for ensuring that populations with unique needs, such as children, are appropriately addressed inthe technology design, as appropriate, which may include technology that automates enrollment and retention for eligible individuals.
 
 #### (B) Collaboration
 
@@ -112,7 +112,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (iii) Health information technology for pediatrics
 
-&emsp;&emsp;&emsp;Not later than 18 months after December 13, 2016, the Secretary, in consultationwith relevant stakeholders, shall make recommendations for the voluntary certification of health information technology for use by pediatric health providers to support the health care of children. Not later than 2 years after December 13, 2016, the Secretary shall adopt certification criteria under section 300jj–14 of this title to support the voluntary certification of health information technology for use by pediatric health providers to support the health care of children.
+&emsp;&emsp;&emsp;Not later than 18 months after December 13, 2016, the Secretary, in consultation with relevant stakeholders, shall make recommendations for the voluntary certification of health information technology for use by pediatric health providers to support the health care of children. Not later than 2 years after December 13, 2016, the Secretary shall adopt certification criteria under section 300jj–14 of this title to support the voluntary certification of health information technology for use by pediatric health providers to support the health care of children.
 
 #### (D) Conditions of certification
 
@@ -208,7 +208,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 6 months after December 13, 2016, the National Coordinator shall convene appropriate public and private stakeholders to develop or support a trusted exchange framework for trust policies and practices and for a common agreement for exchange between health information networks. The common agreement may include—
+&emsp;&emsp;&emsp;Not later than 6 months after December 13, 2016, the National Coordinator shall convene appropriate public and private stakeholders to develop or support a trusted exchange framework for trust policies and practices and for a common agreementfor exchange between health information networks. The common agreement may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) a common method for authenticating trusted health information network participants;
 
@@ -238,7 +238,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a processfor health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
+&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
 
 #### (E) Application of the trusted exchange framework and common agreement
 

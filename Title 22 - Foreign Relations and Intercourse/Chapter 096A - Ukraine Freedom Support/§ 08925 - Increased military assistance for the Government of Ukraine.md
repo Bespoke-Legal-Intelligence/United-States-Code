@@ -6,7 +6,7 @@ The President is authorized to provide defense articles, defense services, and t
 
 #### (b) Report required
 
-Not later than 60 days after December 18, 2014, the President shall submit a report detailing the anticipated defense articles, defense services, and training to be provided pursuant to this section and a timeline for the provision of such defense articles, defense services, and training, to—
+Not later than 60 days after December 18, 2014, the President shall submit a report detailing theanticipated defense articles, defense services, and training to be provided pursuant to this section and a timeline for the provision of such defense articles, defense services, and training, to—
 
 &emsp;(1) the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on Armed Services of the Senate; and
 

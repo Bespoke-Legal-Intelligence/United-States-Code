@@ -6,7 +6,7 @@ If, in any judicial or administrative action brought by the Commission under the
 
 #### (b) Acceptance of additional donations
 
-The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
+The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds fromsales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
 
 #### (c) Study required
 
@@ -20,7 +20,7 @@ The Commission is authorized to accept, hold, administer, and utilize gifts, beq
 
 #### (2) Report required
 
-&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002,and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
+&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
 
 (Pub. L. 107–204, title III, §308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, §929B, July 21, 2010, 124 Stat. 1852.)
 

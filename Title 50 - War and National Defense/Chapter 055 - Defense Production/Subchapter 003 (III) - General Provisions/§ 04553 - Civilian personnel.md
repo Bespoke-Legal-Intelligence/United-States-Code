@@ -16,7 +16,7 @@ Any officer or agency head may—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat.798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
 
 #### Codification
 
@@ -42,7 +42,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16651, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (\[former\] 50 U.S.C. App. 2061 et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3, United States Code, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Defense Production Act of 1950, as amended (\[former\] 50 U.S.C. App. 2061 et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3, United States Code, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
 #### PART I—PURPOSE, POLICY, AND IMPLEMENTATION
 
@@ -88,7 +88,7 @@ Sec. 104. <i>Implementation</i>. (a) The National Security Council and Homeland 
 
 Sec. 201. <i>Priorities and Allocations Authorities</i>. (a) The authority of the President conferred by section 101 of the Act, 50 U.S.C. App. 2071 \[now 50 U.S.C. 4511\], to require acceptance and priority performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, and to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, is delegated to the following agency heads:
 
-(1) the Secretary of Agriculture with respect to food resources, food resource facilities, livestock resources,veterinary resources, plant health resources, and the domestic distribution of farm equipment and commercial fertilizer;
+(1) the Secretary of Agriculture with respect to food resources, food resource facilities, livestock resources, veterinary resources, plant health resources, and the domestic distribution of farm equipment and commercial fertilizer;
 
 (2) the Secretary of Energy with respect to all forms of energy;
 
@@ -134,7 +134,7 @@ Sec. 303. <i>Additional Authorities</i>. (a) To create, maintain, protect, expan
 
 (b) Materials acquired under section 303 of the Act, 50 U.S.C. App. 2093 \[now 50 U.S.C. 4533\], that exceed the needs of the programs under the Act may be transferred to the National Defense Stockpile, if, in the judgment of the Secretary of Defense as the National Defense Stockpile Manager, such transfers are in the public interest.
 
-Sec. 304. <i>Subsidy Payments</i>. To ensure the supply of raw or nonprocessed materials from high-cost sources, or to ensure maximum production or supply in any area at stable prices of any materials in light of a temporary increase in transportation cost, the head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(c) of the Act, 50 U.S.C. App. 2093(c) \[now 50U.S.C. 4533(c)\], to make subsidy payments, after consultation with the Secretary of the Treasury and the Director of OMB.
+Sec. 304. <i>Subsidy Payments</i>. To ensure the supply of raw or nonprocessed materials from high-cost sources, or to ensure maximum production or supply in any area at stable prices of any materials in light of a temporary increase in transportation cost, the head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(c) of the Act, 50 U.S.C. App. 2093(c) \[now 50 U.S.C. 4533(c)\], to make subsidy payments, after consultation with the Secretary of the Treasury and the Director of OMB.
 
 Sec. 305. <i>Determinations and Findings</i>. (a) Pursuant to budget authority provided by an appropriations act in advance for credit assistance under section 301 or 302 of the Act, 50 U.S.C. App. 2091, 2092 \[now 50 U.S.C. 4531, 4532\], and consistent with the Federal Credit Reform Act of 1990, as amended (FCRA), 2 U.S.C. 661 et seq., the head of each agency engaged in procurement for the national defense is delegated the authority to make the determinations set forth in sections 301(a)(2) and 302(b)(2) of the Act \[50 U.S.C. 4531(a)(2), 4532(b)(2)\], in consultation with the Secretary making the required determination under section 202 of this order; provided, that such determinations shall be made after due consideration of the provisions of OMB Circular A–129 and the credit subsidy score for the relevant loan or loan guarantee as approved by OMB pursuant to FCRA.
 
@@ -144,7 +144,7 @@ Sec. 306. <i>Strategic and Critical Materials</i>. The Secretary of Defense, and
 
 Sec. 307. <i>Substitutes</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(g) of the Act, 50 U.S.C. App. 2093(g) \[now 50 U.S.C. 4533(g)\], to make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other resources to aid the national defense.
 
-Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to:
+Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in procurement for the nationaldefense is delegated the authority of the President under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to:
 
 (a) procure and install additional equipment, facilities, processes, or improvements to plants, factories, and other industrial facilities owned by the Federal Government and to procure and install Government-owned equipment in plants, factories, or other industrial facilities owned by private persons;
 
@@ -172,7 +172,7 @@ Sec. 403. <i>Regulations</i>. The Secretary of Homeland Security, after approval
 
 Sec. 501. <i>National Defense Executive Reserve</i>. (a) In accordance with section 710(e) of the Act, 50 U.S.C. App. 2160(e) \[now 50 U.S.C. 4560(e)\], there is established in the executive branch a National Defense Executive Reserve (NDER) composed of persons of recognized expertise from various segments of the private sector and from Government (except full-time Federal employees) for training for employment in executive positions in the Federal Government in the event of a national defense emergency.
 
-(b) The Secretary of Homeland Security shall issue necessary guidance for the NDER program, includingappropriate guidance for establishment, recruitment, training, monitoring, and activation of NDER units and shall be responsible for the overall coordination of the NDER program. The authority of the President under section 710(e) of the Act, 50 U.S.C. App. 2160(e) \[now 50 U.S.C. 4560(e)\], to determine periods of national defense emergency is delegated to the Secretary of Homeland Security.
+(b) The Secretary of Homeland Security shall issue necessary guidance for the NDER program, including appropriate guidance for establishment, recruitment, training, monitoring, and activation of NDER units and shall be responsible for the overall coordination of the NDER program. The authority of the President under section 710(e) of the Act, 50 U.S.C. App. 2160(e) \[now 50 U.S.C. 4560(e)\], to determine periods of national defense emergency is delegated to the Secretary of Homeland Security.
 
 (c) The head of any agency may implement section 501(a) of this order with respect to NDER operations in such agency.
 
@@ -268,7 +268,7 @@ Sec. 801. <i>Definitions</i>. In addition to the definitions in section 702 of t
 
 (k) "Offsets" means compensation practices required as a condition of purchase in either government-to-government or commercial sales of defense articles and/or defense services as defined by the Arms Export Control Act, 22 U.S.C. 2751 <i>et seq</i>., and the International Traffic in Arms Regulations, 22 C.F.R. 120.1–130.17.
 
-(l) "Special priorities assistance" means action by resource departments to assist with expediting deliveries, placing rated orders, locating suppliers, resolving production or delivery conflicts between various rated orders, addressing problems that arise in the fulfillment of a rated order or other action authorized by a delegated agency, and determining the validity of rated orders.
+(l) "Special priorities assistance" means action by resource departments to assist with expediting deliveries,placing rated orders, locating suppliers, resolving production or delivery conflicts between various rated orders, addressing problems that arise in the fulfillment of a rated order or other action authorized by a delegated agency, and determining the validity of rated orders.
 
 (m) "Strategic and critical materials" means materials (including energy) that (1) would be needed to supply the military, industrial, and essential civilian needs of the United States during a national emergency, and (2) are not found or produced in the United States in sufficient quantities to meet such need and are vulnerable to the termination or reduction of the availability of the material.
 

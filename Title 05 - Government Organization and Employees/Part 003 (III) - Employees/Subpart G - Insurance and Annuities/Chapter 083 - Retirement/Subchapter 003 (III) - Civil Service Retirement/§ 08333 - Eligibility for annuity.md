@@ -44,5 +44,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section207(a) of Pub. L. 91–93, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93, set out as a note under section 8331 of this title.
 

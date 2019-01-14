@@ -60,7 +60,7 @@ In entering into agreements under subsection (a) or (d), the Secretary shall giv
 
 #### (f) Condition of agreement
 
-The Secretary may make payments under subsection (a) on behalf of an individual only if theagreement under such subsection provides that section 298b–7(c) <sup>1</sup> of this title is applicable to the individual.
+The Secretary may make payments under subsection (a) on behalf of an individual only if the agreement under such subsection provides that section 298b–7(c) <sup>1</sup> of this title is applicable to the individual.
 
 #### (g) Breach of agreement
 
@@ -80,7 +80,7 @@ The Secretary may make payments under subsection (a) on behalf of an individual 
 
 #### (2) Waiver or suspension of liability
 
-&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for the waiver or suspension of liability under such subsection if compliance by the individual or the health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
+&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for the waiver or suspension of liability under such subsection if compliance by the individual orthe health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
 
 #### (3) Date certain for recovery
 

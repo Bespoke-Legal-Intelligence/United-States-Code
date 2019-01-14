@@ -35,7 +35,12 @@
 | [2687a.](%C2%A7%2002687a%20-%20Overseas%20base%20closures%20and%20realignments%20and%20basing%20master%20plans.md) | Overseas base closures and realignments and basing master plans. |
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | \[2689, 2690. Renumbered.\] |  |
-| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md) | Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires. |
+| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20state%20costs%20of%20fighting%20wildland%20fires.md) | Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | \[2693. | Repealed.\] |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
@@ -86,7 +91,7 @@ Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513
 
 <b>1997</b>—Pub. L. 105–85, div. A, title III, §§343(g)(3), 371(c)(2), title X, §§1061(c)(2), 1062(b), div. B, title XXVIII, §§2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted "of military departments" after "property" in item 2667, added item 2667a, substituted "$500,000" for "$200,000" in item 2672, added items 2686 and 2688, substituted "Storage, treatment, and" for "Storage and" in item 2692, and added items 2695 and 2696.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title III, §§332(a)(2), 369(b)(2), div. B, title XXVIII, §2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted "of Pentagon Reservation and defense facilities in National Capital Region" for "of the Pentagon Reservation" in item 2674 and added items 2684 and 2694.
+<b>1996</b>—Pub. L. 104–201, div. A, title III, §§332(a)(2), 369(b)(2), div. B, title XXVIII, §2862(b), Sept. 23, 1996, 110Stat. 2485, 2498, 2805, substituted "of Pentagon Reservation and defense facilities in National Capital Region" for "of the Pentagon Reservation" in item 2674 and added items 2684 and 2694.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title VIII, §846(b), Nov. 30, 1993, 107 Stat. 1723, added item 2681.
 
@@ -152,6 +157,8 @@ Pub. L. 96–418, title VIII, §806(b), Oct. 10, 1980, 94 Stat. 1777, as amended
 
 Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -193,7 +200,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Renumbered &sect;2917](%C2%A7%2002689%20-%20Renumbered%20%C2%A72917.md)
 - [&sect; 02690 - Renumbered &sect;2918](%C2%A7%2002690%20-%20Renumbered%20%C2%A72918.md)
-- [&sect; 02691 - Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md)
+- [&sect; 02691 - Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20state%20costs%20of%20fighting%20wildland%20fires.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2825(c)(2), Oct. 17, 2006, 120 Stat. 2477](%C2%A7%2002693%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72825%28c%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202477.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)

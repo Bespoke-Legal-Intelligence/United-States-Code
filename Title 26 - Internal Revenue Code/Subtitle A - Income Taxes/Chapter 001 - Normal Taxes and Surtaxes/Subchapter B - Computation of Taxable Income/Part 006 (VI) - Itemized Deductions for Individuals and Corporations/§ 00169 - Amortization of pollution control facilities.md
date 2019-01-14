@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;The term "certified pollution control facility" means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976, to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or emission of pollutants, contaminants, wastes, or heat and which—
 
-&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility hascertified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
+&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility has certified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
 
 &emsp;&emsp;(B) the Federal certifying authority has certified to the Secretary (i) as being in compliance with the applicable regulations of Federal agencies and (ii) as being in furtherance of the general policy of the United States for cooperation with the States in the prevention and abatement of water pollution under the Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), or in the prevention and abatement of atmospheric pollution and contamination under the Clean Air Act, as amended (42 U.S.C. 1857 et seq.); and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied without regard to the phrase "in operation before January 1, 1976", and
 
-&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting "84" for "60" each place it appears in subsections (a) and (b).
+&emsp;&emsp;(B) in the case of a facility placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting "84" for "60" each place it appears in subsections (a) and (b).
 
 #### (e) Profitmaking abatement works, etc.
 
@@ -92,7 +92,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.</b>
 
-(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906; Pub. L. 109–58, title XIII, §1309(a)–(d), Aug. 8, 2005, 119 Stat. 1007; Pub. L. 109–135, title IV, §402(e), Dec. 21, 2005, 119 Stat. 2611.)
+(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906; Pub. L. 109–58, title XIII, §1309(a)–(d), Aug. 8, 2005, 119 Stat. 1007; Pub. L. 109–135, title IV, §402(e), Dec. 21, 2005, 119 Stat. 2611; Pub. L. 115–141, div. U, title IV, §401(a)(51), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text
 
@@ -107,6 +107,8 @@ Section 302(b) of the Clean Air Act, referred to in subsec. (d)(2), formerly cla
 A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amortization of grain-storage facilities, prior to the reorganization of part VI of subchapter B of chapter 1 of this title by Pub. L. 91–172.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(5)(B). Pub. L. 115–141 inserted "a" before "facility".
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–58, §1309(c), inserted "and special rules" after "Definitions" in heading.
 
@@ -145,6 +147,4 @@ Pub. L. 91–172, title VII, §704(c), Dec. 30, 1969, 83 Stat. 670, provided tha
 #### Transfer of Functions
 
 Functions vested in Secretary of the Interior and Secretary of Health, Education, and Welfare by subsec. (d)(1)(B), (3) of this section transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3, of 1970, §2(a)(9), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "a facility".</i>
 

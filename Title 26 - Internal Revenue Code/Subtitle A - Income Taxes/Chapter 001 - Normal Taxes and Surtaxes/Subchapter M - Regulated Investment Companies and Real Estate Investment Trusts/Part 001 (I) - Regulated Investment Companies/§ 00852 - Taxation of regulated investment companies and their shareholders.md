@@ -8,7 +8,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(A) 90 percent of its investment company taxable income for the taxable year determined without regard to subsection (b)(2)(D); and
 
-&emsp;&emsp;(B) 90 percent of the excess of (i) its interest income excludable from gross income under section 103(a) over (ii) its deductions disallowed under sections 265, 171(a)(2), and
+&emsp;&emsp;(B) 90 percent of the excess of (i) its interest income excludable from gross income under section 103(a) over (ii) its deductions disallowed under sections 265 and 171(a)(2), and
 
 &emsp;(2) either—
 
@@ -34,7 +34,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(C) The deductions for corporations provided in part VIII (except section 248) in subchapter B (section 241 and following, relating to the deduction for dividends received, etc.) shall not be allowed.
 
-&emsp;&emsp;(D) the <sup>1</sup> deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
+&emsp;&emsp;(D) The deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
 
 &emsp;&emsp;(E) The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
 
@@ -276,7 +276,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (D) Late-year ordinary loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum ofany post-October specified loss and any post-December ordinary loss.
+&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum of any post-October specified loss and any post-December ordinary loss.
 
 #### (E) Post-October specified loss
 
@@ -434,7 +434,7 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;(C) the taxpayer acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition, stock in such regulated investment company or in another regulated investment company and the otherwise applicable load charge is reduced by reason of the reinvestment right,
 
-> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gainor loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
+> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gain or loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
 
 #### (2) Definitions and special rules
 
@@ -466,13 +466,17 @@ In the case of a unit investment trust—
 
 &emsp;For purposes of this subsection, the term "qualified fund of funds" means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, §205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, §13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, §205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, §13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(144), (145), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–141, §401(a)(144), substituted "265 and" for "265,".
+
+Subsec. (b)(2)(D). Pub. L. 115–141, §401(a)(145), substituted "The deduction" for "the deduction".
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–97, §13001(b)(4), struck out "In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b)." at end.
 
@@ -502,7 +506,7 @@ Subsec. (b)(5)(A). Pub. L. 111–325, §301(b), amended subpar. (A) generally. P
 
 Subsec. (b)(8). Pub. L. 111–325, §308(a), amended par. (8) generally. Prior to amendment, text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year."
 
-Subsec. (b)(10). Pub. L. 111–325, §308(b)(1), struck out par. (10). Text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year."
+Subsec. (b)(10). Pub. L. 111–325, §308(b)(1), struck out par. (10). Text read as follows: "To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment companywith respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year."
 
 Subsec. (c)(1). Pub. L. 111–325, §302(a), amended par. (1) generally. Prior to amendment, text read as follows: "The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term 'regulated investment company' includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a)."
 
@@ -660,7 +664,7 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(110)(C), (b)(33)(N), inserted in par. (
 
 <b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §511(c)(2)(A), substituted "determined as provided in section 1201(a), on" for "of 25 percent of".
 
-Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, inthe case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
 Subsec. (b)(3)(D). Pub. L. 91–172, §511(c)(2)(C), (D), struck out "of 25 percent" in cl. (ii), substituted reference in cl. (iii) to the increase of the adjusted basis of shares in the hands of the shareholder, with respect to the amounts required by this subpar., by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and by 70 percent (72 percent in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971) of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(B) or (2), for reference to the increase of the adjusted basis of shares in the hand of the shareholder by 75 percent of the amounts required by this subpar. to be included in computing his long-term capital gains.
 
@@ -796,7 +800,7 @@ Investment companies registering before november 8, 1983.—In the case of any i
 
 &emsp;&emsp;"(III) registered under the Investment Company Act of 1940 \[15 U.S.C. §80a–1 et seq.\] as either a management company or a unit investment trust, and
 
-&emsp;"(ii) to which the provisions of part I of subchapter M of chapter 1 of the Internal Revenue Code of 1986applied for its first taxable year beginning after November 8, 1983,
+&emsp;"(ii) to which the provisions of part I of subchapter M of chapter 1 of the Internal Revenue Code of 1986 applied for its first taxable year beginning after November 8, 1983,
 
 > for purposes of section 852(a)(3)(A) of such Code (as amended by paragraph (3)), the provisions of part I of subchapter M of chapter 1 of such Code shall be treated as applying to such investment company for its first taxable year ending after November 8, 1983. For purposes of the preceding sentence, all members of an affiliated group (as defined in section 1504(a) of such Code) filing a consolidated return shall be treated as 1 taxpayer."
 
@@ -812,7 +816,7 @@ Amendment by section 301(b)(11) of Pub. L. 95–600 applicable to taxable years 
 
 Amendment by section 362(c) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
-Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1975, see section 701(s)(3) of Pub. L. 95–600, set out as a note under section 851 of this title.
+Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1975,see section 701(s)(3) of Pub. L. 95–600, set out as a note under section 851 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -851,6 +855,4 @@ Act July 11, 1956, ch. 573, §2(b), 70 Stat. 530, provided that: "The amendment 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

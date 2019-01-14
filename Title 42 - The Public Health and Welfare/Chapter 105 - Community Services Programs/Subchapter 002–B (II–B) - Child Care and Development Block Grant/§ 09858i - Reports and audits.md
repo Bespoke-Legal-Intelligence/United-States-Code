@@ -104,7 +104,7 @@
 
 &emsp;Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
-(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(FF), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(FF), June 18, 2008, 122Stat. 1664, 1857, 1859; Pub. L. 113–186, §8(c), (e), Nov. 19, 2014, 128 Stat. 1996, 1998.)
+(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(FF), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(FF), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–186, §8(c), (e), Nov. 19, 2014, 128 Stat. 1996, 1998.)
 
 #### References in Text
 

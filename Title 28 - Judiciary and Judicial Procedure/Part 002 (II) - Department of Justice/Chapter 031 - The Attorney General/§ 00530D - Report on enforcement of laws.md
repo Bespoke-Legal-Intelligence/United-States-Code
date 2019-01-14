@@ -20,7 +20,7 @@ In general.—The Attorney General shall submit to the Congress a report of any 
 
 &emsp;&emsp;&emsp;(ii) to refrain (on the grounds that the provision is unconstitutional) from defending or asserting, in any judicial, administrative, or other proceeding, the constitutionality of any provision of any Federal statute, rule, regulation, program, policy, or other law, or not to appeal or request review of any judicial, administrative, or other determination adversely affecting the constitutionality of any such provision; or
 
-&emsp;&emsp;(C) approves (other than in circumstances in which a report is submitted to the Joint Committee on Taxation, pursuant to section 6405 of the Internal Revenue Code of 1986) thesettlement or compromise (other than in bankruptcy) of any claim, suit, or other action—
+&emsp;&emsp;(C) approves (other than in circumstances in which a report is submitted to the Joint Committee on Taxation, pursuant to section 6405 of the Internal Revenue Code of 1986) the settlement or compromise (other than in bankruptcy) of any claim, suit, or other action—
 
 &emsp;&emsp;&emsp;(i) against the United States (including any agency or instrumentality thereof) for a sum that exceeds, or is likely to exceed, $2,000,000, excluding prejudgment interest; or
 
@@ -80,7 +80,7 @@ Contents.—A report required by subsection (a) shall—
 
 (d)
 
-Declaration.—In the case of a determination described in subsection (a)(1)(B), the representative of the United States participating in the proceeding shall make a clear declaration in the proceeding that any position expressed as to the constitutionality of the provision involvedis the position of the executive branch of the Federal Government (or, as applicable, of the President or of any executive agency or military department).
+Declaration.—In the case of a determination described in subsection (a)(1)(B), the representative of the United States participating in the proceeding shall make a clear declaration in the proceeding that any position expressed as to the constitutionality of the provision involved is the position of the executive branch of the Federal Government (or, as applicable, of the President or of any executive agency or military department).
 
 (e)
 

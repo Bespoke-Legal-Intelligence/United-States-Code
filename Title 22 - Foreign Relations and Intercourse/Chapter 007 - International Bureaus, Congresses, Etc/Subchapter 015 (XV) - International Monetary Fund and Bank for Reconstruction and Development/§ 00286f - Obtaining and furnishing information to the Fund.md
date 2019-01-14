@@ -64,7 +64,7 @@ United States Tariff Commission \[now the United States International Trade Comm
 
 Sec. 3. The Director's determination of any matter under section 1 or section 2(b) of this order shall be made after consulting appropriate Federal executive agencies and giving due consideration to any responsibility now exercised by any of them in relation to an intergovernmental organization.
 
-Sec. 4. This order shall not be construed to authorize the Director or the National Advisory Council to provide, or to require any Federal executive agency to provide, to an intergovernmental organization (a) information during any period of time when the agency havingprimary responsibility for security of the specified information declares that it must be withheld from the intergovernmental organization in the interest of military security, or (b) information which any Federal executive agency is required by law to maintain on a confidential basis.
+Sec. 4. This order shall not be construed to authorize the Director or the National Advisory Council to provide, or to require any Federal executive agency to provide, to an intergovernmental organization (a) information during any period of time when the agency having primary responsibility for security of the specified information declares that it must be withheld from the intergovernmental organization in the interest of military security, or (b) information which any Federal executive agency is required by law to maintain on a confidential basis.
 
 Sec. 5. The Director and the National Advisory Council are authorized to prescribe such regulations as may be necessary to carry out their respective responsibilities under this order.
 

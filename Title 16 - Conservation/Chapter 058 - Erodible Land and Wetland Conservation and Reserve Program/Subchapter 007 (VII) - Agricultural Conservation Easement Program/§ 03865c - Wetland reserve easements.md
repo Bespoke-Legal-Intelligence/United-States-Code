@@ -64,7 +64,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (C) Priority
 
-&emsp;&emsp;The Secretary shall give priority to acquiring wetland reserve easements based on the value of the wetland reserve easement for protecting and enhancing habitat for migratory birds and other wildlife.
+&emsp;&emsp;The Secretary shall give priority to acquiring wetland reserve easements based on the value of the wetland reserve easement for protecting and enhancing habitat for migratory birds and other wildlife or improving water quality.
 
 #### (4) Agreement
 
@@ -90,7 +90,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 &emsp;&emsp;&emsp;(i) permit—
 
-&emsp;&emsp;&emsp;&emsp;(I) repairs, improvements, and inspections on the land that are necessary tomaintain existing public drainage systems; and
+&emsp;&emsp;&emsp;&emsp;(I) repairs, improvements, and inspections on the land that are necessary to maintain existing public drainage systems; and
 
 &emsp;&emsp;&emsp;&emsp;(II) owners to control public access on the easement areas while identifying access routes to be used for restoration activities and management and easement monitoring;
 
@@ -120,7 +120,19 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (C) Compatible uses
 
-&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement of the wetland resources for which the easement was established.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, water management, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement of the wetland resources for which the easement was established.
+
+#### (ii) Compatible use authorization
+
+&emsp;&emsp;&emsp;In evaluating and authorizing a compatible economic use under clause (i), the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) request and consider the advice of the applicable State technical committee established under section 3861(a) of this title about the 1 or more types of uses that may be authorized to be conducted on land subject to a wetland reserve easement, including the frequency, timing, and intensity of those uses;
+
+&emsp;&emsp;&emsp;&emsp;(II) consider the ability of an authorized use to facilitate the practical administration and management of that land; and
+
+&emsp;&emsp;&emsp;&emsp;(III) ensure that an authorized use furthers the functions and values for which the wetland reserve easement was established.
 
 #### (D) Reservation of grazing rights
 
@@ -132,7 +144,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 &emsp;&emsp;&emsp;&emsp;(II) is consistent with the historical natural uses of the land and the long-term protection and enhancement goals for which the easement was established; and
 
-&emsp;&emsp;&emsp;&emsp;(III) complies with the wetland reserve easement plan developed for the land under subsection (f); and
+&emsp;&emsp;&emsp;&emsp;(III) complies with the wetland reserve easement plan developed for the land under subsection (f) or a grazing management plan that is consistent with the wetland reserve easement plan and has been reviewed, and modified as necessary, at least every 5 years; and
 
 &emsp;&emsp;&emsp;(ii) the agreement provides for a commensurate reduction in the easement payment to account for the grazing value, as determined by the Secretary.
 
@@ -172,7 +184,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (1) In general
 
-&emsp;The Secretary shall provide financial assistance to owners of eligible land to carry outthe establishment of conservation measures and practices and protect wetland functions and values, including necessary maintenance activities, as set forth in a wetland reserve easement plan developed for the eligible land under subsection (f).
+&emsp;The Secretary shall provide financial assistance to owners of eligible land to carry out the establishment of conservation measures and practices and protect wetland functions and values, including necessary maintenance activities, as set forth in a wetland reserve easement plan developed for the eligible land under subsection (f).
 
 #### (2) Payments
 
@@ -200,9 +212,27 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 
 #### (1) Wetland reserve easement plan
 
-&emsp;The Secretary shall develop a wetland reserve easement plan for any eligible land subject to a wetland reserve easement, which shall include practices and activities necessary to restore, protect, enhance, and maintain the enrolled land.
+#### (A) In general
 
-#### (2) Delegation of easement administration
+&emsp;&emsp;The Secretary shall develop a wetland reserve easement plan—
+
+&emsp;&emsp;&emsp;(i) for any eligible land subject to a wetland reserve easement; and
+
+&emsp;&emsp;&emsp;(ii) that restores, protects, enhances, manages, maintains, and monitors the eligible land subject to the wetland reserve easements acquired under this section.
+
+#### (B) Practices and activities
+
+&emsp;&emsp;A wetland reserve easement plan under subparagraph (A) shall include practices and activities, including repair or replacement, that are necessary to restore and maintain the enrolled land and the functions and values of the wetland subject to a wetland reserve easement.
+
+#### (2) Alternative plant communities
+
+&emsp;The Secretary, in coordination with State technical committees established under section 3861(a) of this title and pursuant to State-specific criteria and guidelines, may authorize the establishment or restoration of a hydrologically appropriate native community or alternative naturalized vegetative community as part of a wetland reserve easement plan on land subject to a wetland reserve easement if that hydrologically appropriate native or alternative naturalized vegetative community shall—
+
+&emsp;&emsp;(A) substantially support or benefit migratory waterfowl or other wetland wildlife; or
+
+&emsp;&emsp;(B) meet local resource concerns or needs (including as an element of a regional, State, or local wildlife initiative or plan).
+
+#### (3) Delegation of easement administration
 
 #### (A) In general
 
@@ -212,7 +242,7 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 
 &emsp;&emsp;The Secretary shall not delegate any of the monitoring or enforcement responsibilities under this section to conservation organizations.
 
-#### (3) Payments
+#### (4) Payments
 
 #### (A) Timing of payments
 
@@ -230,5 +260,17 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 
 The relevant provisions of this section shall also apply to a 30-year contract.
 
-(Pub. L. 99–198, title XII, §1265C, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 737.)
+(Pub. L. 99–198, title XII, §1265C, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 737; amended Pub. L. 115–334, title II, §2604, Dec. 20, 2018, 132 Stat. 4589.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(3)(C). Pub. L. 115–334, §2604(1)(A), inserted "or improving water quality" before period at end.
+
+Subsec. (b)(5)(C). Pub. L. 115–334, §2604(1)(B)(i), designated existing provisions as cl. (i), inserted heading, inserted "water management," after "managed timber harvest,", and added cl. (ii).
+
+Subsec. (b)(5)(D)(i)(III). Pub. L. 115–334, §2604(1)(B)(ii), inserted "or a grazing management plan that is consistent with the wetland reserve easement plan and has been reviewed, and modified as necessary, at least every 5 years" after "under subsection (f)".
+
+Subsec. (f)(1). Pub. L. 115–334, §2604(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary shall develop a wetland reserve easement plan for any eligible land subject to a wetland reserve easement, which shall include practices and activities necessary to restore, protect, enhance, and maintain the enrolled land."
+
+Subsec. (f)(2) to (4). Pub. L. 115–334, §2604(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

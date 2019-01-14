@@ -18,7 +18,7 @@
 
 #### (B) Use of existing rulings and interpretations
 
-&emsp;&emsp;Nothing in this Act <sup>1</sup> alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
+&emsp;&emsp;Nothing in the Homeland Security Act of 2002 alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of such Act, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
 
 #### \[(b) Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1078\]
 
@@ -26,13 +26,15 @@
 
 Nothing in this section or section 301(f) of title 31 shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078; Pub. L. 107–296, title XI, §1112(k), Nov. 25, 2002, 116 Stat. 2277.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078; Pub. L. 107–296, title XI, §1112(k), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 115–141, div. U, title IV, §401(a)(333), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### References in Text
 
-The effective date of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–141 substituted "the Homeland Security Act of 2002" for "this Act" and "effective date of such Act" for "effective date of the Homeland Security Act of 2002".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -72,7 +74,7 @@ Pub. L. 86–368, §4, Sept. 22, 1959, 73 Stat. 649, provided that the position 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms,including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Order of Succession
 
@@ -87,6 +89,8 @@ Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provi
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
 
 Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
 
@@ -410,7 +414,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(2) To date, the Tax Systems Modernization (TSM) program has cost the taxpayers $2.5 billion, with an estimated cost of $8 billion. Despite this investment, modernization efforts were recently described by the GAO as 'chaotic' and 'ad hoc'.
 
-&emsp;"(3) While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has had to appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
+&emsp;"(3) While the IRS maintains that TSM will increase efficiency and thus revenues, Congress has hadto appropriate additional funds in recent years for compliance initiatives in order to increase tax revenues.
 
 &emsp;"(4) Because TSM has not been implemented, the IRS continues to rely on paper returns, processing a total of 14 billion pieces of paper every tax season. This results in an extremely inefficient system.
 
@@ -518,7 +522,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
-&emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs,subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+&emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
 &emsp;"(2)
 
@@ -626,7 +630,7 @@ Distribution.—The statement prepared in accordance with subsections (a) and (b
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 
-Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by Pub. L. 108–89, title II, §202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
+Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repealby Pub. L. 108–89, title II, §202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
 
 #### Study of Tax Incentives for Expenditures Required by Occupational Safety and Health Administration and Mining Health and Safety Administration
 
@@ -718,7 +722,7 @@ Ex. Ord. No. 13789, Apr. 21, 2017, 82 F.R. 19317, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes of tax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
+Section 1. <i>Policy</i>. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes oftax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
 
 Sec. 2. <i>Addressing Tax Regulatory Burdens</i>. (a) In furtherance of the policy described in section 1 of this order, the Secretary of the Treasury (Secretary) shall immediately review all significant tax regulations issued by the Department of the Treasury on or after January 1, 2016, and, in consultation with the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, identify in an interim report to the President all such regulations that:
 
@@ -747,6 +751,4 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -16,7 +16,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 &emsp;(6) hazardous solid waste, including incidents of damage resulting from the disposal of hazardous solid wastes; inherently and potentially hazardous solid wastes; methods of neutralizing or properly disposing of hazardous solid wastes; facilities that properly dispose of hazardous wastes;
 
-&emsp;(7) methods of financing resource recovery facilities or, sanitary landfills, or hazardous solid waste treatment facilities, whichever is appropriate for the entity developing such facility or landfill (taking into account the amount of solid waste reasonably expected to be available to such entity);
+&emsp;(7) methods of financing resource recovery facilities or, sanitary landfills, or hazardous solid waste treatment facilities, whichever is appropriate for the entity developing such facility or landfill (taking into account theamount of solid waste reasonably expected to be available to such entity);
 
 &emsp;(8) the availability of markets for the purchase of resources, either materials or energy, recovered from solid waste; and
 
@@ -40,7 +40,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 #### (c) Model accounting system
 
-In order to assist State and local governments in determining the cost and revenues associatedwith the collection and disposal of solid waste and with resource recovery operations, the Administrator shall develop and publish a recommended model cost and revenue accounting system applicable to the solid waste management functions of State and local governments. Such system shall be in accordance with generally accepted accounting principles. The Administrator shall periodically, but not less frequently than once every five years, review such accounting system and revise it as necessary.
+In order to assist State and local governments in determining the cost and revenues associated with the collection and disposal of solid waste and with resource recovery operations, the Administrator shall develop and publish a recommended model cost and revenue accounting system applicable to the solid waste management functions of State and local governments. Such system shall be in accordance with generally accepted accounting principles. The Administrator shall periodically, but not less frequently than once every five years, review such accounting system and revise it as necessary.
 
 #### (d) Model codes
 

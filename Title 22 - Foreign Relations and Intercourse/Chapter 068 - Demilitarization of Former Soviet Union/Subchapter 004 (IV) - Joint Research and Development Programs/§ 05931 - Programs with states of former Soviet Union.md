@@ -1,6 +1,6 @@
 ### §5931. Programs with states of former Soviet Union
 
-The Congress encourages the Secretary of Defense to participate actively in joint research and development programs with the independent states of the former Soviet Union through the nongovernmental foundation established for this purpose by section 5861 of this title. To that end, the Secretary of Defense may spend those funds authorized in section 5911(a)(1)(C) of this title for support, technical cooperation, in-kind assistance, and other activities with the following purposes:
+The Congress encourages the Secretary of Defense to participate actively in joint researchand development programs with the independent states of the former Soviet Union through the nongovernmental foundation established for this purpose by section 5861 of this title. To that end, the Secretary of Defense may spend those funds authorized in section 5911(a)(1)(C) of this title for support, technical cooperation, in-kind assistance, and other activities with the following purposes:
 
 &emsp;(1) To advance defense conversion by funding civilian collaborative research and development projects between scientists and engineers in the United States and in the independent states of the former Soviet Union.
 

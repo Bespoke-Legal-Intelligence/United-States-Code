@@ -72,11 +72,31 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (1) In general
 
-&emsp;In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
+#### (A) Assistance
 
-&emsp;&emsp;(A) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+&emsp;&emsp;In addition to any similar authority, the Secretary shall provide—
 
-&emsp;&emsp;(B) to make energy efficiency improvements.
+&emsp;&emsp;&emsp;(i) loan guarantees and grants to agricultural producers and rural small businesses—
+
+&emsp;&emsp;&emsp;&emsp;(I) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to make energy efficiency improvements; and
+
+&emsp;&emsp;&emsp;(ii) loan guarantees to agricultural producers to purchase and install energy efficient equipment or systems for agricultural production or processing that exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) energy efficiency building codes, if applicable;
+
+&emsp;&emsp;&emsp;&emsp;(II) Federal or State energy efficiency standards, if applicable; and
+
+&emsp;&emsp;&emsp;&emsp;(III) other energy efficiency standards determined appropriate by the Secretary.
+
+#### (B) Limitations
+
+&emsp;&emsp;With respect to loan guarantees under subparagraph (A)(ii)—
+
+&emsp;&emsp;&emsp;(i) if no codes or standards described in such subparagraph apply to the energy efficient equipment or system to be purchased or installed pursuant to such subparagraph, the Secretary shall require, to the maximum extent practicable, such equipment or system to meet the same efficiency measurements as the most efficient available equipment or system in the market; and
+
+&emsp;&emsp;&emsp;(ii) the Secretary shall not provide such a loan guarantee for the purchase or installation of any energy efficient equipment or system unless more than one type of such equipment or system is available in the market.
 
 #### (2) Award considerations
 
@@ -110,6 +130,10 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 &emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
 
+#### (D) Loan guarantees for energy efficient equipment to agricultural producers
+
+&emsp;&emsp;Using funds made available under paragraphs (1) and (3) of subsection (f), in each fiscal year the Secretary may use for loan guarantees under paragraph (1)(A)(ii) an amount that does not exceed 15 percent of such funds.
+
 #### (4) Tiered application process
 
 #### (A) In general
@@ -140,17 +164,13 @@ The Secretary shall ensure, to the maximum extent practicable, that adequate out
 
 #### (1) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (2), the Secretary shall use not less than 20 percent of the funds made available under subsection (g) to provide grants of $20,000 or less.
+&emsp;Except as provided in paragraph (2), the Secretary shall use not less than 20 percent of the funds made available under subsection (f) to provide grants of $20,000 or less.
 
 #### (2) Exception
 
-&emsp;Effective beginning on June 30 of each fiscal year, paragraph (1) shall not apply to funds made available under subsection (g) for the fiscal year.
+&emsp;Effective beginning on June 30 of each fiscal year, paragraph (1) shall not apply to funds made available under subsection (f) for the fiscal year.
 
-#### (f) Report
-
-Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.
-
-#### (g) Funding
+#### (f) Funding
 
 #### (1) Mandatory funding
 
@@ -178,13 +198,9 @@ Not later than 4 years after the date of enactment of the Food, Conservation, an
 
 #### (3) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, §701(f)(6), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9007, Feb. 7, 2014, 128 Stat. 930.)
-
-#### References in Text
-
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (f), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, §701(f)(6), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9007, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, §9007, Dec. 20, 2018, 132 Stat. 4886.)
 
 #### Codification
 
@@ -195,6 +211,22 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8107, Pub. L. 107–171, title IX, §9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–334, §9007(1)(A), amended par. (1) generally. Prior to amendment, text read as follows: "In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
+
+&emsp;"(A) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+
+&emsp;"(B) to make energy efficiency improvements."
+
+Subsec. (c)(3)(D). Pub. L. 115–334, §9007(1)(B), added subpar. (D).
+
+Subsec. (e). Pub. L. 115–334, §9007(2), substituted "subsection (f)" for "subsection (g)" in pars. (1) and (2).
+
+Subsec. (f). Pub. L. 115–334, §9007(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section."
+
+Subsec. (f)(3). Pub. L. 115–334, §9007(4), substituted "2019 through 2023" for "2014 through 2018".
+
+Subsec. (g). Pub. L. 115–334, §9007(3), redesignated subsec. (g) as (f).
 
 <b>2014</b>—Subsec. (b)(2)(D), (E). Pub. L. 113–79, §9007(a)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
 

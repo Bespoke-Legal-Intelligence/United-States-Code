@@ -18,7 +18,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (ii) Special rule for multiple qualifying events
 
-&emsp;&emsp;&emsp;If a qualifying event (other than a qualifying event described in section 1163(6) of this title) occurs during the 18 months after the date of a qualifying event described in section 1163(2) of this title, the date which is 36 months after the date of the qualifying event described in section 1163(2) of this title.
+&emsp;&emsp;&emsp;If a qualifying event (other than a qualifying event described in section 1163(6) ofthis title) occurs during the 18 months after the date of a qualifying event described in section 1163(2) of this title, the date which is 36 months after the date of the qualifying event described in section 1163(2) of this title.
 
 #### (iii) Special rule for certain bankruptcy proceedings
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made bythis section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
+Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
 
 Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 

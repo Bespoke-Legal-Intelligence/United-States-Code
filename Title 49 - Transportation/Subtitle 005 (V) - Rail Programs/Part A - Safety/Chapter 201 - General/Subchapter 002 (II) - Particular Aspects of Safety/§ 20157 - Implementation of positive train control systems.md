@@ -130,7 +130,7 @@ Alternative schedule and sequence deadline.—If the Secretary approves a railro
 
 (b)
 
-Technical Assistance.—The Secretary may provide technical assistance and guidance to railroad carriers in developing the plans required under subsection (a).
+Technical Assistance.—The Secretary may provide technical assistance and guidanceto railroad carriers in developing the plans required under subsection (a).
 
 (c)
 
@@ -294,7 +294,7 @@ Plans.—The positive train control safety plan for each railroad carrier or oth
 
 &emsp;(4)
 
-Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location and deadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
+Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier orother entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location and deadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
 
 (k)
 

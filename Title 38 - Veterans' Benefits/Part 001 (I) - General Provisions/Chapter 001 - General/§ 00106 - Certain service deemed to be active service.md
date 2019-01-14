@@ -1,6 +1,6 @@
 ### §106. Certain service deemed to be active service
 
-(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
+(a)(1) Service as a member of the Women's Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943, was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women's Army Auxiliary Corps or the Women's Army Corps shall be considered active dutyfor the purposes of all laws administered by the Secretary.
 
 (2) Any person entitled to compensation or pension by reason of this subsection and to employees' compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
 
@@ -18,7 +18,7 @@
 
 (d)(1) For the purposes of this title, any individual—
 
-&emsp;(A) who, when authorized or required by competent authority, assumes an obligationto perform active duty for training or inactive duty training; and
+&emsp;(A) who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
 
 &emsp;(B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out "by him" after "injury in
 
 <b>1982</b>—Subsec. (a)(2). Pub. L. 97–295, §4(3)(A), substituted "subchapter I of chapter 81 of title 5" for "the Federal Employees' Compensation Act".
 
-Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted "title 5 as a preference eligible described in section 2108(3)(C) of title 5" for "the Act of June 27, 1944, (58 Stat. 387–391), as a person described in section 2(1) of such Act".
+Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted "title 5 as a preference eligible described in section 2108(3)(C)of title 5" for "the Act of June 27, 1944, (58 Stat. 387–391), as a person described in section 2(1) of such Act".
 
 <b>1965</b>—Subsec. (e). Pub. L. 89–311 added subsec. (e).
 

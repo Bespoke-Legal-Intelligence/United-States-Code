@@ -16,7 +16,7 @@ Reserve-component annuity.—The term "reserve-component annuity" means an annui
 
 &emsp;(4)
 
-Retired pay.—The term "retired pay" includes retainer pay paid under section 6330 of this title.
+Retired pay.—The term "retired pay" includes retainer pay paid under section 8330 of this title.
 
 &emsp;(5)
 
@@ -116,13 +116,15 @@ Final decree.—The term "final decree" means a decree from which no appeal may 
 
 Regular on its face.—The term "regular on its face", when used in connection with a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551; Pub. L. 115–91, div. A, title VI, §622(a), Dec. 12, 2017, 131 Stat. 1428.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551; Pub. L. 115–91, div. A, title VI, §622(a), Dec. 12, 2017, 131 Stat. 1428; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### References in Text
 
 Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Amendments
+
+<b>2018</b>—Par. (4). Pub. L. 115–232 substituted "section 8330" for "section 6330".
 
 <b>2017</b>—Par. (6)(A). Pub. L. 115–91 inserted "or 1415(b)(1)(B)" after "section 1409(b)(2)".
 
@@ -172,6 +174,10 @@ Pars. (11) to (13). Pub. L. 99–145, §719(1), added pars. (11) to (13).
 
 <b>1976</b>—Pars. (3)(A), (4)(A). Pub. L. 94–496 substituted "one year" for "two years".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -186,7 +192,7 @@ Pub. L. 99–145, title VII, §731, Nov. 8, 1985, 99 Stat. 678, provided that:
 
 "(a)
 
-Effective Date.—Except as otherwise provided in this title, the amendments made by this title \[seeShort Title of 1985 Amendment note below\] shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].
+Effective Date.—Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1985 Amendment note below\] shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].
 
 "(b)
 
@@ -214,7 +220,7 @@ Pub. L. 94–496, §3, Oct. 14, 1976, 90 Stat. 2376, provided that: "This Act \[
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–189, div. A, title XIV, §1401, Nov. 29, 1989, 103 Stat. 1577, provided that: "This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans' Benefits, and enacting provisions set out as notes under sections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the 'Military Survivor Benefits Improvement Act of 1989'."
+Pub. L. 101–189, div. A, title XIV, §1401, Nov. 29, 1989, 103 Stat. 1577, provided that: "This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans' Benefits, and enacting provisions set out as notes undersections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the 'Military Survivor Benefits Improvement Act of 1989'."
 
 #### Short Title of 1985 Amendment
 

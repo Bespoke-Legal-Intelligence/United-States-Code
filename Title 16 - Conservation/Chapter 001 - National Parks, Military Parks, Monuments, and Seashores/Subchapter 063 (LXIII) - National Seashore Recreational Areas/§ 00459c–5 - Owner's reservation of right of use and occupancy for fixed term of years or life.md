@@ -20,7 +20,7 @@ The Secretary is authorized to accept and manage in accordance with sections 459
 
 Notwithstanding any other provision of law, no fee or admission charge may be levied for admission of the general public to the seashore.
 
-(Pub. L. 87–657, §5, formerly §6, Sept. 13, 1962, 76 Stat. 541; renumbered §5, Pub. L. 91–223, §2(c),Apr. 3, 1970, 84 Stat. 90; amended Pub. L. 95–625, title III, §318(b)–(d), Nov. 10, 1978, 92 Stat. 3487; Pub. L. 96–199, title I, §101(a)(2)–(4), Mar. 5, 1980, 94 Stat. 67.)
+(Pub. L. 87–657, §5, formerly §6, Sept. 13, 1962, 76 Stat. 541; renumbered §5, Pub. L. 91–223, §2(c), Apr. 3, 1970, 84 Stat. 90; amended Pub. L. 95–625, title III, §318(b)–(d), Nov. 10, 1978, 92 Stat. 3487; Pub. L. 96–199, title I, §101(a)(2)–(4), Mar. 5, 1980, 94 Stat. 67.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $5,000;
 
-&emsp;(B) to the political committees established and maintained by a national political party,which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year; or
+&emsp;(B) to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year; or
 
 &emsp;(C) to any other political committee in any calendar year which, in the aggregate, exceed $5,000.
 
@@ -36,7 +36,7 @@
 
 &emsp;(A) contributions to a named candidate made to any political committee authorized by such candidate to accept contributions on his behalf shall be considered to be contributions made to such candidate;
 
-&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, or at the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
+&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, orat the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
 
 &emsp;(ii) expenditures made by any person (other than a candidate or candidate's authorized committee) in cooperation, consultation, or concert with, or at the request or suggestion of, a national, State, or local committee of a political party, shall be considered to be contributions made to such party committee; and
 
@@ -50,7 +50,7 @@
 
 > &emsp;such disbursement or contracting shall be treated as a contribution to the candidate supported by the electioneering communication or that candidate's party and as an expenditure by that candidate or that candidate's party; and
 
-&emsp;(D) contributions made to or for the benefit of any candidate nominated by a politicalparty for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
+&emsp;(D) contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
 
 (8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
 
@@ -106,7 +106,7 @@
 
 #### (d) Expenditures by national committee, State committee, or subordinate committee of State committee in connection with general election campaign of candidates for Federal office
 
-(1) Notwithstanding any other provision of law with respect to limitations on expenditures orlimitations on contributions, the national committee of a political party and a State committee of a political party, including any subordinate committee of a State committee, may make expenditures in connection with the general election campaign of candidates for Federal office, subject to the limitations contained in paragraphs (2), (3), and (4) of this subsection.
+(1) Notwithstanding any other provision of law with respect to limitations on expenditures or limitations on contributions, the national committee of a political party and a State committee of a political party, including any subordinate committee of a State committee, may make expenditures in connection with the general election campaign of candidates for Federal office, subject to the limitations contained in paragraphs (2), (3), and (4) of this subsection.
 
 (2) The national committee of a political party may not make any expenditure in connection with the general election campaign of any candidate for President of the United States who is affiliated with such party which exceeds an amount equal to 2 cents multiplied by the voting age population of the United States (as certified under subsection (e)). Any expenditure under this paragraph shall be in addition to any expenditure by a national committee of a political party serving as the principal campaign committee of a candidate for the office of President of the United States.
 
@@ -148,7 +148,7 @@ During the first week of January 1975, and every subsequent year, the Secretary 
 
 #### (f) Prohibited contributions and expenditures
 
-No candidate or political committee shall knowingly accept any contribution or make any expenditure in violation of the provisions of this section. No officer or employee of a political committee shall knowingly accept a contribution made for the benefit or use of a candidate, or knowingly make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this section.
+No candidate or political committee shall knowingly accept any contribution or make any expenditure in violation of the provisions of thissection. No officer or employee of a political committee shall knowingly accept a contribution made for the benefit or use of a candidate, or knowingly make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this section.
 
 #### (g) Attribution of multi-State expenditures to candidate's expenditure limitation in each State
 
@@ -164,7 +164,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) (in this subsection referred to as the "applicable limit") withrespect to that candidate shall be the increased limit.
+&emsp;&emsp;Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) (in this subsection referred to as the "applicable limit") with respect to that candidate shall be the increased limit.
 
 #### (B) Threshold amount
 
@@ -224,7 +224,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee duringany election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
 
 #### (2) Time to accept contributions under increased limit
 
@@ -326,7 +326,7 @@ Pub. L. 113–235, div. N, §101(c), Dec. 16, 2014, 128 Stat. 2773, provided tha
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–155, title III, §307(e), Mar. 27, 2002, 116 Stat. 103, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to contributions made on or after January 1, 2003."
+Pub. L. 107–155, title III, §307(e), Mar. 27, 2002, 116 Stat. 103, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to contributions made on or after January 1, 2003."
 
 Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendments by sections 102 and 307 of the Act applicable with respect to contributions made on or after Jan. 1, 2003, and amendments by sections 202, 213, 214(a), 304(a), 316, and 319(b) of the Act not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
 

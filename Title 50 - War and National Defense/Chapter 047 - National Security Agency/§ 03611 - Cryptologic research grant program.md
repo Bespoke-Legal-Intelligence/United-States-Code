@@ -6,7 +6,7 @@ The Director of the National Security Agency may make grants to private individu
 
 #### (b) Conduct of program
 
-The grant program established by subsection (a) shall be conducted in accordance with chapter 63 of title 31 to the extent that such chapter is consistent with and in accordance with section 3605 of this title.
+The grant program established by subsection (a) shall be conducted in accordance with chapter 63 of title 31 to the extent that such chapteris consistent with and in accordance with section 3605 of this title.
 
 #### (c) Authority limited to availability of appropriated funds
 

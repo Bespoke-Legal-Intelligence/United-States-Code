@@ -6,7 +6,7 @@ In the performance of his functions the Secretary is authorized to appoint and f
 
 #### (b) Appointment of scientific, engineering, etc., personnel without regard to civil service laws; compensation; termination of authority
 
-(1) Subject to the limitations provided in paragraph (2) and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than three hundred eleven of the scientific, engineering, professional, and administrative personnel ofthe department without regard to the civil service laws, and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
+(1) Subject to the limitations provided in paragraph (2) and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than three hundred eleven of the scientific, engineering, professional, and administrative personnel of the department without regard to the civil service laws, and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
 
 (2) The Secretary's authority under this subsection to appoint an individual to such a position without regard to the civil service laws shall cease—
 

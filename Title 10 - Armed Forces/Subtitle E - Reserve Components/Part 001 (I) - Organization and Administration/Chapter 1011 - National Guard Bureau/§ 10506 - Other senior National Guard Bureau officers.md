@@ -40,7 +40,7 @@ Subsec. (a)(1)(B). Pub. L. 113–291, §512(a)(2), inserted "(after consultation
 
 Subsec. (a)(2). Pub. L. 113–291, §512(b), substituted "The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard," for "The officers so selected".
 
-Subsec. (a)(3)(D), (E). Pub. L. 113–291, §512(c), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
+Subsec. (a)(3)(D), (E). Pub. L. 113–291, §512(c), redesignated subpar. (E) as (D) and struck out former subpar.\(D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted "Chief and Vice Chief" for "Chief of the National Guard Bureau and the Director of the Joint Staff".
 
